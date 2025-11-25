@@ -117,8 +117,8 @@ def run_demo(text: str):
 
 if __name__ == "__main__":
     sample = (
-        "I remember the summer evenings when my husband and I lived in Boston. "
+        "um I remember the beautiful evenings when my husband and I lived in Boston. "
         "We used to sit on the porch and listen to the radio after dinner. "
-        "Those were very beautiful days."
+        "you know Those were very beautiful days."
     )
     run_demo(sample)
