@@ -1,0 +1,99 @@
+{
+  "session_id": "21_Lars",
+  "tone": "Talkative and Detailed (Eager to share every memory)",
+  "profile": {
+    "id": "21_Lars",
+    "name": "Lars",
+    "age": 75,
+    "role": "Fisherman",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "The Great Storm",
+        "context": "Survival at sea."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "Buying his own boat",
+        "context": "Independence."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Overfishing regulations",
+        "context": "Changing industry."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about the Great Storm, Lars."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Ah, the Great Storm. It was back in '63, a night I'll never forget. I was just a young lad, about 15, working on my father's boat. The sky turned a shade of gray I had never seen before. We were out in the North Sea, and the waves... they were monstrous. I remember gripping onto the rigging for dear life, praying we'd make it back to shore. The wind howled like a banshee, and there was this chill in the air that went straight to your bones. My father was a tough man, but even he looked worried.",
+      "sentence_annotations": [
+        {
+          "text": "Ah, the Great Storm. It was back in '63, a night I'll never forget.",
+          "life_stage": "Youth",
+          "event_type": "Natural Disaster",
+          "emotions": [
+            "nostalgia",
+            "fear"
+          ],
+          "entities": [
+            "Great Storm",
+            "1963",
+            "father's boat",
+            "North Sea"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "That must have been hard, gripping onto the rigging like that at such a young age. It sounds like you had quite the experience with the sea early on. So when did things change for you, when did you decide to buy your own boat?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Well, after surviving that storm, I knew the sea was where I belonged, despite the danger. You see, it was around the late '70s, and I had saved up every penny I could get my hands on from years of working alongside my father. I was in my thirties when I finally got enough to buy my own boat. It wasn't much, just a small trawler, but it was mine. The feeling of independence was exhilarating. I named her 'The Seawind' and I was determined to make a living off the waters I had grown to respect and love.",
+      "sentence_annotations": [
+        {
+          "text": "Well, after surviving that storm, I knew the sea was where I belonged, despite the danger.",
+          "life_stage": "Young Adult",
+          "event_type": "Career Decision",
+          "emotions": [
+            "determined",
+            "reflective"
+          ],
+          "entities": [
+            "The Great Storm",
+            "the sea"
+          ]
+        },
+        {
+          "text": "I was in my thirties when I finally got enough to buy my own boat.",
+          "life_stage": "Middle Adulthood",
+          "event_type": "Milestone Achievement",
+          "emotions": [
+            "pride",
+            "excitement"
+          ],
+          "entities": [
+            "boat",
+            "The Seawind"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That sounds like an incredible journey, Lars. So, with your own boat, when did things take a turn with the overfishing regulations?"
+    }
+  ]
+}

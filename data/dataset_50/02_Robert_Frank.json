@@ -1,0 +1,566 @@
+{
+  "session_id": "02_Robert",
+  "tone": "Frank and Direct (No sugar-coating)",
+  "profile": {
+    "id": "02_Robert",
+    "name": "Robert",
+    "age": 85,
+    "role": "Former Coal Miner",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "First day underground",
+        "context": "Fear of the dark."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "The 1974 Strike",
+        "context": "Violence and brotherhood."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Town decline",
+        "context": "Loss of community."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your first day underground as a coal miner."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "My first day underground was something I'll never forget. I was just a lad of 15, nervous as anything. The foreman showed me the ropes, but it was a whole other world down there. Dark, cramped, and the air was heavy. My older brother was with me, which helped. But I can't say I wasn't scared.",
+      "sentence_annotations": [
+        {
+          "text": "My first day underground was something I'll never forget. I was just a lad of 15, nervous as anything.",
+          "life_stage": "Youth",
+          "event_type": "First day at work",
+          "emotions": [
+            "nervous",
+            "scared"
+          ],
+          "entities": [
+            "first day",
+            "underground",
+            "coal miner",
+            "15 years old",
+            "foreman",
+            "older brother"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like having your brother there made a difference. What was it like working alongside him?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Oh, having him there was a blessing. He was more experienced, so I felt a bit more secure. We worked side by side, and he taught me a lot. It was tough work, and sometimes I felt like I was in over my head, but having him around gave me confidence.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, having him there was a blessing. He was more experienced, so I felt a bit more secure. We worked side by side, and he taught me a lot.",
+          "life_stage": "Youth",
+          "event_type": "First Day as a Coal Miner",
+          "emotions": [
+            "Grateful",
+            "Reassured"
+          ],
+          "entities": [
+            "Older Brother",
+            "Foreman"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been hard, especially at such a young age. So, what was the atmosphere like among the miners back then?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "The camaraderie was strong, like a brotherhood. We all looked out for each other because we knew how dangerous the work was. There was a lot of joking around, which helped lighten the mood. But we knew when to be serious, especially when it came to safety.",
+      "sentence_annotations": [
+        {
+          "text": "The camaraderie was strong, like a brotherhood. We all looked out for each other because we knew how dangerous the work was.",
+          "life_stage": "Youth",
+          "event_type": "Work Environment",
+          "emotions": [
+            "Camaraderie",
+            "Vigilance"
+          ],
+          "entities": [
+            "Miners",
+            "Brotherhood",
+            "Safety"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "So when did things change for you as a miner?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Things started to change around the time of the 1974 strike. That was a real turning point. The conditions were getting worse, and we were fighting for better pay and safer working conditions. It was a hard time for everyone, families were struggling because the money wasn't coming in. It was a tense period, but it brought us even closer together.",
+      "sentence_annotations": [
+        {
+          "text": "Things started to change around the time of the 1974 strike. That was a real turning point.",
+          "life_stage": "Adulthood",
+          "event_type": "1974 Strike",
+          "emotions": [
+            "determined",
+            "tense"
+          ],
+          "entities": [
+            "1974 strike",
+            "coal miners",
+            "working conditions"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "The 1974 strike sounds like it was a pivotal moment. How did it all come to a close?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "Well, the strike went on for quite a while, longer than many of us expected. We held out because we believed in what we were fighting for. Eventually, there was a settlement. We got some of what we were demanding, but it wasn't everything we hoped for. After the strike, things felt different though. It felt like the beginning of the end for a lot of the mines around here. They started shutting down not long after.",
+      "sentence_annotations": [
+        {
+          "text": "Eventually, there was a settlement. We got some of what we were demanding, but it wasn't everything we hoped for.",
+          "life_stage": "Adulthood",
+          "event_type": "Strike Resolution",
+          "emotions": [
+            "disappointment",
+            "relief"
+          ],
+          "entities": [
+            "settlement",
+            "demands"
+          ]
+        },
+        {
+          "text": "After the strike, things felt different though. It felt like the beginning of the end for a lot of the mines around here.",
+          "life_stage": "Adulthood",
+          "event_type": "Industrial Decline",
+          "emotions": [
+            "foreboding",
+            "loss"
+          ],
+          "entities": [
+            "mines",
+            "closure"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "The 1974 strike sounds like it was a pivotal moment. How did it all come to a close?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Well, the strike went on for quite a while, longer than many of us expected. We held out because we believed in what we were fighting for. Eventually, there was a settlement. We got some of what we were demanding, but it wasn't everything we hoped for. After the strike, things felt different though. It felt like the beginning of the end for a lot of the mines around here. They started shutting down not long after.",
+      "sentence_annotations": [
+        {
+          "text": "Well, the strike went on for quite a while, longer than many of us expected. We held out because we believed in what we were fighting for.",
+          "life_stage": "Adulthood",
+          "event_type": "1974 Strike",
+          "emotions": [
+            "determination",
+            "disappointment"
+          ],
+          "entities": [
+            "1974 strike",
+            "miners",
+            "settlement"
+          ]
+        },
+        {
+          "text": "Eventually, there was a settlement. We got some of what we were demanding, but it wasn't everything we hoped for.",
+          "life_stage": "Adulthood",
+          "event_type": "1974 Strike",
+          "emotions": [
+            "relief",
+            "disappointment"
+          ],
+          "entities": [
+            "settlement",
+            "demands"
+          ]
+        },
+        {
+          "text": "After the strike, things felt different though. It felt like the beginning of the end for a lot of the mines around here.",
+          "life_stage": "Adulthood",
+          "event_type": "Post-strike changes",
+          "emotions": [
+            "sadness",
+            "foreboding"
+          ],
+          "entities": [
+            "mines",
+            "closures"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "That must have been tough, dealing with the aftermath. What were the main challenges you faced during that time?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "The biggest challenge was uncertainty. The settlement didn't fix everything, and we were always worried about the next paycheck. The fear of losing our jobs was constant. Many men, including myself, had families to feed, and the thought of not being able to provide was terrifying. The mines were closing one by one, and you could feel the anxiety in the air. Everyone was on edge, wondering who would be next to be laid off.",
+      "sentence_annotations": [
+        {
+          "text": "The biggest challenge was uncertainty. The settlement didn't fix everything, and we were always worried about the next paycheck.",
+          "life_stage": "Adulthood",
+          "event_type": "Post-strike challenges",
+          "emotions": [
+            "anxiety",
+            "fear"
+          ],
+          "entities": [
+            "settlement",
+            "paycheck"
+          ]
+        },
+        {
+          "text": "Many men, including myself, had families to feed, and the thought of not being able to provide was terrifying.",
+          "life_stage": "Adulthood",
+          "event_type": "Post-strike challenges",
+          "emotions": [
+            "fear",
+            "terror"
+          ],
+          "entities": [
+            "families",
+            "jobs"
+          ]
+        },
+        {
+          "text": "The mines were closing one by one, and you could feel the anxiety in the air.",
+          "life_stage": "Adulthood",
+          "event_type": "Post-strike challenges",
+          "emotions": [
+            "anxiety"
+          ],
+          "entities": [
+            "mines",
+            "closures"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "That must have been a rough time for everyone. How did you manage to cope with those challenges?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "We had to stick together, that was the key. The community was tight-knit, and everyone was going through the same struggles, so we leaned on each other for support. There were meetings and gatherings where we discussed what to do next. Some men found work in other towns, but it wasn't easy. For those of us who stayed, it was a matter of trying to find odd jobs or relying on whatever shifts we could get. It was a hard adjustment, but we made do with what we had.",
+      "sentence_annotations": [
+        {
+          "text": "We had to stick together, that was the key. The community was tight-knit, and everyone was going through the same struggles, so we leaned on each other for support.",
+          "life_stage": "Adulthood",
+          "event_type": "Community Support",
+          "emotions": [
+            "Solidarity",
+            "Resilience"
+          ],
+          "entities": [
+            "Community",
+            "Support"
+          ]
+        },
+        {
+          "text": "There were meetings and gatherings where we discussed what to do next.",
+          "life_stage": "Adulthood",
+          "event_type": "Community Meetings",
+          "emotions": [
+            "Determination",
+            "Hope"
+          ],
+          "entities": [
+            "Meetings",
+            "Gatherings"
+          ]
+        },
+        {
+          "text": "For those of us who stayed, it was a matter of trying to find odd jobs or relying on whatever shifts we could get.",
+          "life_stage": "Adulthood",
+          "event_type": "Job Search",
+          "emotions": [
+            "Struggle",
+            "Resourcefulness"
+          ],
+          "entities": [
+            "Odd Jobs",
+            "Shifts"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "So, during the strike, what kept you going despite the uncertainty?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "It was the sense of purpose, really. We weren't just fighting for ourselves, but for the future of all miners and their families. That gave us the strength to keep going, even when it seemed like there was no end in sight. Plus, we had the support of the community, which was invaluable. They stood by us, providing food and essentials. It was hard, but knowing we weren't alone made a world of difference.",
+      "sentence_annotations": [
+        {
+          "text": "It was the sense of purpose, really. We weren't just fighting for ourselves, but for the future of all miners and their families.",
+          "life_stage": "Adulthood",
+          "event_type": "1974 Strike",
+          "emotions": [
+            "determination",
+            "solidarity"
+          ],
+          "entities": [
+            "miners",
+            "families"
+          ]
+        },
+        {
+          "text": "Plus, we had the support of the community, which was invaluable.",
+          "life_stage": "Adulthood",
+          "event_type": "1974 Strike",
+          "emotions": [
+            "gratitude",
+            "community"
+          ],
+          "entities": [
+            "community"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "So when the mines started closing down, how did that affect the town?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "It was like watching the heart of the community slowly fade away. The mines were the lifeblood of the town, you see. Once they started to close, businesses suffered, and people began to move elsewhere looking for work. The streets that used to be bustling were emptying out. It was a sad sight. A lot of the places, shops, and pubs that were once filled with life just couldn’t stay open. It wasn't just about losing jobs; it was losing the spirit of the town.",
+      "sentence_annotations": [
+        {
+          "text": "It was like watching the heart of the community slowly fade away.",
+          "life_stage": "Old Age",
+          "event_type": "Town Decline",
+          "emotions": [
+            "sadness",
+            "nostalgia"
+          ],
+          "entities": [
+            "community",
+            "mines",
+            "businesses",
+            "work"
+          ]
+        },
+        {
+          "text": "The mines were the lifeblood of the town, you see.",
+          "life_stage": "Old Age",
+          "event_type": "Town Decline",
+          "emotions": [
+            "loss",
+            "regret"
+          ],
+          "entities": [
+            "mines",
+            "town"
+          ]
+        },
+        {
+          "text": "Once they started to close, businesses suffered, and people began to move elsewhere looking for work.",
+          "life_stage": "Old Age",
+          "event_type": "Town Decline",
+          "emotions": [
+            "displacement",
+            "uncertainty"
+          ],
+          "entities": [
+            "businesses",
+            "work"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "How has all of this affected your perspective on life as you look back now?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "Looking back, it feels like a lifetime ago, but it shaped who I am. The mines taught me resilience and the importance of community. We went through hardships, but we faced them together, which is something I carry with me. It was a different world back then, and while it was tough, I wouldn't trade the experience for anything. It makes you appreciate the simple things in life.",
+      "sentence_annotations": [
+        {
+          "text": "Looking back, it feels like a lifetime ago, but it shaped who I am. The mines taught me resilience and the importance of community. We went through hardships, but we faced them together, which is something I carry with me.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection on Past Experiences",
+          "emotions": [
+            "Nostalgia",
+            "Gratitude"
+          ],
+          "entities": [
+            "mines",
+            "community"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear more about how the changes affected your personal life back then."
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "Well, when the mines started closing, it hit home pretty hard. My family had to tighten our belts, like everyone else. My wife started taking on extra work, sewing and mending for neighbors. We had to be frugal with every penny. The uncertainty was the worst part, not knowing if we'd have enough to make ends meet. It was a constant worry, but we managed somehow. I think it brought us closer as a family, actually. We learned to lean on each other more.",
+      "sentence_annotations": [
+        {
+          "text": "Well, when the mines started closing, it hit home pretty hard.",
+          "life_stage": "Old Age",
+          "event_type": "Economic Hardship",
+          "emotions": [
+            "Struggle",
+            "Resilience"
+          ],
+          "entities": [
+            "Mines",
+            "Family"
+          ]
+        },
+        {
+          "text": "My wife started taking on extra work, sewing and mending for neighbors.",
+          "life_stage": "Old Age",
+          "event_type": "Family Support",
+          "emotions": [
+            "Pride",
+            "Gratitude"
+          ],
+          "entities": [
+            "Wife",
+            "Neighbors"
+          ]
+        },
+        {
+          "text": "The uncertainty was the worst part, not knowing if we'd have enough to make ends meet.",
+          "life_stage": "Old Age",
+          "event_type": "Economic Uncertainty",
+          "emotions": [
+            "Anxiety",
+            "Concern"
+          ],
+          "entities": [
+            "Economic Situation"
+          ]
+        },
+        {
+          "text": "I think it brought us closer as a family, actually.",
+          "life_stage": "Old Age",
+          "event_type": "Family Bonding",
+          "emotions": [
+            "Unity",
+            "Love"
+          ],
+          "entities": [
+            "Family"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 25,
+      "speaker": "Interviewer",
+      "text": "So, with the decline of the town and these personal challenges, did you ever consider leaving to find work elsewhere?"
+    },
+    {
+      "turn_id": 26,
+      "speaker": "Subject",
+      "text": "There were times when I thought about it, especially when things got really tough. But in the end, I couldn't bring myself to leave. This town, with all its memories and history, is a part of me. My roots run deep here. Besides, like I said, the community was tight-knit, and that sense of belonging kept me here. We all stuck together and supported one another, even as things fell apart around us. It wasn't easy, but it felt like the right choice to stay.",
+      "sentence_annotations": [
+        {
+          "text": "There were times when I thought about it, especially when things got really tough. But in the end, I couldn't bring myself to leave.",
+          "life_stage": "Old Age",
+          "event_type": "Town Decline",
+          "emotions": [
+            "nostalgia",
+            "attachment"
+          ],
+          "entities": [
+            "town",
+            "community"
+          ]
+        },
+        {
+          "text": "My roots run deep here. Besides, like I said, the community was tight-knit, and that sense of belonging kept me here.",
+          "life_stage": "Old Age",
+          "event_type": "Town Decline",
+          "emotions": [
+            "belonging",
+            "loyalty"
+          ],
+          "entities": [
+            "community"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 27,
+      "speaker": "Interviewer",
+      "text": "Before we finish, is there a lesson or piece of wisdom you'd like to pass on to future generations?"
+    },
+    {
+      "turn_id": 28,
+      "speaker": "Subject",
+      "text": "If there's one thing I’ve learned, it's the value of sticking together. Life's not always fair or easy, but facing it with your community and loved ones makes all the difference. It's important to stand up for what you believe in, even if it's hard. And never underestimate the strength you have when you're united with others. No matter how tough things get, remember that you're stronger than you think. That's something I hope future generations hold onto.",
+      "sentence_annotations": [
+        {
+          "text": "If there's one thing I’ve learned, it's the value of sticking together. Life's not always fair or easy, but facing it with your community and loved ones makes all the difference. It's important to stand up for what you believe in, even if it's hard. And never underestimate the strength you have when you're united with others. No matter how tough things get, remember that you're stronger than you think. That's something I hope future generations hold onto.",
+          "life_stage": "Old Age",
+          "event_type": "Lifetime Reflection",
+          "emotions": [
+            "Reflective",
+            "Nostalgic"
+          ],
+          "entities": [
+            "community",
+            "strength",
+            "future generations"
+          ]
+        }
+      ]
+    }
+  ]
+}

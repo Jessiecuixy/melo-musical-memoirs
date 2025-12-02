@@ -1,0 +1,537 @@
+{
+  "session_id": "44_Sophie",
+  "tone": "Slightly Wandering and Forgetful (Goes off-topic)",
+  "profile": {
+    "id": "44_Sophie",
+    "name": "Sophie",
+    "age": 73,
+    "role": "Hotel Manager",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "Maid service",
+        "context": "Invisible work."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "The celebrity scandal",
+        "context": "Discretion."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Bed and Breakfast owner",
+        "context": "Personal touch."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your time working in maid service. How did you start?"
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Oh, those were the days! I started in maid service when I was about 19, just after moving to the city. It was quite an adjustment, coming from a small town. I remember my first job was at a large hotel downtown. It was a grand place, but my goodness, the work was quite demanding. There were so many rooms to clean, and we had to be quick and meticulous. The head housekeeper was a stickler for detail, but she taught me a lot about the importance of presentation and cleanliness. I also met so many interesting people from all walks of life. You know, sometimes I think about how different things were back then, especially with all the technology we have now. Oh, and the uniforms... they were these crisp, white dresses that were quite the bother to keep spotless!",
+      "sentence_annotations": [
+        {
+          "text": "I started in maid service when I was about 19, just after moving to the city.",
+          "life_stage": "Youth",
+          "event_type": "Career Start",
+          "emotions": [
+            "Nostalgia",
+            "Amusement"
+          ],
+          "entities": [
+            "Maid Service",
+            "City",
+            "Hotel"
+          ]
+        },
+        {
+          "text": "The head housekeeper was a stickler for detail, but she taught me a lot about the importance of presentation and cleanliness.",
+          "life_stage": "Youth",
+          "event_type": "Mentorship",
+          "emotions": [
+            "Gratitude"
+          ],
+          "entities": [
+            "Head Housekeeper",
+            "Presentation",
+            "Cleanliness"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like you had quite a formative experience there. What was it like meeting all those different people?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Oh yes, it really was! You know, I met some fascinating folks. There was this one lady, a regular guest, who always wore these extravagant hats. She'd tell us all about her travels and grand adventures. It was like listening to stories from a different world. And then there were the businessmen, always in a rush, barely looking up from their papers. I think it gave me an early appreciation for the diversity of people's lives. Funny thing is, sometimes I'd catch a glimpse of a celebrity or two, but I was never much into the gossip. Though there was this one scandal... well, maybe we'll get to that later. Anyway, the city was bustling, and everything felt so alive back then. It's a bit of a blur now, but those interactions really made the job interesting.",
+      "sentence_annotations": [
+        {
+          "text": "You know, I met some fascinating folks.",
+          "life_stage": "Youth",
+          "event_type": "Social Interaction",
+          "emotions": [
+            "Nostalgia",
+            "Curiosity"
+          ],
+          "entities": [
+            "lady with extravagant hats",
+            "businessmen"
+          ]
+        },
+        {
+          "text": "Well, maybe we'll get to that later.",
+          "life_stage": "Youth",
+          "event_type": "Celebrity Encounter",
+          "emotions": [
+            "Amusement",
+            "Intrigue"
+          ],
+          "entities": [
+            "celebrity",
+            "scandal"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been hard, trying to keep those uniforms spotless! So, it sounds like you had quite an eclectic mix of guests. What was the atmosphere like in the hotel during those days?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "Oh, the atmosphere was quite something! It was always buzzing with energy. There was a certain elegance to it, you know? The lobby was grand and always filled with the clinking of glasses and the soft hum of conversation. I remember the chandeliers, they sparkled like stars. And the staff, we all worked hard, but there was a camaraderie among us. We became like a little family, sharing laughs and sometimes even tears. Yes, it was a place of luxury, but behind the scenes, it was a lot of hard work. Yet, the sense of being part of something bigger, that's what kept us going. It was a different world, really. Oh, and speaking of different worlds, there was this one occasion... but I might be getting ahead of myself.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, the atmosphere was quite something! It was always buzzing with energy.",
+          "life_stage": "Youth",
+          "event_type": "Work Experience",
+          "emotions": [
+            "Nostalgia",
+            "Camaraderie"
+          ],
+          "entities": [
+            "hotel",
+            "staff",
+            "guests",
+            "chandeliers"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "It sounds like you really treasured those connections with your colleagues. I'd love to hear about that occasion you mentioned, if you'd like to share."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Oh yes, those connections were really special. Well, this one occasion is quite memorable! There was a big gala event happening at the hotel, and we were all on high alert to make sure everything ran smoothly. I remember the anticipation in the air, everyone dressed to the nines. There was a famous actor attending, and oh, the buzz around his presence was just electrifying! But it was also a bit chaotic. One of my colleagues, bless her heart, accidentally spilled a tray of champagne right in front of him. We were all mortified! But the actor, he was so gracious, laughed it off, and even helped clean up. It was a moment that taught me about grace under pressure. And you know, these little incidents, they brought us even closer as a team. We laughed about it for weeks afterwards.",
+      "sentence_annotations": [
+        {
+          "text": "Oh yes, those connections were really special. Well, this one occasion is quite memorable! There was a big gala event happening at the hotel, and we were all on high alert to make sure everything ran smoothly. I remember the anticipation in the air, everyone dressed to the nines. There was a famous actor attending, and oh, the buzz around his presence was just electrifying! But it was also a bit chaotic. One of my colleagues, bless her heart, accidentally spilled a tray of champagne right in front of him. We were all mortified! But the actor, he was so gracious, laughed it off, and even helped clean up. It was a moment that taught me about grace under pressure. And you know, these little incidents, they brought us even closer as a team. We laughed about it for weeks afterwards.",
+          "life_stage": "Youth",
+          "event_type": "Work incident",
+          "emotions": [
+            "Nostalgia",
+            "Amusement"
+          ],
+          "entities": [
+            "Gala event",
+            "Famous actor",
+            "Champagne spill"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "That sounds like such a lively environment to work in. So, how did your time in maid service come to an end?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "Ah, well, everything must come to an end, right? My time in maid service ended when I got an opportunity to work in a more specialized role within the hotel. There was a position that opened up in the hotel’s events team, and I jumped at the chance. It felt like the right time to move on, and I wanted to try something new. I had learned so much from my time as a maid, especially about attention to detail, and I thought it would be perfect for planning and organizing events. Oh, and speaking of events, I remember there was this one wedding... but maybe I’ll save that story for another time. Anyway, it was both exciting and a bit nerve-wracking to move into a new role. Things were changing quickly back then, and I had to adapt.",
+      "sentence_annotations": [
+        {
+          "text": "My time in maid service ended when I got an opportunity to work in a more specialized role within the hotel.",
+          "life_stage": "Young Adult",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Excitement",
+            "Nervousness"
+          ],
+          "entities": [
+            "maid service",
+            "hotel",
+            "events team"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "So when did things change?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Oh, things certainly took a turn when I got involved in planning events. You see, it wasn't long after I joined the event team that the hotel became the talk of the town due to a rather scandalous incident involving a celebrity. We had this popular rock band staying with us, and one morning, the entire lobby was swarming with paparazzi. Turns out, one of the band members had been caught in a rather compromising situation with a fellow guest. It was all over the news! The hotel had to manage the chaos, and I was right in the middle of it all, coordinating with security and trying to keep everything under control. It was a whirlwind, and quite stressful, but it taught me a lot about crisis management and the importance of staying calm under pressure. That incident, as crazy as it was, really shaped my approach to handling challenges in the hospitality industry. I guess it was a baptism by fire!",
+      "sentence_annotations": [
+        {
+          "text": "Oh, things certainly took a turn when I got involved in planning events. You see, it wasn't long after I joined the event team that the hotel became the talk of the town due to a rather scandalous incident involving a celebrity.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Excitement",
+            "Stress"
+          ],
+          "entities": [
+            "hotel",
+            "event team",
+            "celebrity"
+          ]
+        },
+        {
+          "text": "We had this popular rock band staying with us, and one morning, the entire lobby was swarming with paparazzi. Turns out, one of the band members had been caught in a rather compromising situation with a fellow guest.",
+          "life_stage": "Adulthood",
+          "event_type": "Scandal",
+          "emotions": [
+            "Surprise",
+            "Anxiety"
+          ],
+          "entities": [
+            "rock band",
+            "paparazzi",
+            "guest"
+          ]
+        },
+        {
+          "text": "The hotel had to manage the chaos, and I was right in the middle of it all, coordinating with security and trying to keep everything under control.",
+          "life_stage": "Adulthood",
+          "event_type": "Crisis Management",
+          "emotions": [
+            "Nervousness",
+            "Determination"
+          ],
+          "entities": [
+            "hotel",
+            "security"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "That must have been a challenging time for you. How did the team handle the aftermath of such a public scandal?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "Oh, it was definitely a challenging time! The whole team had to pull together to manage the situation. There was a lot of media attention, and we had to ensure that the guests' privacy was protected while also maintaining the hotel's reputation. We had meetings with the hotel management to figure out the best way to handle the press, and we had to set up additional security measures to keep the paparazzi at bay. It was a bit overwhelming, but everyone on the team worked tirelessly to make sure things were under control. It was one of those situations where you really see the strength of your team, and I was so proud of how we all supported each other. You know, looking back, it's funny how things like that stick with you, even when everything else becomes a blur. I learned so much about teamwork and resilience during that time. And oh, the band, they were quite apologetic about the whole thing! They even sent us flowers and a thank you note afterwards.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, it was definitely a challenging time! The whole team had to pull together to manage the situation. There was a lot of media attention, and we had to ensure that the guests' privacy was protected while also maintaining the hotel's reputation. We had meetings with the hotel management to figure out the best way to handle the press, and we had to set up additional security measures to keep the paparazzi at bay. It was a bit overwhelming, but everyone on the team worked tirelessly to make sure things were under control. It was one of those situations where you really see the strength of your team, and I was so proud of how we all supported each other. You know, looking back, it's funny how things like that stick with you, even when everything else becomes a blur. I learned so much about teamwork and resilience during that time. And oh, the band, they were quite apologetic about the whole thing! They even sent us flowers and a thank you note afterwards.",
+          "life_stage": "Adulthood",
+          "event_type": "Celebrity Scandal",
+          "emotions": [
+            "Pride",
+            "Overwhelm"
+          ],
+          "entities": [
+            "media",
+            "hotel management",
+            "paparazzi",
+            "privacy",
+            "security",
+            "teamwork",
+            "rock band"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "That must have been a challenging time for you. How did the team handle the aftermath of such a public scandal?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Oh, it was definitely a challenging time! The whole team had to pull together to manage the situation. There was a lot of media attention, and we had to ensure that the guests' privacy was protected while also maintaining the hotel's reputation. We had meetings with the hotel management to figure out the best way to handle the press, and we had to set up additional security measures to keep the paparazzi at bay. It was a bit overwhelming, but everyone on the team worked tirelessly to make sure things were under control. It was one of those situations where you really see the strength of your team, and I was so proud of how we all supported each other. You know, looking back, it's funny how things like that stick with you, even when everything else becomes a blur. I learned so much about teamwork and resilience during that time. And oh, the band, they were quite apologetic about the whole thing! They even sent us flowers and a thank you note afterwards.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, it was definitely a challenging time! The whole team had to pull together to manage the situation. There was a lot of media attention, and we had to ensure that the guests' privacy was protected while also maintaining the hotel's reputation. We had meetings with the hotel management to figure out the best way to handle the press, and we had to set up additional security measures to keep the paparazzi at bay. It was a bit overwhelming, but everyone on the team worked tirelessly to make sure things were under control. It was one of those situations where you really see the strength of your team, and I was so proud of how we all supported each other. You know, looking back, it's funny how things like that stick with you, even when everything else becomes a blur. I learned so much about teamwork and resilience during that time. And oh, the band, they were quite apologetic about the whole thing! They even sent us flowers and a thank you note afterwards.",
+          "life_stage": "Adulthood",
+          "event_type": "Celebrity Scandal",
+          "emotions": [
+            "Pride",
+            "Overwhelm",
+            "Resilience"
+          ],
+          "entities": [
+            "media",
+            "hotel management",
+            "paparazzi",
+            "band"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "That must have been quite an experience! How did that situation affect your future roles in the hotel industry?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Oh, it was an experience, alright! You know, dealing with that scandal really made me realize how unpredictable the hospitality industry can be. It taught me to always expect the unexpected and be prepared for anything. After that incident, I felt much more confident in handling difficult situations. It actually opened doors for me, surprisingly. I got recognized for my crisis management skills, and soon after, I was promoted to a managerial role. I think the management saw that I could handle the pressure and adapt quickly. It was a turning point for my career, really. And, you know, now that I think about it, it reminds me of this other time when we had to... oh, but I'm getting off track again. Anyway, the point is, being thrown into the deep end like that really shaped my career in ways I hadn't expected.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, it was an experience, alright! You know, dealing with that scandal really made me realize how unpredictable the hospitality industry can be.",
+          "life_stage": "Adulthood",
+          "event_type": "Celebrity scandal",
+          "emotions": [
+            "Reflective",
+            "Grateful"
+          ],
+          "entities": [
+            "hospitality industry"
+          ]
+        },
+        {
+          "text": "I got recognized for my crisis management skills, and soon after, I was promoted to a managerial role.",
+          "life_stage": "Adulthood",
+          "event_type": "Career advancement",
+          "emotions": [
+            "Proud",
+            "Accomplished"
+          ],
+          "entities": [
+            "crisis management",
+            "managerial role"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear how you transitioned from that managerial role to becoming a Bed and Breakfast owner. What inspired that change?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Oh, becoming a Bed and Breakfast owner, now that was quite the journey! You see, after years of managing hotels, I found myself longing for something a bit more personal, more intimate. I wanted to create a space where I could connect with guests on a deeper level, rather like a home away from home. The idea just grew on me, and one day, I found this charming little property not too far from the city. It needed a lot of work, mind you, but I saw the potential. I thought, why not turn it into a cozy Bed and Breakfast? I had all this experience in hospitality, and I was ready for a new challenge. Oh, and isn't it funny how things come full circle? I often think back to my early days in maid service, and I feel like everything has led me here, to this place where I can really make a difference in people's stays. Anyway, it wasn't easy at first, getting everything up and running. There were so many little details to consider! But, you know, seeing the joy on guests' faces makes it all worthwhile.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, becoming a Bed and Breakfast owner, now that was quite the journey! You see, after years of managing hotels, I found myself longing for something a bit more personal, more intimate.",
+          "life_stage": "Old Age",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Reflective",
+            "Nostalgic"
+          ],
+          "entities": [
+            "Bed and Breakfast",
+            "Hotel Management"
+          ]
+        },
+        {
+          "text": "The idea just grew on me, and one day, I found this charming little property not too far from the city. It needed a lot of work, mind you, but I saw the potential.",
+          "life_stage": "Old Age",
+          "event_type": "Property Acquisition",
+          "emotions": [
+            "Hopeful",
+            "Determined"
+          ],
+          "entities": [
+            "Property",
+            "City"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "That sounds like a fulfilling transition. What kind of atmosphere did you aim to create at your Bed and Breakfast?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "Oh, it truly was fulfilling! I wanted the Bed and Breakfast to feel warm and inviting, like stepping into a beloved friend's home. You know, with comfy furniture, fresh flowers, and homemade breakfast treats. I think it was important for guests to feel relaxed and cherished. I remember spending hours choosing the right color schemes and decor to make each room special. It was a creative outlet for me, really. Sometimes I'd get carried away with little details, like finding the perfect teacup set. Oh, and the garden! I can't forget the garden. I planted roses and lavender, just like my grandmother used to have. The fragrance on a summer morning is something else. It's these little touches that I think make a stay memorable. Anyway, creating that sense of home and warmth was my goal, and I think I managed to achieve it.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, it truly was fulfilling! I wanted the Bed and Breakfast to feel warm and inviting, like stepping into a beloved friend's home. You know, with comfy furniture, fresh flowers, and homemade breakfast treats.",
+          "life_stage": "Old Age",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Fulfillment",
+            "Nostalgia"
+          ],
+          "entities": [
+            "Bed and Breakfast",
+            "Home"
+          ]
+        },
+        {
+          "text": "Oh, and the garden! I can't forget the garden. I planted roses and lavender, just like my grandmother used to have.",
+          "life_stage": "Old Age",
+          "event_type": "Personal Touch",
+          "emotions": [
+            "Nostalgia",
+            "Joy"
+          ],
+          "entities": [
+            "Garden",
+            "Roses",
+            "Lavender",
+            "Grandmother"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "It sounds like you found your calling. How has running the Bed and Breakfast been different from managing a hotel?"
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "Oh, running the Bed and Breakfast is a whole different ballgame! You know, in a hotel, there's a whole team of people to handle different aspects, but with a B&B, it's much more hands-on. I have to juggle everything from cooking breakfast to checking in guests, and sometimes even fixing a leaky tap! It's a bit like being a jack-of-all-trades, really. I think what's most different is the personal connection with guests. In hotels, everything can feel a bit impersonal, but here, I get to know my guests, hear their stories, and sometimes even form friendships. It's rewarding in a way that's hard to put into words. Of course, it can be exhausting at times, especially when we have a full house, but the satisfaction of knowing you've made someone feel at home is worth it. And, oh, talking about making people feel at home, there was this one couple from France... but perhaps that's a story for another time. Anyway, it's been an adventure, that's for sure.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, running the Bed and Breakfast is a whole different ballgame!",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "nostalgic",
+            "fulfilled"
+          ],
+          "entities": [
+            "Bed and Breakfast",
+            "Hotel Management"
+          ]
+        },
+        {
+          "text": "You know, in a hotel, there's a whole team of people to handle different aspects, but with a B&B, it's much more hands-on.",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "reflective",
+            "appreciative"
+          ],
+          "entities": [
+            "Hotel",
+            "Bed and Breakfast"
+          ]
+        },
+        {
+          "text": "It's a bit like being a jack-of-all-trades, really.",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "humorous",
+            "adaptable"
+          ],
+          "entities": [
+            "Bed and Breakfast"
+          ]
+        },
+        {
+          "text": "I think what's most different is the personal connection with guests.",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "connected",
+            "appreciative"
+          ],
+          "entities": [
+            "Guests"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 25,
+      "speaker": "Interviewer",
+      "text": "That sounds like such a rewarding experience. How do you feel about the journey you've taken from maid service to running your own Bed and Breakfast?"
+    },
+    {
+      "turn_id": 26,
+      "speaker": "Subject",
+      "text": "Oh, it's been quite a journey, really! When I think back to those early days in maid service, who would have thought it would lead me here? It's funny, life has a way of surprising us, doesn't it? I feel incredibly grateful for all the experiences, the ups and downs. Each stage taught me something valuable. You know, I often reminisce about those grand hotel lobbies and the sense of togetherness with my colleagues, and now, here I am, creating my own little haven for others. It's fulfilling, knowing that I've come full circle and can offer guests something special. But, oh, I do ramble on! I suppose what I'm trying to say is that I feel content. Content and proud of the path I've walked.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, it's been quite a journey, really! When I think back to those early days in maid service, who would have thought it would lead me here?",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "Gratitude",
+            "Contentment"
+          ],
+          "entities": [
+            "Maid Service",
+            "Bed and Breakfast"
+          ]
+        },
+        {
+          "text": "You know, I often reminisce about those grand hotel lobbies and the sense of togetherness with my colleagues, and now, here I am, creating my own little haven for others.",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "Nostalgia",
+            "Fulfillment"
+          ],
+          "entities": [
+            "Hotel",
+            "Colleagues",
+            "Bed and Breakfast"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 27,
+      "speaker": "Interviewer",
+      "text": "Before we finish, Sophie, reflecting on your journey from maid service through all these experiences, what would you say is the biggest lesson you've learned?"
+    },
+    {
+      "turn_id": 28,
+      "speaker": "Subject",
+      "text": "Oh, that's quite the question! You know, I think the biggest lesson I've learned is about embracing change and staying adaptable. Life throws all sorts of things our way, and it's so important to keep an open heart and mind, to be ready to pivot when necessary. I mean, from handling a celebrity scandal to running a charming Bed and Breakfast, each phase required its own set of skills and a willingness to learn. And, oh, never underestimate the power of kindness and connection. Whether it's with your team or your guests, it's those relationships that truly enrich our lives. And, goodness, I've had my share of surprises and adventures! But I wouldn't trade any of it. It's all part of the tapestry of life, isn't it?",
+      "sentence_annotations": [
+        {
+          "text": "I've had my share of surprises and adventures! But I wouldn't trade any of it.",
+          "life_stage": "Old Age",
+          "event_type": "Life Reflection",
+          "emotions": [
+            "Gratitude",
+            "Contentment"
+          ],
+          "entities": [
+            "celebrity scandal",
+            "Bed and Breakfast"
+          ]
+        }
+      ]
+    }
+  ]
+}

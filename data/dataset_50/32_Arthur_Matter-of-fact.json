@@ -1,0 +1,473 @@
+{
+  "session_id": "32_Arthur",
+  "tone": "Matter-of-fact (Treats the interview like a report)",
+  "profile": {
+    "id": "32_Arthur",
+    "name": "Arthur",
+    "age": 77,
+    "role": "Banker",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "Wall Street 80s",
+        "context": "Greed and excess."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "The 2008 Crash",
+        "context": "Guilt and panic."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Charity work",
+        "context": "Atonement."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your experiences on Wall Street during the 1980s."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Ah, the 80s on Wall Street were something else. It was a time of excess and ambition, where the sky felt like the limit. I was a young banker then, and the energy was palpable. We were all about big deals, fast deals. The culture was competitive, sometimes ruthless, but incredibly rewarding for those who were driven.",
+      "sentence_annotations": [
+        {
+          "text": "Ah, the 80s on Wall Street were something else.",
+          "life_stage": "Early Career",
+          "event_type": "Work Experience",
+          "emotions": [
+            "Nostalgia",
+            "Excitement"
+          ],
+          "entities": [
+            "Wall Street",
+            "1980s"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like a dynamic period. What was your day-to-day like during that time?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "My day-to-day was hectic, to say the least. We were constantly on the move, starting early in the morning and often working late into the night. Each day was a mix of meetings, calls, and strategy sessions. The pressure was immense, but it was all part of the thrill. You had to stay sharp and be ready to seize any opportunity that came your way.",
+      "sentence_annotations": [
+        {
+          "text": "My day-to-day was hectic, to say the least. We were constantly on the move, starting early in the morning and often working late into the night. Each day was a mix of meetings, calls, and strategy sessions.",
+          "life_stage": "Career",
+          "event_type": "Professional Life",
+          "emotions": [
+            "excited",
+            "pressured"
+          ],
+          "entities": [
+            "meetings",
+            "calls",
+            "strategy sessions"
+          ]
+        },
+        {
+          "text": "The pressure was immense, but it was all part of the thrill.",
+          "life_stage": "Career",
+          "event_type": "Work Culture",
+          "emotions": [
+            "thrilled",
+            "pressured"
+          ],
+          "entities": [
+            "pressure",
+            "thrill"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been hard to keep up with. So when did things change for you on Wall Street?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "Well, by the late 80s, you could feel the shift starting. The market was taking on a different tone, and regulations were beginning to tighten. For me personally, the change became more evident in the early 90s. I began to feel the weight of constant pressure. It wasn't just about the deals anymore; it was about sustainability and finding a balance. Eventually, I decided it was time to step back a bit and reassess my priorities.",
+      "sentence_annotations": [
+        {
+          "text": "Well, by the late 80s, you could feel the shift starting. The market was taking on a different tone, and regulations were beginning to tighten.",
+          "life_stage": "Early Career",
+          "event_type": "Market Changes",
+          "emotions": [
+            "Reflective",
+            "Realistic"
+          ],
+          "entities": [
+            "Wall Street",
+            "late 80s",
+            "regulations"
+          ]
+        },
+        {
+          "text": "For me personally, the change became more evident in the early 90s. I began to feel the weight of constant pressure. It wasn't just about the deals anymore; it was about sustainability and finding a balance.",
+          "life_stage": "Mid Career",
+          "event_type": "Personal Realization",
+          "emotions": [
+            "Introspective",
+            "Determined"
+          ],
+          "entities": [
+            "early 90s",
+            "pressure",
+            "sustainability",
+            "balance"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "So when did things change for you on Wall Street?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Well, by the late 80s, you could feel the shift starting. The market was taking on a different tone, and regulations were beginning to tighten. For me personally, the change became more evident in the early 90s. I began to feel the weight of constant pressure. It wasn't just about the deals anymore; it was about sustainability and finding a balance. Eventually, I decided it was time to step back a bit and reassess my priorities.",
+      "sentence_annotations": [
+        {
+          "text": "By the late 80s, you could feel the shift starting. The market was taking on a different tone, and regulations were beginning to tighten.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Reflective",
+            "Pragmatic"
+          ],
+          "entities": [
+            "Wall Street",
+            "Market",
+            "Regulations"
+          ]
+        },
+        {
+          "text": "For me personally, the change became more evident in the early 90s. I began to feel the weight of constant pressure.",
+          "life_stage": "Adulthood",
+          "event_type": "Personal Realization",
+          "emotions": [
+            "Overwhelmed",
+            "Introspective"
+          ],
+          "entities": [
+            "Early 90s",
+            "Pressure"
+          ]
+        },
+        {
+          "text": "It wasn't just about the deals anymore; it was about sustainability and finding a balance.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "Balanced",
+            "Thoughtful"
+          ],
+          "entities": [
+            "Sustainability",
+            "Balance"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "What were some of the core challenges you faced, particularly leading up to the 2008 crash?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "The years leading up to the 2008 crash were quite challenging. I had moved into a senior position by then and was responsible for managing large portfolios. One of the biggest challenges was navigating the increasingly complex financial instruments that were becoming prevalent. There was a lot of pressure to show returns, and the market was becoming more volatile. I had to ensure that our strategies were sound and that we weren't overexposed. The crash itself was a wake-up call. It was devastating to see the impact on the economy, and it was clear that changes were needed in how we approached risk and regulation.",
+      "sentence_annotations": [
+        {
+          "text": "The years leading up to the 2008 crash were quite challenging. I had moved into a senior position by then and was responsible for managing large portfolios.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Challenge",
+          "emotions": [
+            "Concerned",
+            "Responsible"
+          ],
+          "entities": [
+            "2008 crash",
+            "senior position",
+            "large portfolios"
+          ]
+        },
+        {
+          "text": "One of the biggest challenges was navigating the increasingly complex financial instruments that were becoming prevalent. There was a lot of pressure to show returns, and the market was becoming more volatile.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Challenge",
+          "emotions": [
+            "Tense",
+            "Under pressure"
+          ],
+          "entities": [
+            "financial instruments",
+            "market volatility"
+          ]
+        },
+        {
+          "text": "The crash itself was a wake-up call. It was devastating to see the impact on the economy, and it was clear that changes were needed in how we approached risk and regulation.",
+          "life_stage": "Adulthood",
+          "event_type": "Major Event",
+          "emotions": [
+            "Devastated",
+            "Reflective"
+          ],
+          "entities": [
+            "2008 crash",
+            "economy",
+            "risk",
+            "regulation"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "The crash itself must have been a turning point. How did you personally navigate that period?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "The 2008 crash was indeed a significant turning point. Personally, it was a period of intense reflection. I had to reassess our approaches and find ways to mitigate the damage. There was a lot of pressure to stabilize portfolios and reassure clients. It was a time of sleepless nights and difficult decisions. We had to be transparent with our clients and adjust our strategies to align with the new economic realities. It was a challenging phase, but it taught me a lot about resilience and the importance of ethical practices in banking.",
+      "sentence_annotations": [
+        {
+          "text": "The 2008 crash was indeed a significant turning point. Personally, it was a period of intense reflection. I had to reassess our approaches and find ways to mitigate the damage.",
+          "life_stage": "Adulthood",
+          "event_type": "Economic Event",
+          "emotions": [
+            "Reflective",
+            "Determined"
+          ],
+          "entities": [
+            "2008 crash",
+            "Banking"
+          ]
+        },
+        {
+          "text": "It was a time of sleepless nights and difficult decisions. We had to be transparent with our clients and adjust our strategies to align with the new economic realities.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Challenge",
+          "emotions": [
+            "Stressed",
+            "Resilient"
+          ],
+          "entities": [
+            "Clients",
+            "Strategies"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about how you transitioned into charity work after your banking career."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "After the 2008 crash and the years that followed, I realized that I wanted to shift my focus to something more meaningful. The financial world had been my life for so long, but I felt a strong pull to give back to the community. I retired from banking and started getting involved with various charitable organizations. At first, I volunteered my time and offered financial expertise, and then I began to take on more active roles. It was a natural transition for me, from managing financial assets to helping manage resources for causes I cared about.",
+      "sentence_annotations": [
+        {
+          "text": "After the 2008 crash and the years that followed, I realized that I wanted to shift my focus to something more meaningful. The financial world had been my life for so long, but I felt a strong pull to give back to the community.",
+          "life_stage": "Old Age",
+          "event_type": "Career Transition",
+          "emotions": [
+            "reflective",
+            "purposeful"
+          ],
+          "entities": [
+            "2008 crash",
+            "financial world",
+            "community"
+          ]
+        },
+        {
+          "text": "I retired from banking and started getting involved with various charitable organizations. At first, I volunteered my time and offered financial expertise, and then I began to take on more active roles.",
+          "life_stage": "Old Age",
+          "event_type": "Retirement",
+          "emotions": [
+            "fulfillment",
+            "satisfaction"
+          ],
+          "entities": [
+            "banking",
+            "charitable organizations",
+            "financial expertise"
+          ]
+        },
+        {
+          "text": "It was a natural transition for me, from managing financial assets to helping manage resources for causes I cared about.",
+          "life_stage": "Old Age",
+          "event_type": "Philanthropy",
+          "emotions": [
+            "contentment"
+          ],
+          "entities": [
+            "financial assets",
+            "resources",
+            "causes"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "How has your perspective on your career changed now that you've transitioned into charity work?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Reflecting on my career, I see it as a journey that taught me so much about the world and myself. Working on Wall Street was exhilarating, but it also had its costs. The 2008 crash was a wake-up call, and it pushed me towards seeking a more balanced and purposeful life. Charity work has been fulfilling, as it allows me to use my skills in a way that directly benefits others. It's rewarding to see the tangible impact of our efforts. I've learned that while financial success is important, the true measure of a career lies in the positive change it brings to others.",
+      "sentence_annotations": [
+        {
+          "text": "Reflecting on my career, I see it as a journey that taught me so much about the world and myself.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "nostalgia",
+            "gratitude"
+          ],
+          "entities": [
+            "career",
+            "Wall Street"
+          ]
+        },
+        {
+          "text": "Charity work has been fulfilling, as it allows me to use my skills in a way that directly benefits others.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "fulfillment",
+            "purpose"
+          ],
+          "entities": [
+            "charity work",
+            "skills"
+          ]
+        },
+        {
+          "text": "I've learned that while financial success is important, the true measure of a career lies in the positive change it brings to others.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "enlightenment"
+          ],
+          "entities": [
+            "financial success",
+            "career"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "That must have been quite a shift, moving from high finance to charity work. How did you find that transition personally?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "The transition from banking to charity work was surprisingly smooth for me. I think it was because I was ready for a change after decades in the financial sector. It felt like I was finally aligning my work with my personal values. In banking, success was often measured in numbers and profits, whereas in charity, it's the direct impact on lives that counts. Both require careful management and strategic thinking, but the outcomes are different. I found it refreshing to focus on community impact rather than just financial gain. It gave me a renewed sense of purpose.",
+      "sentence_annotations": [
+        {
+          "text": "The transition from banking to charity work was surprisingly smooth for me. I think it was because I was ready for a change after decades in the financial sector.",
+          "life_stage": "Old Age",
+          "event_type": "Career Change",
+          "emotions": [
+            "Contentment",
+            "Purpose"
+          ],
+          "entities": [
+            "banking",
+            "charity work"
+          ]
+        },
+        {
+          "text": "I found it refreshing to focus on community impact rather than just financial gain. It gave me a renewed sense of purpose.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Fulfillment",
+            "Purpose"
+          ],
+          "entities": [
+            "community impact"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "Before we finish, Arthur, if you were to give a final lesson or piece of advice from your journey, what would that be?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "From my journey, the most important lesson I've learned is the value of integrity and adaptability. Whether in banking or charity work, staying true to your principles and being willing to adapt to change is crucial. The financial world taught me the importance of being diligent and ethical, especially during challenging times like the 2008 crash, while my time in charity has shown me the power of compassion and community. Success isn't just about personal gain but about contributing positively to the world around you.",
+      "sentence_annotations": [
+        {
+          "text": "The most important lesson I've learned is the value of integrity and adaptability.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "wisdom",
+            "satisfaction"
+          ],
+          "entities": [
+            "integrity",
+            "adaptability",
+            "banking",
+            "charity"
+          ]
+        },
+        {
+          "text": "The financial world taught me the importance of being diligent and ethical, especially during challenging times like the 2008 crash.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "insight",
+            "gratitude"
+          ],
+          "entities": [
+            "diligence",
+            "ethics",
+            "2008 crash"
+          ]
+        },
+        {
+          "text": "My time in charity has shown me the power of compassion and community.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "compassion",
+            "fulfillment"
+          ],
+          "entities": [
+            "charity",
+            "compassion",
+            "community"
+          ]
+        }
+      ]
+    }
+  ]
+}

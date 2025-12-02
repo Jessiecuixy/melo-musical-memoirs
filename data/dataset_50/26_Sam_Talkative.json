@@ -1,0 +1,749 @@
+{
+  "session_id": "26_Sam",
+  "tone": "Talkative and Detailed (Eager to share every memory)",
+  "profile": {
+    "id": "26_Sam",
+    "name": "Sam",
+    "age": 79,
+    "role": "Electrician",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "The Blackout of '77",
+        "context": "Restoring power."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "Starting own business",
+        "context": "Stress of payroll."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Wiring his son's house",
+        "context": "Fatherly pride."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about the Blackout of '77. What was it like for you?"
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Oh, the Blackout of '77—I remember it like it was yesterday. I was a young electrician back then, working in New York City. It was a hot July night, and suddenly, everything just went dark. I was actually at home when it happened, and the next day, people were talking about it everywhere. It was chaos, but you know, it was also a kind of bonding experience for the city. People came together in ways you'd never imagine. I remember helping out neighbors and running around with my flashlight checking on folks. It was quite a time.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, the Blackout of '77—I remember it like it was yesterday.",
+          "life_stage": "Youth",
+          "event_type": "Blackout",
+          "emotions": [
+            "nostalgic",
+            "reflective"
+          ],
+          "entities": [
+            "Blackout of '77",
+            "New York City",
+            "electrician"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like that experience had a real impact on you. How did it influence your work or personal life at the time?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Well, it definitely got me thinking about the importance of my work as an electrician. You see, during the blackout, people realized just how crucial electricity was to everyday life. It made me proud to be in a trade that was so essential. Not long after that, I decided I wanted more control over my work and started thinking about going into business for myself. It was a big step, but the blackout gave me that push to consider it more seriously.",
+      "sentence_annotations": [
+        {
+          "text": "Well, it definitely got me thinking about the importance of my work as an electrician.",
+          "life_stage": "Young Adulthood",
+          "event_type": "Career Realization",
+          "emotions": [
+            "Pride",
+            "Determination"
+          ],
+          "entities": [
+            "Electrician",
+            "Blackout of '77"
+          ]
+        },
+        {
+          "text": "Not long after that, I decided I wanted more control over my work and started thinking about going into business for myself.",
+          "life_stage": "Young Adulthood",
+          "event_type": "Career Decision",
+          "emotions": [
+            "Determination",
+            "Ambition"
+          ],
+          "entities": [
+            "Business",
+            "Career"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "So when did things change for you, and you decided to start your own business?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "After the blackout, it took me a couple of years to really make the leap. I was working for a company, but I had this nagging feeling that I could do more. By 1980, I had saved up enough and took the plunge. Starting my own business was a bit scary at first, but I was passionate. I wanted to bring reliable electrical services to people, especially after seeing how much it meant during the blackout. I started small, just me and my tools, but word got around, and before I knew it, I had a steady stream of clients.",
+      "sentence_annotations": [
+        {
+          "text": "It took me a couple of years to really make the leap. I was working for a company, but I had this nagging feeling that I could do more.",
+          "life_stage": "Early Adulthood",
+          "event_type": "Career Change",
+          "emotions": [
+            "Determined",
+            "Apprehensive"
+          ],
+          "entities": [
+            "Electrical services business",
+            "New York City"
+          ]
+        },
+        {
+          "text": "By 1980, I had saved up enough and took the plunge.",
+          "life_stage": "Early Adulthood",
+          "event_type": "Entrepreneurship",
+          "emotions": [
+            "Courageous",
+            "Excited"
+          ],
+          "entities": [
+            "1980",
+            "Business"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "It sounds like starting your own business was a pivotal moment for you. What were some of the challenges you faced in those early days?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Oh, there were plenty of challenges, let me tell you. First off, getting clients was tough. I had to rely a lot on word of mouth and recommendations. I remember going door to door, leaving flyers, introducing myself to people. It was hard work, but I was determined. Money was tight too, so I had to be smart about how I used my resources. Every job mattered, and I made sure to give it my all, no matter how small the task was. It was a learning experience, for sure.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, there were plenty of challenges, let me tell you. First off, getting clients was tough.",
+          "life_stage": "Adulthood",
+          "event_type": "Starting Business",
+          "emotions": [
+            "determination",
+            "resourcefulness"
+          ],
+          "entities": [
+            "clients",
+            "word of mouth"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "That must have been hard, especially starting from scratch. When did you notice things were starting to improve?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "Ah, it was around 1982 when I really started feeling a shift. At first, it was just trying to get by, but then I got a big contract with a local business. That was a turning point. It was a lot of work, but it also meant more stability. I hired a couple of guys to help out, and that's when I felt like I was really building something. The community support was incredible too. People remembered how I helped out during the blackout, and that reputation really helped me secure more work.",
+      "sentence_annotations": [
+        {
+          "text": "Ah, it was around 1982 when I really started feeling a shift.",
+          "life_stage": "Early Adulthood",
+          "event_type": "Professional Development",
+          "emotions": [
+            "hopeful",
+            "motivated"
+          ],
+          "entities": [
+            "1982",
+            "business growth"
+          ]
+        },
+        {
+          "text": "I got a big contract with a local business.",
+          "life_stage": "Early Adulthood",
+          "event_type": "Career Milestone",
+          "emotions": [
+            "proud",
+            "relieved"
+          ],
+          "entities": [
+            "local business",
+            "contract"
+          ]
+        },
+        {
+          "text": "I hired a couple of guys to help out.",
+          "life_stage": "Early Adulthood",
+          "event_type": "Business Expansion",
+          "emotions": [
+            "excited",
+            "nervous"
+          ],
+          "entities": [
+            "hiring",
+            "business growth"
+          ]
+        },
+        {
+          "text": "People remembered how I helped out during the blackout.",
+          "life_stage": "Early Adulthood",
+          "event_type": "Community Impact",
+          "emotions": [
+            "gratified",
+            "appreciated"
+          ],
+          "entities": [
+            "community support",
+            "reputation"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "It sounds like your persistence really paid off. I'd love to hear more about how your business grew from there."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Well, after that big contract, things started to pick up quite a bit. I was working day and night, but it felt good to see the fruits of my labor. I was able to expand slowly, bringing on more electricians and taking on bigger projects. I remember wiring some of the old buildings in the city that were being renovated. It was exciting! There were challenges, of course, like staying up to date with new technologies and regulations, but I always made sure to keep learning. It was important to me to provide the best service possible. My wife was a big support too, handling the books and keeping things organized. By the mid-80s, we had a nice little company going.",
+      "sentence_annotations": [
+        {
+          "text": "Well, after that big contract, things started to pick up quite a bit. I was working day and night, but it felt good to see the fruits of my labor. I was able to expand slowly, bringing on more electricians and taking on bigger projects. I remember wiring some of the old buildings in the city that were being renovated. It was exciting! There were challenges, of course, like staying up to date with new technologies and regulations, but I always made sure to keep learning. It was important to me to provide the best service possible. My wife was a big support too, handling the books and keeping things organized. By the mid-80s, we had a nice little company going.",
+          "life_stage": "Adulthood",
+          "event_type": "Starting own business",
+          "emotions": [
+            "Pride",
+            "Determination"
+          ],
+          "entities": [
+            "big contract",
+            "local business",
+            "electricians",
+            "old buildings",
+            "new technologies",
+            "wife"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "It sounds like your business really started to take off. Can you tell me about some of the more memorable projects you worked on during that time?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "Oh absolutely! One of the most memorable projects was wiring my son's house. It was back in the late 80s, and he had just bought his first home. It was a fixer-upper, a real project, but I was thrilled to help him out. Working on my own son's house was something special. I wanted to make sure everything was perfect, not just because it was my son, but because it was my work—my reputation. I remember spending weekends there, double-checking every wire, every switch. And you know, it wasn't just about the work. It was about spending time with him, teaching him a few tricks of the trade along the way. It was a proud moment for me as a father and as an electrician.",
+      "sentence_annotations": [
+        {
+          "text": "One of the most memorable projects was wiring my son's house. It was back in the late 80s, and he had just bought his first home. It was a fixer-upper, a real project, but I was thrilled to help him out.",
+          "life_stage": "Adulthood",
+          "event_type": "Wiring his son's house",
+          "emotions": [
+            "Pride",
+            "Joy"
+          ],
+          "entities": [
+            "son's house",
+            "late 80s",
+            "fixer-upper"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "That's a wonderful story, Sam. It must have been rewarding to work on something so personal. What was it like teaching your son during that project?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Oh, it was incredibly fulfilling! My son was always curious about what I did, and this was the perfect opportunity to share my knowledge with him. He was eager to learn, and it reminded me of myself at his age. We'd spend hours together on weekends, and I taught him how to handle the tools, how to read blueprints, and the importance of safety. He picked it up quickly, and I could see that spark in his eyes when something clicked.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, it was incredibly fulfilling! My son was always curious about what I did, and this was the perfect opportunity to share my knowledge with him. He was eager to learn, and it reminded me of myself at his age. We'd spend hours together on weekends, and I taught him how to handle the tools, how to read blueprints, and the importance of safety. He picked it up quickly, and I could see that spark in his eyes when something clicked.",
+          "life_stage": "Adulthood",
+          "event_type": "Wiring his son's house",
+          "emotions": [
+            "pride",
+            "fulfillment"
+          ],
+          "entities": [
+            "son",
+            "tools",
+            "blueprints",
+            "safety"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "That must have been a meaningful experience for both of you. I'd love to hear about some of the challenges you faced during that project."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Well, wiring a house, especially one that's a fixer-upper, comes with its own set of challenges. For starters, the house was old, and you never know what you're going to find behind those walls. Sometimes, the wiring was so outdated; it was a miracle it even worked! We had to strip everything down, start fresh, and make sure every wire was up to the current standards. It was meticulous work, and there were days when it seemed like we were going in circles. But, it was also a great learning experience for my son. He got to see the importance of doing things right the first time, and he learned not to cut corners, no matter how tempting it might be. We faced setbacks, like delays in getting the right materials, but we took it all in stride. At the end of the day, it was all worth it. Seeing the house come together, knowing it was safe and ready for my son's new family, was a joy like no other.",
+      "sentence_annotations": [
+        {
+          "text": "Well, wiring a house, especially one that's a fixer-upper, comes with its own set of challenges.",
+          "life_stage": "Adulthood",
+          "event_type": "Wiring his son's house",
+          "emotions": [
+            "Proud",
+            "Determined"
+          ],
+          "entities": [
+            "Son",
+            "Old House",
+            "Wiring Standards"
+          ]
+        },
+        {
+          "text": "For starters, the house was old, and you never know what you're going to find behind those walls.",
+          "life_stage": "Adulthood",
+          "event_type": "Wiring his son's house",
+          "emotions": [
+            "Resilient",
+            "Surprised"
+          ],
+          "entities": [
+            "Old House",
+            "Wiring"
+          ]
+        },
+        {
+          "text": "It was meticulous work, and there were days when it seemed like we were going in circles.",
+          "life_stage": "Adulthood",
+          "event_type": "Wiring his son's house",
+          "emotions": [
+            "Frustrated",
+            "Persevering"
+          ],
+          "entities": [
+            "Wiring",
+            "Challenges"
+          ]
+        },
+        {
+          "text": "He got to see the importance of doing things right the first time, and he learned not to cut corners, no matter how tempting it might be.",
+          "life_stage": "Adulthood",
+          "event_type": "Wiring his son's house",
+          "emotions": [
+            "Proud",
+            "Hopeful"
+          ],
+          "entities": [
+            "Son",
+            "Life Lessons"
+          ]
+        },
+        {
+          "text": "Seeing the house come together, knowing it was safe and ready for my son's new family, was a joy like no other.",
+          "life_stage": "Adulthood",
+          "event_type": "Wiring his son's house",
+          "emotions": [
+            "Joyful",
+            "Accomplished"
+          ],
+          "entities": [
+            "Son",
+            "Family",
+            "Completed House"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "It sounds like a lot of hard work, but also incredibly rewarding. What were some moments during that project that really stood out to you?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Oh, there were quite a few memorable moments. One that really stands out is when we finally got all the wiring done and tested the lights for the first time. It was a simple thing, but when the house lit up, it was like a weight was lifted off our shoulders. My son and I just stood there, grinning from ear to ear. It was a small victory, but it felt monumental. Another moment was when we installed the last outlet. It seems trivial, but after weeks of hard work, it felt like we had climbed a mountain. Knowing we did it together, and everything was done to the best of our abilities, was the cherry on top.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, there were quite a few memorable moments. One that really stands out is when we finally got all the wiring done and tested the lights for the first time. It was a simple thing, but when the house lit up, it was like a weight was lifted off our shoulders. My son and I just stood there, grinning from ear to ear. It was a small victory, but it felt monumental.",
+          "life_stage": "Adulthood",
+          "event_type": "Family Project",
+          "emotions": [
+            "Pride",
+            "Relief",
+            "Joy"
+          ],
+          "entities": [
+            "house",
+            "wiring",
+            "lights",
+            "son"
+          ]
+        },
+        {
+          "text": "Another moment was when we installed the last outlet. It seems trivial, but after weeks of hard work, it felt like we had climbed a mountain. Knowing we did it together, and everything was done to the best of our abilities, was the cherry on top.",
+          "life_stage": "Adulthood",
+          "event_type": "Family Project",
+          "emotions": [
+            "Satisfaction",
+            "Accomplishment"
+          ],
+          "entities": [
+            "outlet",
+            "hard work",
+            "son"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "It sounds like a lot of hard work, but also incredibly rewarding. What were some moments during that project that really stood out to you?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "Oh, there were quite a few memorable moments. One that really stands out is when we finally got all the wiring done and tested the lights for the first time. It was a simple thing, but when the house lit up, it was like a weight was lifted off our shoulders. My son and I just stood there, grinning from ear to ear. It was a small victory, but it felt monumental. Another moment was when we installed the last outlet. It seems trivial, but after weeks of hard work, it felt like we had climbed a mountain. Knowing we did it together, and everything was done to the best of our abilities, was the cherry on top.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, there were quite a few memorable moments. One that really stands out is when we finally got all the wiring done and tested the lights for the first time.",
+          "life_stage": "Old Age",
+          "event_type": "Personal Milestone",
+          "emotions": [
+            "Pride",
+            "Relief"
+          ],
+          "entities": [
+            "wiring",
+            "lights"
+          ]
+        },
+        {
+          "text": "My son and I just stood there, grinning from ear to ear. It was a small victory, but it felt monumental.",
+          "life_stage": "Old Age",
+          "event_type": "Family Bonding",
+          "emotions": [
+            "Joy",
+            "Achievement"
+          ],
+          "entities": [
+            "father and son",
+            "victory"
+          ]
+        },
+        {
+          "text": "Another moment was when we installed the last outlet. It seems trivial, but after weeks of hard work, it felt like we had climbed a mountain.",
+          "life_stage": "Old Age",
+          "event_type": "Project Completion",
+          "emotions": [
+            "Accomplishment",
+            "Satisfaction"
+          ],
+          "entities": [
+            "outlet",
+            "hard work"
+          ]
+        },
+        {
+          "text": "Knowing we did it together, and everything was done to the best of our abilities, was the cherry on top.",
+          "life_stage": "Old Age",
+          "event_type": "Project Completion",
+          "emotions": [
+            "Fulfillment",
+            "Pride"
+          ],
+          "entities": [
+            "teamwork",
+            "quality work"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "It sounds like a great achievement for both of you. How do you reflect on these experiences now, looking back?"
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "Reflecting on those times now, I feel a deep sense of satisfaction and pride. I've had a long career with many ups and downs, but moments like wiring my son's house are the ones that stand out. It's not just about the work, but the connections and memories you create along the way. I've always believed in doing a job well and teaching those values to my son was a highlight of my life. It reminds me that all the hard work was worth it, and that feeling is something I carry with me every day.",
+      "sentence_annotations": [
+        {
+          "text": "Reflecting on those times now, I feel a deep sense of satisfaction and pride.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "satisfaction",
+            "pride"
+          ],
+          "entities": [
+            "career",
+            "wiring son's house"
+          ]
+        },
+        {
+          "text": "It's not just about the work, but the connections and memories you create along the way.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "nostalgia",
+            "contentment"
+          ],
+          "entities": [
+            "connections",
+            "memories"
+          ]
+        },
+        {
+          "text": "I've always believed in doing a job well and teaching those values to my son was a highlight of my life.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "pride",
+            "fulfillment"
+          ],
+          "entities": [
+            "values",
+            "son"
+          ]
+        },
+        {
+          "text": "It reminds me that all the hard work was worth it, and that feeling is something I carry with me every day.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "satisfaction",
+            "gratitude"
+          ],
+          "entities": [
+            "hard work",
+            "daily life"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 25,
+      "speaker": "Interviewer",
+      "text": "It sounds like a great achievement for both of you. How do you reflect on these experiences now, looking back?"
+    },
+    {
+      "turn_id": 26,
+      "speaker": "Subject",
+      "text": "Reflecting on those times now, I feel a deep sense of satisfaction and pride. I've had a long career with many ups and downs, but moments like wiring my son's house are the ones that stand out. It's not just about the work, but the connections and memories you create along the way. I've always believed in doing a job well and teaching those values to my son was a highlight of my life. It reminds me that all the hard work was worth it, and that feeling is something I carry with me every day.",
+      "sentence_annotations": [
+        {
+          "text": "Reflecting on those times now, I feel a deep sense of satisfaction and pride.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "satisfaction",
+            "pride"
+          ],
+          "entities": [
+            "sense of satisfaction",
+            "pride"
+          ]
+        },
+        {
+          "text": "It's not just about the work, but the connections and memories you create along the way.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "nostalgia",
+            "gratitude"
+          ],
+          "entities": [
+            "connections",
+            "memories"
+          ]
+        },
+        {
+          "text": "I've always believed in doing a job well and teaching those values to my son was a highlight of my life.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "fulfillment",
+            "accomplishment"
+          ],
+          "entities": [
+            "values",
+            "son",
+            "highlight of my life"
+          ]
+        },
+        {
+          "text": "It reminds me that all the hard work was worth it, and that feeling is something I carry with me every day.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "contentment",
+            "gratification"
+          ],
+          "entities": [
+            "hard work",
+            "feeling"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 27,
+      "speaker": "Interviewer",
+      "text": "What would you say has been the most important lesson you've taken from your career?"
+    },
+    {
+      "turn_id": 28,
+      "speaker": "Subject",
+      "text": "I think the most important lesson I've learned is that persistence pays off. Every job, no matter how small, has value and can lead to bigger opportunities. It's about building a reputation and being someone people can rely on. I've also learned the importance of staying true to your values, like doing quality work and treating people with respect. Those principles have guided me through every challenge, and they've brought me fulfillment—not just in my work, but in my relationships too.",
+      "sentence_annotations": [
+        {
+          "text": "I think the most important lesson I've learned is that persistence pays off. Every job, no matter how small, has value and can lead to bigger opportunities.",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "Satisfaction",
+            "Gratitude"
+          ],
+          "entities": [
+            "Persistence",
+            "Opportunities"
+          ]
+        },
+        {
+          "text": "It's about building a reputation and being someone people can rely on.",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "Pride"
+          ],
+          "entities": [
+            "Reputation",
+            "Reliability"
+          ]
+        },
+        {
+          "text": "I've also learned the importance of staying true to your values, like doing quality work and treating people with respect.",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "Contentment",
+            "Integrity"
+          ],
+          "entities": [
+            "Values",
+            "Quality Work",
+            "Respect"
+          ]
+        },
+        {
+          "text": "Those principles have guided me through every challenge, and they've brought me fulfillment—not just in my work, but in my relationships too.",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "Fulfillment",
+            "Gratitude"
+          ],
+          "entities": [
+            "Principles",
+            "Fulfillment",
+            "Relationships"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 29,
+      "speaker": "Interviewer",
+      "text": "Before we finish, what would you say is the most important lesson you've learned from your career and life experiences?"
+    },
+    {
+      "turn_id": 30,
+      "speaker": "Subject",
+      "text": "You know, looking back, I think the most important lesson is to never underestimate the power of hard work and community. When you're dedicated to your craft and treat people with kindness and respect, it comes back to you in ways you never imagined. I've seen tough times, like during the blackout of '77, but those experiences taught me resilience and the value of sticking together. It's never just about the wires and circuits—it's about the people you connect with and the legacy you leave behind. I've always tried to pass that on to my son and now to my grandkids. It's those connections and shared experiences that make all the difference in life.",
+      "sentence_annotations": [
+        {
+          "text": "You know, looking back, I think the most important lesson is to never underestimate the power of hard work and community.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Gratitude",
+            "Pride"
+          ],
+          "entities": [
+            "Lesson",
+            "Community",
+            "Hard Work"
+          ]
+        },
+        {
+          "text": "When you're dedicated to your craft and treat people with kindness and respect, it comes back to you in ways you never imagined.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Wisdom",
+            "Gratitude"
+          ],
+          "entities": [
+            "Dedication",
+            "Kindness",
+            "Respect"
+          ]
+        },
+        {
+          "text": "I've seen tough times, like during the blackout of '77, but those experiences taught me resilience and the value of sticking together.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Resilience",
+            "Nostalgia"
+          ],
+          "entities": [
+            "Blackout of '77",
+            "Resilience",
+            "Community Support"
+          ]
+        },
+        {
+          "text": "It's those connections and shared experiences that make all the difference in life.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Contentment",
+            "Fulfillment"
+          ],
+          "entities": [
+            "Connections",
+            "Shared Experiences",
+            "Legacy"
+          ]
+        }
+      ]
+    }
+  ]
+}

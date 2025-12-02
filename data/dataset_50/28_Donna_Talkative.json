@@ -1,0 +1,535 @@
+{
+  "session_id": "28_Donna",
+  "tone": "Talkative and Detailed (Eager to share every memory)",
+  "profile": {
+    "id": "28_Donna",
+    "name": "Donna",
+    "age": 73,
+    "role": "Social Worker",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "First foster case",
+        "context": "Heartbreak."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "System burnout",
+        "context": "Fighting bureaucracy."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Adopting a child",
+        "context": "Personal redemption."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your first foster case."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Oh, my first foster case! I remember it like it was yesterday. It was back in 1975, and I had just graduated. The agency assigned me to a young boy named Tommy. He was only seven years old, and he had been through so much for someone so young. His parents had struggled with addiction, which left him in a very vulnerable position. I was nervous but eager to make a difference.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, my first foster case! I remember it like it was yesterday. It was back in 1975, and I had just graduated.",
+          "life_stage": "Youth",
+          "event_type": "Career Start",
+          "emotions": [
+            "Nostalgic",
+            "Eager",
+            "Nervous"
+          ],
+          "entities": [
+            "1975",
+            "graduation",
+            "first foster case"
+          ]
+        },
+        {
+          "text": "The agency assigned me to a young boy named Tommy. He was only seven years old, and he had been through so much for someone so young.",
+          "life_stage": "Youth",
+          "event_type": "Work Assignment",
+          "emotions": [
+            "Empathetic",
+            "Concerned"
+          ],
+          "entities": [
+            "agency",
+            "Tommy",
+            "seven years old",
+            "parents",
+            "addiction"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like Tommy's situation left a big impression on you. How did it feel stepping into that role?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Yes, it really did. It was both heartbreaking and eye-opening. I remember feeling a mix of emotions—determination to help, but also a bit overwhelmed by the responsibility. Tommy was such a sweet kid, despite everything he'd been through. He just wanted a sense of stability and love, and I was determined to provide that for him. I spent countless hours trying to connect with him, gaining his trust little by little. It was challenging, but each small breakthrough felt incredibly rewarding.",
+      "sentence_annotations": [
+        {
+          "text": "It was both heartbreaking and eye-opening.",
+          "life_stage": "Early Career",
+          "event_type": "First Foster Case",
+          "emotions": [
+            "determination",
+            "overwhelmed"
+          ],
+          "entities": [
+            "Tommy",
+            "agency"
+          ]
+        },
+        {
+          "text": "Tommy was such a sweet kid, despite everything he'd been through.",
+          "life_stage": "Early Career",
+          "event_type": "First Foster Case",
+          "emotions": [
+            "compassion",
+            "empathy"
+          ],
+          "entities": [
+            "Tommy"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been hard, balancing those emotions. So when did things change for you in your career?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "Well, as time went on, I started taking on more cases. By the late '80s, I was handling a full caseload, and it was intense. Every child was unique, with their own story and needs. I poured myself into my work, always wanting to do my best for the kids. But, over time, it started to take a toll on me. The system was tough, and I began to feel the burnout creeping in. I remember there was this one particularly rough case that really brought it to a head. It was a wake-up call that something needed to change.",
+      "sentence_annotations": [
+        {
+          "text": "By the late '80s, I was handling a full caseload, and it was intense.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Development",
+          "emotions": [
+            "determination",
+            "intensity"
+          ],
+          "entities": [
+            "late '80s",
+            "caseload",
+            "career"
+          ]
+        },
+        {
+          "text": "But, over time, it started to take a toll on me.",
+          "life_stage": "Adulthood",
+          "event_type": "Burnout",
+          "emotions": [
+            "exhaustion",
+            "frustration"
+          ],
+          "entities": [
+            "burnout",
+            "system"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "That must have been quite a challenging period. How did that phase of your life come to an end?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "It was indeed challenging. By the time the early '90s rolled around, I realized I couldn't keep going at the same pace without burning out completely. I had a supervisor who noticed the strain I was under and suggested I take a leave of absence. At first, I was hesitant—I didn't want to let anyone down. But eventually, I agreed, and it was the best decision. During that time, I was able to reflect on my career and what I wanted moving forward. It ultimately led me to make some significant changes, including shifting my focus and eventually adopting a child, which was a whole new journey in itself.",
+      "sentence_annotations": [
+        {
+          "text": "By the time the early '90s rolled around, I realized I couldn't keep going at the same pace without burning out completely.",
+          "life_stage": "Middle Age",
+          "event_type": "Career Transition",
+          "emotions": [
+            "realization",
+            "relief"
+          ],
+          "entities": [
+            "burnout",
+            "career change"
+          ]
+        },
+        {
+          "text": "During that time, I was able to reflect on my career and what I wanted moving forward.",
+          "life_stage": "Middle Age",
+          "event_type": "Self-reflection",
+          "emotions": [
+            "introspection",
+            "clarity"
+          ],
+          "entities": [
+            "career reflection",
+            "personal growth"
+          ]
+        },
+        {
+          "text": "It ultimately led me to make some significant changes, including shifting my focus and eventually adopting a child.",
+          "life_stage": "Middle Age",
+          "event_type": "Life Decision",
+          "emotions": [
+            "determination",
+            "hope"
+          ],
+          "entities": [
+            "adoption",
+            "life changes"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "That must have been quite a challenging period. How did that phase of your life come to an end?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "It was indeed challenging. By the time the early '90s rolled around, I realized I couldn't keep going at the same pace without burning out completely. I had a supervisor who noticed the strain I was under and suggested I take a leave of absence. At first, I was hesitant—I didn't want to let anyone down. But eventually, I agreed, and it was the best decision. During that time, I was able to reflect on my career and what I wanted moving forward. It ultimately led me to make some significant changes, including shifting my focus and eventually adopting a child, which was a whole new journey in itself.",
+      "sentence_annotations": [
+        {
+          "text": "By the time the early '90s rolled around, I realized I couldn't keep going at the same pace without burning out completely.",
+          "life_stage": "Adulthood",
+          "event_type": "System burnout",
+          "emotions": [
+            "overwhelmed",
+            "exhausted"
+          ],
+          "entities": [
+            "burnout",
+            "supervisor",
+            "leave of absence"
+          ]
+        },
+        {
+          "text": "During that time, I was able to reflect on my career and what I wanted moving forward.",
+          "life_stage": "Adulthood",
+          "event_type": "Reflection",
+          "emotions": [
+            "reflective",
+            "determined"
+          ],
+          "entities": [
+            "career",
+            "reflection",
+            "change"
+          ]
+        },
+        {
+          "text": "It ultimately led me to make some significant changes, including shifting my focus and eventually adopting a child.",
+          "life_stage": "Adulthood",
+          "event_type": "Adopting a child",
+          "emotions": [
+            "hopeful",
+            "renewed"
+          ],
+          "entities": [
+            "adopting a child",
+            "career change"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear more about the challenges you faced during those intense years."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Oh, those years were quite something! As I mentioned, each case was so different, and I wanted to give my all to each child. But the constant demands and emotional toll were the toughest parts. I often found myself working late into the night, reviewing files, writing reports, and sometimes even taking calls from concerned foster parents at odd hours. There were nights when I just couldn't shut off my mind, constantly thinking about how to help each child. The bureaucracy was another challenge. There were so many regulations and red tape that sometimes made it difficult to get the resources the kids needed. I remember one case where a child needed therapy, but it took months to get approval, and it was just heartbreaking knowing the delays were affecting their progress. It was a real struggle to balance my empathy with the harsh realities of the system.",
+      "sentence_annotations": [
+        {
+          "text": "As I mentioned, each case was so different, and I wanted to give my all to each child.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Challenge",
+          "emotions": [
+            "Determination",
+            "Empathy"
+          ],
+          "entities": [
+            "Foster Care System",
+            "Children"
+          ]
+        },
+        {
+          "text": "But the constant demands and emotional toll were the toughest parts.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Challenge",
+          "emotions": [
+            "Stress",
+            "Overwhelm"
+          ],
+          "entities": [
+            "Foster Care System"
+          ]
+        },
+        {
+          "text": "The bureaucracy was another challenge.",
+          "life_stage": "Adulthood",
+          "event_type": "Systemic Challenge",
+          "emotions": [
+            "Frustration"
+          ],
+          "entities": [
+            "Bureaucracy",
+            "Regulations"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "That sounds incredibly challenging, navigating through all that bureaucracy and emotional stress. How did you manage to keep going even when it was so tough?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "You know, it wasn't easy. There were days when it felt like I was fighting an uphill battle. But what kept me going were the small victories—the moments when you saw a child smile, or when a troubled teenager finally opened up about their feelings. Those were the moments that reminded me why I started doing this in the first place. Plus, I had a great support system. My colleagues were incredible, and we often leaned on each other for support. We'd share our experiences, offer advice, and sometimes just lend an ear when one of us needed to vent. It was like having a second family at work. And of course, my own family was there for me too, always encouraging me and reminding me to take care of myself.",
+      "sentence_annotations": [
+        {
+          "text": "There were days when it felt like I was fighting an uphill battle. But what kept me going were the small victories—the moments when you saw a child smile, or when a troubled teenager finally opened up about their feelings.",
+          "life_stage": "Adulthood",
+          "event_type": "Work Challenges",
+          "emotions": [
+            "perseverance",
+            "hope"
+          ],
+          "entities": [
+            "child welfare",
+            "support system",
+            "emotional resilience"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "It sounds like there were many challenges, but also some rewarding moments. Can you tell me more about a specific case that really tested your resilience during those years?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Absolutely, there was one case in particular that comes to mind. It involved a teenager named Lisa. She had been in and out of foster homes for years, and her file was thick with reports of behavioral issues and school troubles. From the get-go, I knew it was going to be a tough one. Lisa was incredibly guarded, having learned not to trust adults over the years. I remember our first meeting—she sat there with her arms crossed, barely speaking a word. But I saw something in her eyes, a spark that made me believe she was worth the effort. I spent months working on building a rapport with her, meeting her where she was at. It wasn't easy; there were setbacks, like her running away a couple of times. Each time, I felt like I was starting from scratch, but I refused to give up. Eventually, little by little, she started to open up about her past and her dreams for the future. The breakthrough came when she told me she wanted to go to college. It was like the floodgates opened, and she began to trust me. That case taught me so much about patience, persistence, and the power of believing in someone, even when they don't believe in themselves.",
+      "sentence_annotations": [
+        {
+          "text": "Absolutely, there was one case in particular that comes to mind. It involved a teenager named Lisa. She had been in and out of foster homes for years, and her file was thick with reports of behavioral issues and school troubles. From the get-go, I knew it was going to be a tough one. Lisa was incredibly guarded, having learned not to trust adults over the years.",
+          "life_stage": "Adulthood",
+          "event_type": "Case Challenge",
+          "emotions": [
+            "Determination",
+            "Empathy"
+          ],
+          "entities": [
+            "Lisa",
+            "foster homes",
+            "behavioral issues"
+          ]
+        },
+        {
+          "text": "I remember our first meeting—she sat there with her arms crossed, barely speaking a word. But I saw something in her eyes, a spark that made me believe she was worth the effort. I spent months working on building a rapport with her, meeting her where she was at.",
+          "life_stage": "Adulthood",
+          "event_type": "Client Interaction",
+          "emotions": [
+            "Hopeful",
+            "Patient"
+          ],
+          "entities": [
+            "Lisa"
+          ]
+        },
+        {
+          "text": "The breakthrough came when she told me she wanted to go to college. It was like the floodgates opened, and she began to trust me. That case taught me so much about patience, persistence, and the power of believing in someone, even when they don't believe in themselves.",
+          "life_stage": "Adulthood",
+          "event_type": "Breakthrough",
+          "emotions": [
+            "Relief",
+            "Pride"
+          ],
+          "entities": [
+            "Lisa",
+            "college"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "So when did you decide to adopt a child, and what motivated that decision?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Ah, adopting a child! That was a pivotal moment in my life. It was during my leave of absence, around the mid-'90s. I was reflecting a lot on my career and personal life, and I realized I had so much love to give. Working with these children, day in and day out, made me understand how critical a stable and loving home is. I had always wanted to be a mother, and adopting felt like the natural next step. I remember thinking about all the children I had worked with and how many needed a permanent home. It wasn't an easy decision, but it was one I felt strongly about. I started the process and eventually adopted a little girl named Sarah. She was eight years old at the time, and she had been through her own share of tough times. Bringing her into my life was one of the most rewarding things I've ever done.",
+      "sentence_annotations": [
+        {
+          "text": "Ah, adopting a child! That was a pivotal moment in my life. It was during my leave of absence, around the mid-'90s. I was reflecting a lot on my career and personal life, and I realized I had so much love to give. Working with these children, day in and day out, made me understand how critical a stable and loving home is. I had always wanted to be a mother, and adopting felt like the natural next step. I remember thinking about all the children I had worked with and how many needed a permanent home. It wasn't an easy decision, but it was one I felt strongly about. I started the process and eventually adopted a little girl named Sarah. She was eight years old at the time, and she had been through her own share of tough times. Bringing her into my life was one of the most rewarding things I've ever done.",
+          "life_stage": "Old Age",
+          "event_type": "Adopting a Child",
+          "emotions": [
+            "Reflective",
+            "Loving",
+            "Determined"
+          ],
+          "entities": [
+            "Sarah",
+            "mid-'90s",
+            "leave of absence"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "How did adopting Sarah change your perspective on your work and life?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Adopting Sarah was such a transformative experience for me. It brought a whole new level of understanding and empathy to my work. Being a mother allowed me to see things from the parents' perspective, which I hadn't fully grasped before. It made me more patient and compassionate, not just with the children I was helping, but also with their families. I found myself advocating even harder for the resources and support these families needed to stay together or reunify. On a personal level, having Sarah in my life filled a void I didn't realize was there. Watching her grow and thrive in an environment where she felt safe and loved was incredibly fulfilling. It was like every challenge I had faced in my career was leading me to this moment, where I could make a profound difference in one child's life in a more personal way.",
+      "sentence_annotations": [
+        {
+          "text": "Adopting Sarah was such a transformative experience for me. It brought a whole new level of understanding and empathy to my work.",
+          "life_stage": "Old Age",
+          "event_type": "Adopting a child",
+          "emotions": [
+            "transformative",
+            "empathetic",
+            "fulfilled"
+          ],
+          "entities": [
+            "Sarah",
+            "Adoption",
+            "Motherhood"
+          ]
+        },
+        {
+          "text": "On a personal level, having Sarah in my life filled a void I didn't realize was there.",
+          "life_stage": "Old Age",
+          "event_type": "Adopting a child",
+          "emotions": [
+            "fulfilled",
+            "content",
+            "loving"
+          ],
+          "entities": [
+            "Sarah",
+            "Motherhood"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "It sounds like adopting Sarah had a profound impact on you. How did your relationship with her evolve over the years?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "Oh, it certainly did! Sarah and I have had quite the journey together. When she first came into my life, we both had a lot to learn about each other. She was a bit shy and reserved at first, which was understandable given her past. But over time, as we built trust and formed our bond, she really started to come out of her shell. I remember our first family vacation—it was just a simple weekend trip, but it was such a milestone for us. We laughed, explored, and just enjoyed being together without any worry about the past. Watching her grow into this amazing, resilient young woman has been one of the greatest joys of my life. She's now pursuing her own dreams, and I couldn't be prouder of her.",
+      "sentence_annotations": [
+        {
+          "text": "Sarah and I have had quite the journey together. When she first came into my life, we both had a lot to learn about each other.",
+          "life_stage": "Old Age",
+          "event_type": "Adopting a child and building a relationship",
+          "emotions": [
+            "joy",
+            "pride"
+          ],
+          "entities": [
+            "Sarah",
+            "family vacation"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "Before we finish, if you could impart one lesson from your journey, what would it be?"
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "Oh, that's a wonderful question. If there's one lesson I've learned throughout my life and career, it's the importance of resilience and compassion. Life throws us challenges, and it's easy to feel overwhelmed. But I've come to realize that there's immense power in staying steadfast and compassionate, both to others and to ourselves. Every child I worked with, every case I handled, taught me that even the smallest acts of kindness can make a world of difference. And adopting Sarah reinforced this belief. It showed me that love has the power to heal and transform. So, I would say, don't underestimate the impact of your actions, however small they may seem. Keep going, keep believing, and keep loving. It's the love and support we give and receive that truly shapes our lives.",
+      "sentence_annotations": [
+        {
+          "text": "If there's one lesson I've learned throughout my life and career, it's the importance of resilience and compassion.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "wisdom",
+            "gratitude"
+          ],
+          "entities": [
+            "resilience",
+            "compassion"
+          ]
+        },
+        {
+          "text": "Life throws us challenges, and it's easy to feel overwhelmed. But I've come to realize that there's immense power in staying steadfast and compassionate, both to others and to ourselves.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "determination",
+            "understanding"
+          ],
+          "entities": [
+            "challenges",
+            "compassion"
+          ]
+        },
+        {
+          "text": "Every child I worked with, every case I handled, taught me that even the smallest acts of kindness can make a world of difference.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "gratefulness",
+            "hope"
+          ],
+          "entities": [
+            "acts of kindness",
+            "children"
+          ]
+        },
+        {
+          "text": "And adopting Sarah reinforced this belief. It showed me that love has the power to heal and transform.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "love",
+            "fulfillment"
+          ],
+          "entities": [
+            "Sarah",
+            "love"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "session_id": "24_Yuri",
+  "tone": "Short-spoken and Reserved (Needs probing)",
+  "profile": {
+    "id": "24_Yuri",
+    "name": "Yuri",
+    "age": 72,
+    "role": "Ballet Dancer",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "Defecting to the West",
+        "context": "Leaving family."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "The knee injury",
+        "context": "Career ending."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Teaching kids",
+        "context": "Finding joy again."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about how you ended up defecting to the West."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "It was in the late 70s, during a tour with the ballet company. We were in Paris. I decided to stay.",
+      "sentence_annotations": [
+        {
+          "text": "It was in the late 70s, during a tour with the ballet company. We were in Paris. I decided to stay.",
+          "life_stage": "Youth",
+          "event_type": "Defection",
+          "emotions": [
+            "Determination",
+            "Fear"
+          ],
+          "entities": [
+            "Ballet company",
+            "Paris",
+            "Late 70s"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like a bold decision. What was going through your mind at the time?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "I felt trapped, you know? The restrictions, the constant surveillance. In Paris, I saw freedom. It was an opportunity I couldn’t pass up.",
+      "sentence_annotations": [
+        {
+          "text": "I felt trapped, you know? The restrictions, the constant surveillance. In Paris, I saw freedom.",
+          "life_stage": "Adulthood",
+          "event_type": "Defection",
+          "emotions": [
+            "oppressed",
+            "hopeful"
+          ],
+          "entities": [
+            "restrictions",
+            "surveillance",
+            "Paris",
+            "freedom"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been hard, leaving everything behind. How did you cope with being in a new place?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "It was difficult at first. I missed my family, my friends. But the ballet community here was welcoming. They helped me find my footing.",
+      "sentence_annotations": [
+        {
+          "text": "It was difficult at first. I missed my family, my friends. But the ballet community here was welcoming. They helped me find my footing.",
+          "life_stage": "Adulthood",
+          "event_type": "Defection",
+          "emotions": [
+            "Homesickness",
+            "Relief"
+          ],
+          "entities": [
+            "Family",
+            "Friends",
+            "Ballet Community"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "So when did things change for you after you settled in the West?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Things really changed when I injured my knee. It was a turning point.",
+      "sentence_annotations": [
+        {
+          "text": "Things really changed when I injured my knee. It was a turning point.",
+          "life_stage": "Middle Age",
+          "event_type": "Health",
+          "emotions": [
+            "Reflective",
+            "Resigned"
+          ],
+          "entities": [
+            "knee injury"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "That must have been devastating, especially for a dancer. How did it happen?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "During a rehearsal, I landed awkwardly after a jump. It was immediate pain, and I knew it was bad.",
+      "sentence_annotations": [
+        {
+          "text": "During a rehearsal, I landed awkwardly after a jump. It was immediate pain, and I knew it was bad.",
+          "life_stage": "Adulthood",
+          "event_type": "Injury",
+          "emotions": [
+            "Disappointment",
+            "Shock"
+          ],
+          "entities": [
+            "Rehearsal",
+            "Knee injury"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "What were some of the core challenges you faced during your recovery?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "The hardest part was accepting that my career as a performer was over. The doctors said I wouldn't dance again professionally.",
+      "sentence_annotations": [
+        {
+          "text": "The hardest part was accepting that my career as a performer was over. The doctors said I wouldn't dance again professionally.",
+          "life_stage": "Adulthood",
+          "event_type": "Knee Injury",
+          "emotions": [
+            "Acceptance",
+            "Sorrow"
+          ],
+          "entities": [
+            "Career",
+            "Doctors",
+            "Professional Dancing"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "That must have been incredibly tough to hear. How did you manage to move forward after that?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "I had to find a new purpose. Teaching became my focus.",
+      "sentence_annotations": [
+        {
+          "text": "I had to find a new purpose. Teaching became my focus.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Transition",
+          "emotions": [
+            "acceptance",
+            "determination"
+          ],
+          "entities": [
+            "knee injury",
+            "ballet",
+            "teaching"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "Teaching must have been a big adjustment. What was it like transitioning from performing to teaching?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Transitioning wasn't easy. I had to learn patience. Teaching is different; you guide others rather than express yourself.",
+      "sentence_annotations": [
+        {
+          "text": "Transitioning wasn't easy. I had to learn patience.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Frustration",
+            "Acceptance"
+          ],
+          "entities": [
+            "Teaching",
+            "Patience",
+            "Career Transition"
+          ]
+        },
+        {
+          "text": "Teaching is different; you guide others rather than express yourself.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Adaptation",
+            "Reflection"
+          ],
+          "entities": [
+            "Teaching",
+            "Guidance",
+            "Self-Expression"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear how teaching kids has been for you now."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Teaching kids is rewarding. They have so much energy and potential. It feels good to pass on what I've learned.",
+      "sentence_annotations": [
+        {
+          "text": "Teaching kids is rewarding. They have so much energy and potential.",
+          "life_stage": "Old Age",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Satisfaction",
+            "Reflective"
+          ],
+          "entities": [
+            "Teaching",
+            "Kids",
+            "Energy",
+            "Potential"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "It sounds like teaching has brought you a lot of fulfillment. How do you feel looking back at your journey from dancer to teacher?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Looking back, I see it as a full circle. I miss performing, but teaching gives me a sense of purpose I didn't expect.",
+      "sentence_annotations": [
+        {
+          "text": "Looking back, I see it as a full circle. I miss performing, but teaching gives me a sense of purpose I didn't expect.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection on Life",
+          "emotions": [
+            "nostalgia",
+            "acceptance"
+          ],
+          "entities": [
+            "performing",
+            "teaching",
+            "purpose"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "So, how do you feel about the impact you've had on your students over the years?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "I hope I've inspired them. That's all a teacher can ask for.",
+      "sentence_annotations": [
+        {
+          "text": "I hope I've inspired them. That's all a teacher can ask for.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "hopeful",
+            "content"
+          ],
+          "entities": [
+            "students",
+            "teacher"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "That's a wonderful sentiment. What's one of your proudest moments as a teacher?"
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "There's a student who went on to join a professional company. Seeing them succeed felt like a piece of my own journey continued.",
+      "sentence_annotations": [
+        {
+          "text": "There's a student who went on to join a professional company. Seeing them succeed felt like a piece of my own journey continued.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection on Teaching",
+          "emotions": [
+            "Pride",
+            "Fulfillment"
+          ],
+          "entities": [
+            "Student",
+            "Professional Company"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 25,
+      "speaker": "Interviewer",
+      "text": "Before we finish, what's one final lesson you'd share with those aspiring to follow in your footsteps?"
+    },
+    {
+      "turn_id": 26,
+      "speaker": "Subject",
+      "text": "Never stop learning. Life will change, and you must adapt. Embrace every stage.",
+      "sentence_annotations": [
+        {
+          "text": "Never stop learning. Life will change, and you must adapt. Embrace every stage.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "wisdom",
+            "acceptance"
+          ],
+          "entities": [
+            "learning",
+            "adaptation",
+            "life stages"
+          ]
+        }
+      ]
+    }
+  ]
+}

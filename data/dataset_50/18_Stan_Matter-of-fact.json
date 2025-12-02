@@ -1,0 +1,529 @@
+{
+  "session_id": "18_Stan",
+  "tone": "Matter-of-fact (Treats the interview like a report)",
+  "profile": {
+    "id": "18_Stan",
+    "name": "Stan",
+    "age": 80,
+    "role": "Steel Worker",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "Following dad to the mill",
+        "context": "Tradition."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "The Rust Belt crash",
+        "context": "Unemployment."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Health checkups",
+        "context": "Physical toll."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about how you started following your dad to the mill."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Well, I reckon I was about eight or nine when I first went with him. Dad worked long shifts at the steel mill, and sometimes he’d take me along. I remember the noise, the heat—it was something else. But to me, it was like stepping into a different world. Dad was always so focused, and I wanted to be just like him.",
+      "sentence_annotations": [
+        {
+          "text": "I reckon I was about eight or nine when I first went with him. Dad worked long shifts at the steel mill, and sometimes he’d take me along.",
+          "life_stage": "Youth",
+          "event_type": "Family Influence",
+          "emotions": [
+            "nostalgia",
+            "admiration"
+          ],
+          "entities": [
+            "Dad",
+            "steel mill",
+            "shifts"
+          ]
+        },
+        {
+          "text": "I remember the noise, the heat—it was something else.",
+          "life_stage": "Youth",
+          "event_type": "First Impressions",
+          "emotions": [
+            "awe",
+            "curiosity"
+          ],
+          "entities": [
+            "noise",
+            "heat",
+            "steel mill"
+          ]
+        },
+        {
+          "text": "But to me, it was like stepping into a different world. Dad was always so focused, and I wanted to be just like him.",
+          "life_stage": "Youth",
+          "event_type": "Inspiration",
+          "emotions": [
+            "admiration",
+            "aspiration"
+          ],
+          "entities": [
+            "Dad",
+            "focus",
+            "role model"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like those early visits with your dad made quite an impression on you. What was it like growing up in a community centered around the steel mill?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Yeah, those visits really did stick with me. Growing up, everything revolved around the mill. Most folks in town worked there, or they had some connection to it. The mill was the lifeline of our community. We all knew each other from the mill or from school. It was like one big family. There was a kind of pride in being part of that, you know?",
+      "sentence_annotations": [
+        {
+          "text": "Most folks in town worked there, or they had some connection to it.",
+          "life_stage": "Youth",
+          "event_type": "Community",
+          "emotions": [
+            "Pride",
+            "Belonging"
+          ],
+          "entities": [
+            "Steel mill",
+            "Community"
+          ]
+        },
+        {
+          "text": "There was a kind of pride in being part of that, you know?",
+          "life_stage": "Youth",
+          "event_type": "Community",
+          "emotions": [
+            "Pride"
+          ],
+          "entities": [
+            "Steel mill",
+            "Community"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "So when did things start to change for you and the community?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "Well, I guess the big changes started happening in the late 70s and early 80s. The steel industry was going through a hard time, and mills started shutting down. It was tough seeing the place that had been central to our lives struggling. Folks began losing jobs, and you could feel the tension and worry in the air. It was like the rug was being pulled out from under us.",
+      "sentence_annotations": [
+        {
+          "text": "The steel industry was going through a hard time, and mills started shutting down.",
+          "life_stage": "Adulthood",
+          "event_type": "Economic downturn",
+          "emotions": [
+            "Concern",
+            "Uncertainty"
+          ],
+          "entities": [
+            "Steel industry",
+            "Mills"
+          ]
+        },
+        {
+          "text": "It was tough seeing the place that had been central to our lives struggling.",
+          "life_stage": "Adulthood",
+          "event_type": "Community impact",
+          "emotions": [
+            "Sadness",
+            "Worry"
+          ],
+          "entities": [
+            "Community",
+            "Steel mill"
+          ]
+        },
+        {
+          "text": "Folks began losing jobs, and you could feel the tension and worry in the air.",
+          "life_stage": "Adulthood",
+          "event_type": "Job loss",
+          "emotions": [
+            "Tension",
+            "Anxiety"
+          ],
+          "entities": [
+            "Jobs",
+            "Community"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "That must have been hard seeing your community go through such a tough time. How did this period eventually come to an end for you?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Yeah, it was tough alright. Eventually, I had to find work elsewhere. It was 1984 when I finally left the mill. By then, there were only a handful of us left. I took a job in construction, which was a big change, but I was grateful for the work. The mill was still there, but it was just a shadow of what it used to be. It was hard to see it like that, but life goes on, you know?",
+      "sentence_annotations": [
+        {
+          "text": "Eventually, I had to find work elsewhere. It was 1984 when I finally left the mill.",
+          "life_stage": "Mid-life",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Resilience",
+            "Acceptance"
+          ],
+          "entities": [
+            "Steel Industry",
+            "Construction"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "It sounds like those early visits with your dad made quite an impression on you. What was it like growing up in a community centered around the steel mill?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "Yeah, those visits really did stick with me. Growing up, everything revolved around the mill. Most folks in town worked there, or they had some connection to it. The mill was the lifeline of our community. We all knew each other from the mill or from school. It was like one big family. There was a kind of pride in being part of that, you know?",
+      "sentence_annotations": [
+        {
+          "text": "Yeah, those visits really did stick with me. Growing up, everything revolved around the mill.",
+          "life_stage": "Adulthood",
+          "event_type": "Community and Work Life",
+          "emotions": [
+            "Nostalgia",
+            "Pride"
+          ],
+          "entities": [
+            "steel mill",
+            "community"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "What were some of the core challenges you faced when the mills started shutting down?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Well, the biggest challenge was the uncertainty. You'd wake up every day not knowing if you'd still have a job by the end of it. The pay cuts were hard, too. We had to tighten our belts and make do with less. It wasn't just about the money, though. It was the feeling of losing something that had been a big part of our identity. Many of us had grown up with the mill always there, and suddenly it wasn't. It was hard for the younger folks, especially, who hadn't known anything else.",
+      "sentence_annotations": [
+        {
+          "text": "Well, the biggest challenge was the uncertainty. You'd wake up every day not knowing if you'd still have a job by the end of it.",
+          "life_stage": "Adulthood",
+          "event_type": "Economic change",
+          "emotions": [
+            "uncertainty",
+            "anxiety"
+          ],
+          "entities": [
+            "steel mills",
+            "job insecurity"
+          ]
+        },
+        {
+          "text": "The pay cuts were hard, too. We had to tighten our belts and make do with less.",
+          "life_stage": "Adulthood",
+          "event_type": "Economic challenge",
+          "emotions": [
+            "financial strain"
+          ],
+          "entities": [
+            "pay cuts"
+          ]
+        },
+        {
+          "text": "It wasn't just about the money, though. It was the feeling of losing something that had been a big part of our identity.",
+          "life_stage": "Adulthood",
+          "event_type": "Community change",
+          "emotions": [
+            "loss",
+            "displacement"
+          ],
+          "entities": [
+            "community identity",
+            "steel mills"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "That must have been incredibly tough, dealing with that kind of uncertainty every day. How did the community cope with these challenges?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "Well, we tried to stick together. Neighbors helped each other out whenever they could. We'd share food, offer odd jobs, and just be there for one another. The local church organized food drives and support meetings. It was a rough time, but knowing you weren't alone made a difference. Some folks moved away to find work, but those who stayed tried to hold on to what was left of our community. It was a test of resilience, I suppose.",
+      "sentence_annotations": [
+        {
+          "text": "Well, we tried to stick together. Neighbors helped each other out whenever they could. We'd share food, offer odd jobs, and just be there for one another.",
+          "life_stage": "Adulthood",
+          "event_type": "Community Support",
+          "emotions": [
+            "resilience",
+            "solidarity"
+          ],
+          "entities": [
+            "community",
+            "neighbors",
+            "support"
+          ]
+        },
+        {
+          "text": "The local church organized food drives and support meetings. It was a rough time, but knowing you weren't alone made a difference.",
+          "life_stage": "Adulthood",
+          "event_type": "Community Support",
+          "emotions": [
+            "gratitude",
+            "hope"
+          ],
+          "entities": [
+            "church",
+            "food drives",
+            "support meetings"
+          ]
+        },
+        {
+          "text": "Some folks moved away to find work, but those who stayed tried to hold on to what was left of our community. It was a test of resilience, I suppose.",
+          "life_stage": "Adulthood",
+          "event_type": "Community Challenge",
+          "emotions": [
+            "loss",
+            "resilience"
+          ],
+          "entities": [
+            "community",
+            "employment",
+            "resilience"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "The way everyone came together sounds quite special. Can you tell me more about how these experiences affected your life personally?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Well, personally, it taught me a lot about resilience and the importance of community. I learned to appreciate the little things and to be resourceful. When you don't have a lot, you learn to make do. It wasn't just about getting by, but also about adapting and finding new ways to support my family. It also made me more empathetic. Seeing friends and neighbors struggle reminded me of the value of kindness and support.",
+      "sentence_annotations": [
+        {
+          "text": "Well, personally, it taught me a lot about resilience and the importance of community. I learned to appreciate the little things and to be resourceful.",
+          "life_stage": "Adulthood",
+          "event_type": "Economic Challenge",
+          "emotions": [
+            "resilience",
+            "resourcefulness"
+          ],
+          "entities": [
+            "community",
+            "resilience",
+            "kindness",
+            "support"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "So now that we're moving towards the present, how are you doing health-wise after everything you've been through?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Well, these days, I make sure to keep up with my health checkups. It's important, especially as you get older. With the kind of work I did for so many years, there's always a concern about the long-term effects. Luckily, I haven't had any major issues, just the usual aches and pains. The doc says I'm in pretty good shape for my age, which I suppose is a blessing. I've got a bit of arthritis, but that's to be expected, isn't it?",
+      "sentence_annotations": [
+        {
+          "text": "Well, these days, I make sure to keep up with my health checkups. It's important, especially as you get older.",
+          "life_stage": "Old Age",
+          "event_type": "Health checkups",
+          "emotions": [
+            "pragmatic",
+            "cautiously optimistic"
+          ],
+          "entities": [
+            "health checkups",
+            "old age"
+          ]
+        },
+        {
+          "text": "With the kind of work I did for so many years, there's always a concern about the long-term effects.",
+          "life_stage": "Old Age",
+          "event_type": "Reflecting on past work",
+          "emotions": [
+            "concern",
+            "reflective"
+          ],
+          "entities": [
+            "long-term effects",
+            "steel work"
+          ]
+        },
+        {
+          "text": "The doc says I'm in pretty good shape for my age, which I suppose is a blessing.",
+          "life_stage": "Old Age",
+          "event_type": "Health assessment",
+          "emotions": [
+            "relief",
+            "grateful"
+          ],
+          "entities": [
+            "health",
+            "doctor",
+            "blessing"
+          ]
+        },
+        {
+          "text": "I've got a bit of arthritis, but that's to be expected, isn't it?",
+          "life_stage": "Old Age",
+          "event_type": "Health issues",
+          "emotions": [
+            "acceptance"
+          ],
+          "entities": [
+            "arthritis"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "That sounds like a blessing indeed. How do you feel reflecting on your journey through the years, especially given the hardships you've faced?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Well, looking back, I'd say it's been quite a journey. From following my dad to the mill to seeing the community change, it's been a rollercoaster. But, you know, I've learned to be grateful for what I have. I think that's the biggest takeaway. The hardships taught me to value the simple things in life. Family, friends, a roof over your head—it's these things that really count in the end.",
+      "sentence_annotations": [
+        {
+          "text": "Looking back, I'd say it's been quite a journey. From following my dad to the mill to seeing the community change, it's been a rollercoaster.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Gratitude",
+            "Nostalgia"
+          ],
+          "entities": [
+            "dad",
+            "mill",
+            "community"
+          ]
+        },
+        {
+          "text": "The hardships taught me to value the simple things in life. Family, friends, a roof over your head—it's these things that really count in the end.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Gratitude",
+            "Contentment"
+          ],
+          "entities": [
+            "Family",
+            "friends"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "It seems like you've really taken a lot from your experiences over the years. How do you spend your time these days?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "Well, these days, I like to keep busy in my own way. I spend time in the garden, take walks around the neighborhood, and sometimes tinker around with small projects in the garage. I've got some grandkids now, and they keep me on my toes whenever they visit. I'm not one to sit still for too long. It's important to stay active, both for the body and the mind.",
+      "sentence_annotations": [
+        {
+          "text": "Well, these days, I like to keep busy in my own way. I spend time in the garden, take walks around the neighborhood, and sometimes tinker around with small projects in the garage.",
+          "life_stage": "Old Age",
+          "event_type": "Lifestyle",
+          "emotions": [
+            "contentment",
+            "peace"
+          ],
+          "entities": [
+            "gardening",
+            "neighborhood",
+            "projects"
+          ]
+        },
+        {
+          "text": "I've got some grandkids now, and they keep me on my toes whenever they visit.",
+          "life_stage": "Old Age",
+          "event_type": "Family",
+          "emotions": [
+            "joy",
+            "fulfillment"
+          ],
+          "entities": [
+            "grandkids"
+          ]
+        },
+        {
+          "text": "It's important to stay active, both for the body and the mind.",
+          "life_stage": "Old Age",
+          "event_type": "Health",
+          "emotions": [
+            "determination",
+            "awareness"
+          ],
+          "entities": [
+            "health",
+            "activity"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "Before we finish, Stan, what lesson would you want to share with future generations based on all you've experienced?"
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "I'd say, don't take anything for granted. Life can change on a dime, and what you have today might not be there tomorrow. Appreciate the people around you and the little things in life. Work hard, stay humble, and always look out for each other. In the end, it's the connections you make and the kindness you show that really matter.",
+      "sentence_annotations": [
+        {
+          "text": "I'd say, don't take anything for granted. Life can change on a dime, and what you have today might not be there tomorrow. Appreciate the people around you and the little things in life. Work hard, stay humble, and always look out for each other. In the end, it's the connections you make and the kindness you show that really matter.",
+          "life_stage": "Old Age",
+          "event_type": "Final Reflection",
+          "emotions": [
+            "Reflective",
+            "Grateful"
+          ],
+          "entities": [
+            "Future Generations",
+            "Life Lessons"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+{
+  "session_id": "09_Wei",
+  "tone": "Emotional and Vulnerable (Open about feelings)",
+  "profile": {
+    "id": "09_Wei",
+    "name": "Wei",
+    "age": 82,
+    "role": "Restaurant Owner",
+    "timeline": [
+      {
+        "stage": "Adulthood",
+        "topic": "Opening day 1975",
+        "context": "High risk."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "Kitchen fire",
+        "context": "Rebuilding."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Closing shop",
+        "context": "End of an era."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about the opening day of your restaurant back in 1975."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Ah, it feels like just yesterday. I remember the excitement and the nerves! We had been working tirelessly to get everything ready. The day finally came, and it was a mix of chaos and joy. The first customers came in, and seeing them enjoy the food made it all worthwhile. It was a small place, but it was ours, and it felt like a dream come true.",
+      "sentence_annotations": [
+        {
+          "text": "Ah, it feels like just yesterday.",
+          "life_stage": "Adulthood",
+          "event_type": "Opening Day",
+          "emotions": [
+            "Nostalgia",
+            "Excitement"
+          ],
+          "entities": [
+            "opening day",
+            "restaurant",
+            "1975"
+          ]
+        },
+        {
+          "text": "I remember the excitement and the nerves!",
+          "life_stage": "Adulthood",
+          "event_type": "Opening Day",
+          "emotions": [
+            "Excitement",
+            "Anxiety"
+          ],
+          "entities": [
+            "excitement",
+            "nerves"
+          ]
+        },
+        {
+          "text": "The day finally came, and it was a mix of chaos and joy.",
+          "life_stage": "Adulthood",
+          "event_type": "Opening Day",
+          "emotions": [
+            "Joy",
+            "Stress"
+          ],
+          "entities": [
+            "chaos",
+            "joy",
+            "customers"
+          ]
+        },
+        {
+          "text": "The first customers came in, and seeing them enjoy the food made it all worthwhile.",
+          "life_stage": "Adulthood",
+          "event_type": "Opening Day",
+          "emotions": [
+            "Satisfaction",
+            "Relief"
+          ],
+          "entities": [
+            "customers",
+            "food",
+            "satisfaction"
+          ]
+        },
+        {
+          "text": "It was a small place, but it was ours, and it felt like a dream come true.",
+          "life_stage": "Adulthood",
+          "event_type": "Opening Day",
+          "emotions": [
+            "Pride",
+            "Fulfillment"
+          ],
+          "entities": [
+            "small place",
+            "dream come true"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like that first day had a lot of mixed emotions. What do you think was the most challenging part of that day for you?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "You know, it was really about managing the unexpected. We thought we had everything under control, but the rush of customers took us by surprise. We ran out of some ingredients, and I remember scrambling in the kitchen to improvise. I felt a mix of panic and determination, but the support from my family and seeing our customers enjoy the meal kept me going. It was a day full of learning and adapting.",
+      "sentence_annotations": [
+        {
+          "text": "It was really about managing the unexpected. We thought we had everything under control, but the rush of customers took us by surprise. We ran out of some ingredients, and I remember scrambling in the kitchen to improvise.",
+          "life_stage": "Adulthood",
+          "event_type": "Opening day",
+          "emotions": [
+            "panic",
+            "determination"
+          ],
+          "entities": [
+            "customers",
+            "ingredients",
+            "family",
+            "kitchen"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been quite an experience. I'd love to hear about when things started to change for your restaurant."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "It was around the time of the kitchen fire. That day is still vivid in my mind. The fire started so quickly, and it felt like everything was happening in slow motion. I remember the panic and the fear, seeing the flames and worrying about everyone's safety. The restaurant was not just a business; it was my heart and soul. Watching it go up in flames was devastating. But afterward, we had the community rally around us. Their support was overwhelming and gave us the strength to rebuild.",
+      "sentence_annotations": [
+        {
+          "text": "The fire started so quickly, and it felt like everything was happening in slow motion.",
+          "life_stage": "Adulthood",
+          "event_type": "Crisis",
+          "emotions": [
+            "panic",
+            "fear",
+            "devastation"
+          ],
+          "entities": [
+            "kitchen fire",
+            "restaurant",
+            "community support"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "So when did things change again for you after rebuilding?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "After we rebuilt, things were great for a while. The community's support was unwavering, and it felt wonderful to be back. But, as time went on, I began to feel the wear and tear. Running a restaurant requires so much energy and passion, and I started to feel it was slipping away. It became harder to keep up with the demands, and I realized I was tired. The day we decided to close was emotional, but I knew it was time. It felt like saying goodbye to a part of myself, but also a relief in some ways.",
+      "sentence_annotations": [
+        {
+          "text": "After we rebuilt, things were great for a while. The community's support was unwavering, and it felt wonderful to be back.",
+          "life_stage": "Adulthood",
+          "event_type": "Reopening",
+          "emotions": [
+            "gratitude",
+            "joy"
+          ],
+          "entities": [
+            "community",
+            "restaurant"
+          ]
+        },
+        {
+          "text": "But, as time went on, I began to feel the wear and tear. Running a restaurant requires so much energy and passion, and I started to feel it was slipping away.",
+          "life_stage": "Adulthood",
+          "event_type": "Burnout",
+          "emotions": [
+            "exhaustion",
+            "resignation"
+          ],
+          "entities": [
+            "restaurant"
+          ]
+        },
+        {
+          "text": "The day we decided to close was emotional, but I knew it was time. It felt like saying goodbye to a part of myself, but also a relief in some ways.",
+          "life_stage": "Adulthood",
+          "event_type": "Closing",
+          "emotions": [
+            "sadness",
+            "relief"
+          ],
+          "entities": [
+            "restaurant"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "That must have been incredibly challenging to watch everything you worked for go up in flames. How did you find the strength to move forward and rebuild?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "It was one of the hardest moments of my life. But, as I mentioned, the community support was immense. They were there for us, offering help, encouragement, and even financial support. My family was the backbone during that time, reminding me that we had to get back on our feet, not just for ourselves but for the people who loved our food and our little place. It was a journey of resilience, and it took a lot of courage and hope to start anew.",
+      "sentence_annotations": [
+        {
+          "text": "It was one of the hardest moments of my life. But, as I mentioned, the community support was immense. They were there for us, offering help, encouragement, and even financial support.",
+          "life_stage": "Adulthood",
+          "event_type": "Kitchen fire",
+          "emotions": [
+            "resilience",
+            "gratitude",
+            "hope"
+          ],
+          "entities": [
+            "community",
+            "family",
+            "financial support"
+          ]
+        },
+        {
+          "text": "My family was the backbone during that time, reminding me that we had to get back on our feet, not just for ourselves but for the people who loved our food and our little place.",
+          "life_stage": "Adulthood",
+          "event_type": "Kitchen fire",
+          "emotions": [
+            "resilience",
+            "hope",
+            "determination"
+          ],
+          "entities": [
+            "family",
+            "community"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "It sounds like your community played a big role in helping you rebuild. Can you tell me more about some of the specific challenges you faced during that time?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Oh, definitely. One of the biggest challenges was finding the resources to rebuild. Financially, it was tough. Insurance covered some of it, but not everything. We had to be really careful with every penny we spent. Then, there was the emotional challenge of reliving the fire every time we tried to make a new start. It was like a shadow that hung over us. But my family and the community kept reminding me of the good times, the laughter, and smiles we had served over the years. It was those memories that kept me going. And then there was the challenge of physically rebuilding. We wanted to make sure it was done right and safe, which took time and patience. It was a slow process, but step by step, we made it.",
+      "sentence_annotations": [
+        {
+          "text": "One of the biggest challenges was finding the resources to rebuild. Financially, it was tough.",
+          "life_stage": "Adulthood",
+          "event_type": "Rebuilding after a disaster",
+          "emotions": [
+            "determination",
+            "anxiety"
+          ],
+          "entities": [
+            "financial resources",
+            "insurance"
+          ]
+        },
+        {
+          "text": "It was like a shadow that hung over us.",
+          "life_stage": "Adulthood",
+          "event_type": "Emotional impact of a crisis",
+          "emotions": [
+            "haunted",
+            "hopeful"
+          ],
+          "entities": [
+            "the fire"
+          ]
+        },
+        {
+          "text": "But my family and the community kept reminding me of the good times, the laughter, and smiles we had served over the years.",
+          "life_stage": "Adulthood",
+          "event_type": "Support and resilience",
+          "emotions": [
+            "gratitude",
+            "nostalgia"
+          ],
+          "entities": [
+            "family",
+            "community"
+          ]
+        },
+        {
+          "text": "And then there was the challenge of physically rebuilding.",
+          "life_stage": "Adulthood",
+          "event_type": "Reconstruction",
+          "emotions": [
+            "patience",
+            "cautiousness"
+          ],
+          "entities": [
+            "physical rebuilding",
+            "safety"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "That sounds like a very tough period. How did you manage to keep your spirits up during the rebuilding process?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "It was indeed tough. There were days I felt like giving up, but my family was always there, reminding me of what we had accomplished before and what we could achieve again. They helped me see the bigger picture, and their optimism was contagious. Plus, the encouragement from our loyal customers was a constant reminder of why we started the restaurant in the first place. It was their support and love that truly kept me going. I also reminded myself of the joy cooking brought me, and that became a source of strength.",
+      "sentence_annotations": [
+        {
+          "text": "There were days I felt like giving up, but my family was always there, reminding me of what we had accomplished before and what we could achieve again.",
+          "life_stage": "Adulthood",
+          "event_type": "Rebuilding after kitchen fire",
+          "emotions": [
+            "gratitude",
+            "determination"
+          ],
+          "entities": [
+            "family"
+          ]
+        },
+        {
+          "text": "Plus, the encouragement from our loyal customers was a constant reminder of why we started the restaurant in the first place.",
+          "life_stage": "Adulthood",
+          "event_type": "Rebuilding after kitchen fire",
+          "emotions": [
+            "gratefulness",
+            "nostalgia"
+          ],
+          "entities": [
+            "customers"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear more about the emotional challenges you faced after the fire."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Emotionally, it was like trying to piece together a shattered dream. The fire had taken away something precious, and it felt like a part of me was lost in the flames. I had to confront a lot of fears—fear of failure, fear of starting over, and fear of not being able to provide for my family. It was like carrying a heavy weight on my heart. But I knew I had to push through those feelings. My family's unwavering belief in our ability to rebuild and the community's encouragement were like a lifeline. They helped me find the courage to face each new day and keep moving forward.",
+      "sentence_annotations": [
+        {
+          "text": "Emotionally, it was like trying to piece together a shattered dream. The fire had taken away something precious, and it felt like a part of me was lost in the flames.",
+          "life_stage": "Adulthood",
+          "event_type": "Kitchen fire",
+          "emotions": [
+            "loss",
+            "fear",
+            "determination"
+          ],
+          "entities": [
+            "fire",
+            "dreams",
+            "family",
+            "community"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "So when did you realize it was time to close the restaurant?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Closing the restaurant was not an easy decision. We had been in business for so long, and it felt like part of my identity. But as the years went by, I started to feel the heavy weight of exhaustion. My body wasn't as strong as it used to be, and the long hours were taking a toll on my health. The restaurant was my life's work, but I knew I couldn't keep up with the demands anymore. It was a bittersweet moment when we finally decided to close. It felt like letting go of a part of myself, but I also knew it was time to take care of myself and spend more time with my family. The decision was hard, but ultimately, it brought me peace.",
+      "sentence_annotations": [
+        {
+          "text": "Closing the restaurant was not an easy decision. We had been in business for so long, and it felt like part of my identity.",
+          "life_stage": "Old Age",
+          "event_type": "Closing Shop",
+          "emotions": [
+            "Sadness",
+            "Acceptance"
+          ],
+          "entities": [
+            "Restaurant",
+            "Identity"
+          ]
+        },
+        {
+          "text": "But as the years went by, I started to feel the heavy weight of exhaustion. My body wasn't as strong as it used to be, and the long hours were taking a toll on my health.",
+          "life_stage": "Old Age",
+          "event_type": "Closing Shop",
+          "emotions": [
+            "Exhaustion",
+            "Vulnerability"
+          ],
+          "entities": [
+            "Health",
+            "Exhaustion"
+          ]
+        },
+        {
+          "text": "The restaurant was my life's work, but I knew I couldn't keep up with the demands anymore.",
+          "life_stage": "Old Age",
+          "event_type": "Closing Shop",
+          "emotions": [
+            "Resignation",
+            "Realization"
+          ],
+          "entities": [
+            "Restaurant",
+            "Life's Work"
+          ]
+        },
+        {
+          "text": "It was a bittersweet moment when we finally decided to close. It felt like letting go of a part of myself, but I also knew it was time to take care of myself and spend more time with my family.",
+          "life_stage": "Old Age",
+          "event_type": "Closing Shop",
+          "emotions": [
+            "Bittersweet",
+            "Resolution"
+          ],
+          "entities": [
+            "Family",
+            "Self-Care"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "That must have been a difficult decision to make, closing something that had been such a significant part of your life. How did you cope with that transition?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "It was hard, really hard. I felt like I was losing a part of myself. The restaurant had been my life for so many years, and walking away felt like leaving behind a piece of my heart. But I knew it was necessary. I coped by focusing on the positives—more time with my family, less stress, and the opportunity to finally take care of myself. It was a chance to enjoy the simpler things in life. My family was incredibly supportive, and they helped me see that it was okay to move on and embrace a new chapter.",
+      "sentence_annotations": [
+        {
+          "text": "walking away felt like leaving behind a piece of my heart",
+          "life_stage": "Old Age",
+          "event_type": "Closure of business",
+          "emotions": [
+            "loss",
+            "acceptance"
+          ],
+          "entities": [
+            "restaurant",
+            "family"
+          ]
+        },
+        {
+          "text": "My family was incredibly supportive, and they helped me see that it was okay to move on and embrace a new chapter.",
+          "life_stage": "Old Age",
+          "event_type": "Family support",
+          "emotions": [
+            "gratitude",
+            "relief"
+          ],
+          "entities": [
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "Transitioning from such a significant part of your life must have been quite a journey. How has this new chapter been for you?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "This new chapter has been a mix of emotions. On one hand, I miss the hustle and bustle of the restaurant, the joy of cooking for others, and the satisfaction of seeing happy customers. But on the other hand, I feel a sense of relief and peace. I have more time to spend with my family, to enjoy the little things in life that I missed before. It's been a time to reconnect with myself and my loved ones. I've learned to appreciate the quiet moments, and that's been a blessing.",
+      "sentence_annotations": [
+        {
+          "text": "This new chapter has been a mix of emotions. On one hand, I miss the hustle and bustle of the restaurant, the joy of cooking for others, and the satisfaction of seeing happy customers.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Nostalgia",
+            "Loss"
+          ],
+          "entities": [
+            "Restaurant",
+            "Cooking",
+            "Customers"
+          ]
+        },
+        {
+          "text": "But on the other hand, I feel a sense of relief and peace. I have more time to spend with my family, to enjoy the little things in life that I missed before.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Relief",
+            "Peace"
+          ],
+          "entities": [
+            "Family",
+            "Life"
+          ]
+        },
+        {
+          "text": "It's been a time to reconnect with myself and my loved ones. I've learned to appreciate the quiet moments, and that's been a blessing.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Gratitude",
+            "Contentment"
+          ],
+          "entities": [
+            "Self",
+            "Loved ones",
+            "Quiet moments"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "It sounds like you've gone through a lot of emotional ups and downs. How do you find happiness in your life now, after all those years of running the restaurant?"
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "Finding happiness now is about cherishing the simple moments. I take joy in spending time with my grandchildren, watching them grow, and sharing stories from the past. I've also picked up gardening, which has become a new passion. There's something peaceful about tending to plants and watching them thrive. It's a reminder of growth and renewal. I still cook, but now it's for family gatherings or community events, and that brings me joy too. It's about finding new ways to share love and create memories.",
+      "sentence_annotations": [
+        {
+          "text": "Finding happiness now is about cherishing the simple moments.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Contentment",
+            "Gratitude"
+          ],
+          "entities": [
+            "Happiness",
+            "Simple Moments"
+          ]
+        },
+        {
+          "text": "I take joy in spending time with my grandchildren, watching them grow, and sharing stories from the past.",
+          "life_stage": "Old Age",
+          "event_type": "Family",
+          "emotions": [
+            "Joy",
+            "Nostalgia"
+          ],
+          "entities": [
+            "Grandchildren",
+            "Stories"
+          ]
+        },
+        {
+          "text": "I've also picked up gardening, which has become a new passion.",
+          "life_stage": "Old Age",
+          "event_type": "Hobby",
+          "emotions": [
+            "Peacefulness",
+            "Passion"
+          ],
+          "entities": [
+            "Gardening",
+            "New Passion"
+          ]
+        },
+        {
+          "text": "I still cook, but now it's for family gatherings or community events, and that brings me joy too.",
+          "life_stage": "Old Age",
+          "event_type": "Hobby",
+          "emotions": [
+            "Joy",
+            "Fulfillment"
+          ],
+          "entities": [
+            "Cooking",
+            "Family Gatherings",
+            "Community Events"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 25,
+      "speaker": "Interviewer",
+      "text": "Before we finish, what would you say is the biggest lesson you've learned from your journey with the restaurant?"
+    },
+    {
+      "turn_id": 26,
+      "speaker": "Subject",
+      "text": "The biggest lesson I've learned is the importance of community and resilience. It's about the people who stand by you through thick and thin, and the strength you find within yourself to keep going, even when times are tough. I've realized that it's okay to lean on others for support and that asking for help is not a sign of weakness. I've also learned that it's never too late to start anew and find peace in different ways. Life is full of ups and downs, but it's the love and connections we build that truly matter.",
+      "sentence_annotations": [
+        {
+          "text": "The biggest lesson I've learned is the importance of community and resilience.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Gratitude",
+            "Wisdom"
+          ],
+          "entities": [
+            "Community",
+            "Resilience"
+          ]
+        },
+        {
+          "text": "I've realized that it's okay to lean on others for support and that asking for help is not a sign of weakness.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Understanding",
+            "Acceptance"
+          ],
+          "entities": [
+            "Support",
+            "Help"
+          ]
+        },
+        {
+          "text": "I've also learned that it's never too late to start anew and find peace in different ways.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Hope",
+            "Peace"
+          ],
+          "entities": [
+            "Renewal",
+            "Peace"
+          ]
+        }
+      ]
+    }
+  ]
+}

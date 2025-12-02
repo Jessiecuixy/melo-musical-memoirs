@@ -1,0 +1,601 @@
+{
+  "session_id": "17_Mike",
+  "tone": "Proud and Dignified (Focuses on achievements)",
+  "profile": {
+    "id": "17_Mike",
+    "name": "Mike",
+    "age": 71,
+    "role": "Police Officer",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "Beat cop in the 70s",
+        "context": "Dangerous streets."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "Making Detective",
+        "context": "The case that haunts him."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Retirement fishing",
+        "context": "Finding peace."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about what it was like being a beat cop in the 70s."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Ah, the 70s were quite the time. Being a beat cop back then was different from what you see today. We relied a lot on face-to-face interactions and knew the neighborhood inside out. There was a real sense of community and trust between us and the people; it was a different kind of policing.",
+      "sentence_annotations": [
+        {
+          "text": "Ah, the 70s were quite the time. Being a beat cop back then was different from what you see today.",
+          "life_stage": "Young Adult",
+          "event_type": "Professional Experience",
+          "emotions": [
+            "Nostalgia",
+            "Pride"
+          ],
+          "entities": [
+            "1970s",
+            "beat cop",
+            "policing"
+          ]
+        },
+        {
+          "text": "We relied a lot on face-to-face interactions and knew the neighborhood inside out.",
+          "life_stage": "Young Adult",
+          "event_type": "Professional Experience",
+          "emotions": [
+            "Pride",
+            "Satisfaction"
+          ],
+          "entities": [
+            "community",
+            "neighborhood",
+            "policing"
+          ]
+        },
+        {
+          "text": "There was a real sense of community and trust between us and the people; it was a different kind of policing.",
+          "life_stage": "Young Adult",
+          "event_type": "Professional Experience",
+          "emotions": [
+            "Nostalgia",
+            "Pride"
+          ],
+          "entities": [
+            "community",
+            "trust",
+            "policing"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like those connections with the community were really important. Can you share a story that stands out from that time?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Absolutely, I remember one incident where a local shop was robbed. We didn't have the technology you have today, so it was all about knowing the people and the area. I spent time talking to folks, and eventually, a store clerk gave me a tip. We managed to catch the guy, but it was all thanks to the relationships we built. It was satisfying to see how our efforts helped keep the neighborhood safe.",
+      "sentence_annotations": [
+        {
+          "text": "I remember one incident where a local shop was robbed.",
+          "life_stage": "Adulthood",
+          "event_type": "Work Experience",
+          "emotions": [
+            "Pride",
+            "Satisfaction"
+          ],
+          "entities": [
+            "Local shop",
+            "Store clerk",
+            "Neighborhood"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been rewarding. So, when did things change for you in your career?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "Things really shifted when I made detective in the late 80s. That was a big step up for me. Moving from the streets to the office required a different kind of skill set. Suddenly, it was more about piecing together puzzles and analyzing evidence. But, I was ready for the challenge. The transition wasn't easy, but I took pride in honing my investigative skills.",
+      "sentence_annotations": [
+        {
+          "text": "Things really shifted when I made detective in the late 80s...",
+          "life_stage": "Career Advancement",
+          "event_type": "Promotion",
+          "emotions": [
+            "Proud",
+            "Determined"
+          ],
+          "entities": [
+            "Detective",
+            "Late 80s",
+            "Investigation"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "It sounds like you were ready to embrace the new challenges that came with being a detective. What was one of the most memorable cases you worked on during that time?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "One case that stands out was a high-profile burglary ring. It was complex, and the planning these guys put into their operations was something else. We had to be really strategic in how we approached it. It took months of gathering information, working closely with the team, and following every possible lead. I remember the satisfaction of finally cracking the case and seeing the relief on the victims' faces. It took a lot of teamwork and perseverance.",
+      "sentence_annotations": [
+        {
+          "text": "One case that stands out was a high-profile burglary ring. It was complex, and the planning these guys put into their operations was something else.",
+          "life_stage": "Mid-Career",
+          "event_type": "Professional Achievement",
+          "emotions": [
+            "Pride",
+            "Satisfaction"
+          ],
+          "entities": [
+            "high-profile burglary ring",
+            "team"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "That sounds like a significant accomplishment. How did your career as a detective come to an end?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "Well, after a couple of decades of working as a detective, I decided it was time to retire in the late 90s. The job was fulfilling, but it was also demanding and took a lot out of me. I wanted to spend more time with my family and pursue other interests, like fishing, which has always been a passion of mine. Leaving the force was bittersweet, but I felt it was the right decision for me at that stage in life.",
+      "sentence_annotations": [
+        {
+          "text": "I decided it was time to retire in the late 90s.",
+          "life_stage": "Late Career",
+          "event_type": "Retirement",
+          "emotions": [
+            "contentment",
+            "reflectiveness"
+          ],
+          "entities": [
+            "retirement",
+            "family",
+            "fishing"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your time as a detective. What made you decide to take that step?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Becoming a detective was something I'd always aspired to. It was the logical next step after spending years on the beat, understanding the streets and the people. The opportunity came up in the late 80s, and I knew it was my chance to dive deeper into law enforcement. The transition from a beat cop to a detective wasn't just a change in title; it was a whole new way of thinking. I had to sharpen my analytical skills and learn to look at the bigger picture. It was challenging but immensely rewarding when you could solve a case and bring justice to those affected.",
+      "sentence_annotations": [
+        {
+          "text": "Becoming a detective was something I'd always aspired to.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Advancement",
+          "emotions": [
+            "Pride",
+            "Satisfaction"
+          ],
+          "entities": [
+            "Detective",
+            "Career"
+          ]
+        },
+        {
+          "text": "I had to sharpen my analytical skills and learn to look at the bigger picture.",
+          "life_stage": "Adulthood",
+          "event_type": "Skill Development",
+          "emotions": [
+            "Determination",
+            "Fulfillment"
+          ],
+          "entities": [
+            "Analytical Skills",
+            "Problem-solving"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about some of the core challenges you faced as a detective."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "One of the biggest challenges was dealing with the evolving nature of crime. In the late 80s and 90s, we started seeing more sophisticated criminal activities. Technology was beginning to play a major role, and keeping up with it was no easy task. I had to continuously learn and adapt. Another challenge was the pressure of high-profile cases, where the stakes were incredibly high. But I always felt a strong sense of duty to solve these cases and keep the community safe.",
+      "sentence_annotations": [
+        {
+          "text": "One of the biggest challenges was dealing with the evolving nature of crime. In the late 80s and 90s, we started seeing more sophisticated criminal activities. Technology was beginning to play a major role, and keeping up with it was no easy task.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Challenge",
+          "emotions": [
+            "Pride",
+            "Determination"
+          ],
+          "entities": [
+            "Crime",
+            "Technology",
+            "1980s",
+            "1990s"
+          ]
+        },
+        {
+          "text": "Another challenge was the pressure of high-profile cases, where the stakes were incredibly high. But I always felt a strong sense of duty to solve these cases and keep the community safe.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Challenge",
+          "emotions": [
+            "Duty",
+            "Responsibility"
+          ],
+          "entities": [
+            "High-profile cases",
+            "Community",
+            "Safety"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "That must have been hard with all those changes. What specific skills did you find most crucial during those times?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Adaptability was key. As a detective, you had to be versatile and open to new methods. We couldn't rely solely on traditional techniques, especially as crimes became more complex. I also learned the importance of teamwork. You can't solve these cases alone, and having a reliable team was essential. It was also critical to have a keen eye for detail. Often, the smallest piece of evidence could unravel an entire case. We had to be meticulous in our investigations.",
+      "sentence_annotations": [
+        {
+          "text": "Adaptability was key. As a detective, you had to be versatile and open to new methods. We couldn't rely solely on traditional techniques, especially as crimes became more complex. I also learned the importance of teamwork. You can't solve these cases alone, and having a reliable team was essential. It was also critical to have a keen eye for detail. Often, the smallest piece of evidence could unravel an entire case. We had to be meticulous in our investigations.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Challenges",
+          "emotions": [
+            "Pride",
+            "Determination"
+          ],
+          "entities": [
+            "Adaptability",
+            "Teamwork",
+            "Attention to Detail"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "It sounds like your adaptability was vital. Was there a moment when you realized how much things had changed?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Absolutely. There was a case in the early 90s involving a series of bank frauds. It was unlike anything we'd seen before, with the criminals using computers to orchestrate their plans. I remember feeling out of my depth initially because it required a new level of understanding of technology. That's when I realized the importance of continuous learning and adapting to the digital age. We brought in a tech expert to help us, and it made all the difference. We eventually cracked the case, but it was a wake-up call for how policing was evolving.",
+      "sentence_annotations": [
+        {
+          "text": "I realized the importance of continuous learning and adapting to the digital age.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Challenge",
+          "emotions": [
+            "Awareness",
+            "Determination"
+          ],
+          "entities": [
+            "Bank fraud",
+            "Technology",
+            "Policing"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "What was it like to handle the pressure of those high-profile cases?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Handling high-profile cases often meant a lot of sleepless nights. There was always a sense of urgency and the knowledge that many people were relying on you. It required not just technical skills but also the ability to stay calm under pressure. I remember one particular case where the media attention was intense. Every move we made was scrutinized, and there was no room for error. But what kept me grounded was the support from my team and the drive to bring justice to the victims involved. It was rewarding but definitely tested my resilience.",
+      "sentence_annotations": [
+        {
+          "text": "Handling high-profile cases often meant a lot of sleepless nights. There was always a sense of urgency and the knowledge that many people were relying on you. It required not just technical skills but also the ability to stay calm under pressure. I remember one particular case where the media attention was intense. Every move we made was scrutinized, and there was no room for error. But what kept me grounded was the support from my team and the drive to bring justice to the victims involved. It was rewarding but definitely tested my resilience.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Challenge",
+          "emotions": [
+            "Pride",
+            "Stress"
+          ],
+          "entities": [
+            "high-profile cases",
+            "media attention",
+            "team support"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "So after retiring, what has life been like for you, especially with your love for fishing?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "Retirement has been a blessing, really. After all those years on the force, I finally had the time to do what I love. Fishing has always been a passion of mine, and now I get to spend my days out on the water. There's something incredibly peaceful about it. It's just you, the water, and the fish – no pressures, no deadlines. It's given me a chance to reflect on my life and career while enjoying the tranquility of nature.",
+      "sentence_annotations": [
+        {
+          "text": "Retirement has been a blessing, really. After all those years on the force, I finally had the time to do what I love. Fishing has always been a passion of mine, and now I get to spend my days out on the water. There's something incredibly peaceful about it. It's just you, the water, and the fish – no pressures, no deadlines. It's given me a chance to reflect on my life and career while enjoying the tranquility of nature.",
+          "life_stage": "Old Age",
+          "event_type": "Retirement",
+          "emotions": [
+            "Contentment",
+            "Peacefulness"
+          ],
+          "entities": [
+            "Retirement",
+            "Fishing",
+            "Nature"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "That sounds like a wonderful way to spend your retirement. How do you feel when you look back on your career now?"
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "Looking back on my career, I feel a great sense of pride. I dedicated a significant portion of my life to serving and protecting the community, and that’s something I hold close to my heart. There were tough days, no doubt, but I believe we made a difference. The friendships and camaraderie I experienced with my fellow officers were invaluable. And now, in retirement, I have the freedom to enjoy the simple pleasures of life, like fishing, which brings its own kind of fulfillment.",
+      "sentence_annotations": [
+        {
+          "text": "Looking back on my career, I feel a great sense of pride.",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "Pride"
+          ],
+          "entities": [
+            "career",
+            "pride"
+          ]
+        },
+        {
+          "text": "I dedicated a significant portion of my life to serving and protecting the community.",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "Pride"
+          ],
+          "entities": [
+            "community",
+            "service"
+          ]
+        },
+        {
+          "text": "The friendships and camaraderie I experienced with my fellow officers were invaluable.",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "Nostalgia",
+            "Gratitude"
+          ],
+          "entities": [
+            "friendships",
+            "fellow officers"
+          ]
+        },
+        {
+          "text": "And now, in retirement, I have the freedom to enjoy the simple pleasures of life, like fishing, which brings its own kind of fulfillment.",
+          "life_stage": "Old Age",
+          "event_type": "Retirement",
+          "emotions": [
+            "Contentment",
+            "Fulfillment"
+          ],
+          "entities": [
+            "retirement",
+            "fishing"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 25,
+      "speaker": "Interviewer",
+      "text": "It sounds like your adaptability was vital. Was there a moment when you realized how much things had changed?"
+    },
+    {
+      "turn_id": 26,
+      "speaker": "Subject",
+      "text": "Absolutely. There was a case in the early 90s involving a series of bank frauds. It was unlike anything we'd seen before, with the criminals using computers to orchestrate their plans. I remember feeling out of my depth initially because it required a new level of understanding of technology. That's when I realized the importance of continuous learning and adapting to the digital age. We brought in a tech expert to help us, and it made all the difference. We eventually cracked the case, but it was a wake-up call for how policing was evolving.",
+      "sentence_annotations": [
+        {
+          "text": "Absolutely. There was a case in the early 90s involving a series of bank frauds. It was unlike anything we'd seen before, with the criminals using computers to orchestrate their plans.",
+          "life_stage": "Old Age",
+          "event_type": "Career Experience",
+          "emotions": [
+            "Surprised",
+            "Determined"
+          ],
+          "entities": [
+            "bank frauds",
+            "computers",
+            "technology"
+          ]
+        },
+        {
+          "text": "I remember feeling out of my depth initially because it required a new level of understanding of technology.",
+          "life_stage": "Old Age",
+          "event_type": "Career Challenge",
+          "emotions": [
+            "Overwhelmed",
+            "Motivated"
+          ],
+          "entities": [
+            "technology"
+          ]
+        },
+        {
+          "text": "That's when I realized the importance of continuous learning and adapting to the digital age.",
+          "life_stage": "Old Age",
+          "event_type": "Career Insight",
+          "emotions": [
+            "Realization",
+            "Acceptance"
+          ],
+          "entities": [
+            "learning",
+            "digital age"
+          ]
+        },
+        {
+          "text": "We brought in a tech expert to help us, and it made all the difference. We eventually cracked the case, but it was a wake-up call for how policing was evolving.",
+          "life_stage": "Old Age",
+          "event_type": "Career Achievement",
+          "emotions": [
+            "Relieved",
+            "Accomplished"
+          ],
+          "entities": [
+            "tech expert",
+            "policing",
+            "evolving"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 27,
+      "speaker": "Interviewer",
+      "text": "Reflecting on your time as a detective, what are you most proud of?"
+    },
+    {
+      "turn_id": 28,
+      "speaker": "Subject",
+      "text": "What I'm most proud of is the impact we had on the community. Every case solved felt like a small victory for the people we served. There was a case involving a missing child that hit very close to home. We worked tirelessly, and when we finally found the child and reunited them with their family, it was one of the most fulfilling moments of my career. Those are the memories that stay with you, the ones where you know you made a real difference.",
+      "sentence_annotations": [
+        {
+          "text": "What I'm most proud of is the impact we had on the community. Every case solved felt like a small victory for the people we served.",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "pride",
+            "fulfillment"
+          ],
+          "entities": [
+            "community",
+            "cases"
+          ]
+        },
+        {
+          "text": "There was a case involving a missing child that hit very close to home. We worked tirelessly, and when we finally found the child and reunited them with their family, it was one of the most fulfilling moments of my career.",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "fulfillment",
+            "pride"
+          ],
+          "entities": [
+            "missing child",
+            "family",
+            "career"
+          ]
+        },
+        {
+          "text": "Those are the memories that stay with you, the ones where you know you made a real difference.",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "pride",
+            "satisfaction"
+          ],
+          "entities": [
+            "memories",
+            "difference"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 29,
+      "speaker": "Interviewer",
+      "text": "Before we finish, what would you say is the most important lesson you've learned from your career?"
+    },
+    {
+      "turn_id": 30,
+      "speaker": "Subject",
+      "text": "Throughout my career, the most important lesson I learned is the value of perseverance and adaptability. Policing taught me that no matter how tough things get, you need to keep pushing forward and be open to change. The world changes, and so do the challenges, but what remains constant is the dedication to doing what's right and serving the community. It’s also essential to appreciate the people around you. The support from my colleagues and the community was invaluable. Those connections made all the difference, both in my career and my life.",
+      "sentence_annotations": [
+        {
+          "text": "Throughout my career, the most important lesson I learned is the value of perseverance and adaptability.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "pride",
+            "gratitude"
+          ],
+          "entities": [
+            "perseverance",
+            "adaptability",
+            "career"
+          ]
+        },
+        {
+          "text": "The world changes, and so do the challenges, but what remains constant is the dedication to doing what's right and serving the community.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "determination",
+            "commitment"
+          ],
+          "entities": [
+            "community",
+            "dedication",
+            "service"
+          ]
+        },
+        {
+          "text": "The support from my colleagues and the community was invaluable.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "gratitude",
+            "appreciation"
+          ],
+          "entities": [
+            "colleagues",
+            "community"
+          ]
+        }
+      ]
+    }
+  ]
+}

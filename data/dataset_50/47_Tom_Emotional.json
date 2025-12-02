@@ -1,0 +1,603 @@
+{
+  "session_id": "47_Tom",
+  "tone": "Emotional and Vulnerable (Open about feelings)",
+  "profile": {
+    "id": "47_Tom",
+    "name": "Tom",
+    "age": 77,
+    "role": "Coast Guard",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "Storm rescue",
+        "context": "Adrenaline."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "Oil spill cleanup",
+        "context": "Environmental grief."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Living by the lake",
+        "context": "Respect for water."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about the storm rescue you were involved in."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Oh, that was quite a day. It was back in '73, I believe. The storm came out of nowhere, and we got the call that a fishing boat was in trouble. The waves were monstrous. We were all young, but I remember feeling a mix of fear and determination. We had to get those guys out.",
+      "sentence_annotations": [
+        {
+          "text": "The storm came out of nowhere, and we got the call that a fishing boat was in trouble.",
+          "life_stage": "Youth",
+          "event_type": "Storm rescue",
+          "emotions": [
+            "Fear",
+            "Determination"
+          ],
+          "entities": [
+            "Fishing boat",
+            "Storm",
+            "Rescue"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like the storm rescue left a significant impression on you. What was going through your mind as you approached the boat?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "You know, as we got closer, the fear turned into adrenaline. We were fully focused on the mission. I could see the boat struggling against the waves, and all I could think about was getting everyone back safely. It was an intense experience, but there was also this incredible sense of responsibility and camaraderie with my crew.",
+      "sentence_annotations": [
+        {
+          "text": "as we got closer, the fear turned into adrenaline",
+          "life_stage": "Early Adulthood",
+          "event_type": "Storm rescue",
+          "emotions": [
+            "fear",
+            "adrenaline",
+            "determination"
+          ],
+          "entities": [
+            "storm",
+            "fishing boat",
+            "crew"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been an incredible experience. How did that day shape your career in the Coast Guard?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "It really did. You know, after that rescue, I realized the impact we could have. It wasn't just about the thrill; it was about saving lives. It instilled a sense of purpose in me, and I knew I wanted to continue making a difference. That day was a turning point, not just in my career but in how I viewed my role. The camaraderie with the crew also strengthened, and that bond carried us through many more challenging situations.",
+      "sentence_annotations": [
+        {
+          "text": "It really did. You know, after that rescue, I realized the impact we could have.",
+          "life_stage": "Early Career",
+          "event_type": "Storm Rescue Reflection",
+          "emotions": [
+            "Purposeful",
+            "Reflective"
+          ],
+          "entities": [
+            "Coast Guard",
+            "Rescue"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "It sounds like that day had a profound impact on you. What were some of the challenges you faced during the oil spill cleanup?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Oh, the oil spill was a whole different beast. It was a few years after the storm rescue, around '76. The cleanup was frustrating because the damage was so extensive, and it felt like we were up against a giant. I had this overwhelming sadness seeing the wildlife struggling and knowing how the environment was suffering. It was a test of patience and perseverance. We worked long hours trying to contain and clean up, and even though it was tough, I felt like we were doing something necessary and important.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, the oil spill was a whole different beast.",
+          "life_stage": "Adulthood",
+          "event_type": "Environmental Disaster",
+          "emotions": [
+            "frustration",
+            "sadness",
+            "perseverance"
+          ],
+          "entities": [
+            "oil spill",
+            "wildlife",
+            "environment"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "That sounds incredibly challenging. So when did things change after the oil spill cleanup?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "Well, after the cleanup, I think we all felt a little worn out. It was around the late '70s when I started considering what was next for me. The constant battle with nature and seeing the destruction really took a toll on me emotionally. I decided I needed a change, something a bit more peaceful. That's when I moved to the lake. It was a big shift, but I felt I needed that calm after all the chaos I'd been through.",
+      "sentence_annotations": [
+        {
+          "text": "I decided I needed a change, something a bit more peaceful. That's when I moved to the lake.",
+          "life_stage": "Adulthood",
+          "event_type": "Life Transition",
+          "emotions": [
+            "worn out",
+            "emotional toll",
+            "need for peace"
+          ],
+          "entities": [
+            "lake",
+            "oil spill cleanup",
+            "late '70s"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "That sounds incredibly challenging. So when did things change after the oil spill cleanup?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Well, after the cleanup, I think we all felt a little worn out. It was around the late '70s when I started considering what was next for me. The constant battle with nature and seeing the destruction really took a toll on me emotionally. I decided I needed a change, something a bit more peaceful. That's when I moved to the lake. It was a big shift, but I felt I needed that calm after all the chaos I'd been through.",
+      "sentence_annotations": [
+        {
+          "text": "Well, after the cleanup, I think we all felt a little worn out. It was around the late '70s when I started considering what was next for me.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Exhaustion",
+            "Contemplation"
+          ],
+          "entities": [
+            "Oil Spill",
+            "Late 1970s"
+          ]
+        },
+        {
+          "text": "The constant battle with nature and seeing the destruction really took a toll on me emotionally.",
+          "life_stage": "Adulthood",
+          "event_type": "Emotional Impact",
+          "emotions": [
+            "Emotional Toll",
+            "Sadness"
+          ],
+          "entities": [
+            "Nature",
+            "Destruction"
+          ]
+        },
+        {
+          "text": "I decided I needed a change, something a bit more peaceful. That's when I moved to the lake.",
+          "life_stage": "Adulthood",
+          "event_type": "Relocation",
+          "emotions": [
+            "Desire for Peace",
+            "Hopefulness"
+          ],
+          "entities": [
+            "Lake",
+            "Relocation"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear more about the oil spill cleanup and how it affected you personally."
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "The oil spill was unlike anything I'd dealt with before. It was such a massive operation, and I remember feeling overwhelmed at first. The scale of the damage was just heartbreaking. Seeing the oil cover everything, knowing the impact it was having on marine life and the environment, it was tough. There was a moment when I saw a bird struggling in the oil, and it just hit me hard. It was a stark reminder of why our work was so important, but it also weighed heavily on my heart. The whole experience was both physically and emotionally exhausting.",
+      "sentence_annotations": [
+        {
+          "text": "The oil spill was unlike anything I'd dealt with before.",
+          "life_stage": "Adulthood",
+          "event_type": "Oil spill cleanup",
+          "emotions": [
+            "overwhelmed",
+            "heartbreaking"
+          ],
+          "entities": [
+            "oil spill",
+            "marine life",
+            "environment"
+          ]
+        },
+        {
+          "text": "Seeing the oil cover everything, knowing the impact it was having on marine life and the environment, it was tough.",
+          "life_stage": "Adulthood",
+          "event_type": "Oil spill cleanup",
+          "emotions": [
+            "tough",
+            "impactful"
+          ],
+          "entities": [
+            "oil",
+            "marine life",
+            "environment"
+          ]
+        },
+        {
+          "text": "There was a moment when I saw a bird struggling in the oil, and it just hit me hard.",
+          "life_stage": "Adulthood",
+          "event_type": "Oil spill cleanup",
+          "emotions": [
+            "hit me hard",
+            "reminder"
+          ],
+          "entities": [
+            "bird",
+            "oil"
+          ]
+        },
+        {
+          "text": "The whole experience was both physically and emotionally exhausting.",
+          "life_stage": "Adulthood",
+          "event_type": "Oil spill cleanup",
+          "emotions": [
+            "exhausting",
+            "physically",
+            "emotionally"
+          ],
+          "entities": []
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "It sounds like the oil spill cleanup was a deeply emotional time for you. Can you share more about the challenges you faced during that period?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Absolutely, it was one of the toughest periods in my career. The scale of the operation was enormous, and every day felt like an uphill battle. The oil was everywhere, and it was disheartening to see the impact on the environment. We worked tirelessly, often in harsh conditions, and there were times I wondered if we were making any progress at all. But then, there were small victories, like when we managed to clean up a section of the shoreline or help a struggling animal. Those moments kept us going, but the sadness never completely faded.",
+      "sentence_annotations": [
+        {
+          "text": "It was one of the toughest periods in my career. The scale of the operation was enormous, and every day felt like an uphill battle. The oil was everywhere, and it was disheartening to see the impact on the environment.",
+          "life_stage": "Adulthood",
+          "event_type": "Oil Spill Cleanup",
+          "emotions": [
+            "overwhelmed",
+            "sadness",
+            "determination"
+          ],
+          "entities": [
+            "oil spill",
+            "environment",
+            "career"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear more about the oil spill cleanup and how it affected you personally."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "The oil spill was unlike anything I'd dealt with before. It was such a massive operation, and I remember feeling overwhelmed at first. The scale of the damage was just heartbreaking. Seeing the oil cover everything, knowing the impact it was having on marine life and the environment, it was tough. There was a moment when I saw a bird struggling in the oil, and it just hit me hard. It was a stark reminder of why our work was so important, but it also weighed heavily on my heart. The whole experience was both physically and emotionally exhausting.",
+      "sentence_annotations": [
+        {
+          "text": "The oil spill was unlike anything I'd dealt with before.",
+          "life_stage": "Adulthood",
+          "event_type": "Oil Spill Cleanup",
+          "emotions": [
+            "overwhelmed",
+            "heartbreaking"
+          ],
+          "entities": [
+            "oil spill",
+            "operation"
+          ]
+        },
+        {
+          "text": "There was a moment when I saw a bird struggling in the oil, and it just hit me hard.",
+          "life_stage": "Adulthood",
+          "event_type": "Oil Spill Cleanup",
+          "emotions": [
+            "sadness",
+            "empathy"
+          ],
+          "entities": [
+            "bird",
+            "oil"
+          ]
+        },
+        {
+          "text": "The whole experience was both physically and emotionally exhausting.",
+          "life_stage": "Adulthood",
+          "event_type": "Oil Spill Cleanup",
+          "emotions": [
+            "exhaustion"
+          ],
+          "entities": [
+            "experience"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "It's clear that the oil spill had a profound impact on you. How did you cope with the emotional toll it took?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "You know, it wasn't easy. There were days when I'd get back from the cleanup and just feel drained, emotionally and physically. I found solace in talking with my fellow team members. We supported each other, shared our frustrations, and celebrated small victories together. It helped to know I wasn't alone in feeling the weight of it all. I also started writing about my experiences, which was therapeutic. It allowed me to process what I was going through and reflect on the importance of our work.",
+      "sentence_annotations": [
+        {
+          "text": "You know, it wasn't easy. There were days when I'd get back from the cleanup and just feel drained, emotionally and physically. I found solace in talking with my fellow team members.",
+          "life_stage": "Adulthood",
+          "event_type": "Oil spill cleanup",
+          "emotions": [
+            "exhaustion",
+            "camaraderie"
+          ],
+          "entities": [
+            "team members",
+            "cleanup"
+          ]
+        },
+        {
+          "text": "I also started writing about my experiences, which was therapeutic. It allowed me to process what I was going through and reflect on the importance of our work.",
+          "life_stage": "Adulthood",
+          "event_type": "Oil spill cleanup",
+          "emotions": [
+            "reflection",
+            "therapy"
+          ],
+          "entities": [
+            "writing",
+            "experiences"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "So after everything you've been through, tell me about your life by the lake now."
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "Living by the lake has been a blessing in many ways. It's such a contrast to the chaos of my days in the Coast Guard. I find peace in the stillness of the water and the gentle rhythm of nature. It's given me time to reflect on everything I've done and experienced. I spend my days fishing, reading, and just enjoying the quiet. It's not just about the tranquility, though; it's about healing. After all those years of intense work and witnessing so much destruction, this place has been a sanctuary for my heart and mind.",
+      "sentence_annotations": [
+        {
+          "text": "Living by the lake has been a blessing in many ways.",
+          "life_stage": "Old Age",
+          "event_type": "Living by the lake",
+          "emotions": [
+            "grateful",
+            "peaceful",
+            "reflective"
+          ],
+          "entities": [
+            "the lake",
+            "Coast Guard",
+            "nature"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "That sounds like a beautiful way to live. How has this time of reflection by the lake influenced your perspective on your career and life?"
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "Being here has allowed me to see things from a different angle. I've come to realize how important it was to have gone through those challenging experiences, even though they were tough at the time. The storm rescue and the oil spill taught me resilience and the importance of teamwork. Now, I value simplicity and the beauty of nature more than ever. It’s like I'm reconnecting with the world in a way I didn’t have time to before. I've found an appreciation for the quieter moments, and it’s something I cherish deeply.",
+      "sentence_annotations": [
+        {
+          "text": "Being here has allowed me to see things from a different angle. I've come to realize how important it was to have gone through those challenging experiences, even though they were tough at the time.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Gratitude",
+            "Acceptance"
+          ],
+          "entities": [
+            "storm rescue",
+            "oil spill"
+          ]
+        },
+        {
+          "text": "The storm rescue and the oil spill taught me resilience and the importance of teamwork.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Gratitude",
+            "Pride"
+          ],
+          "entities": [
+            "storm rescue",
+            "oil spill",
+            "teamwork"
+          ]
+        },
+        {
+          "text": "Now, I value simplicity and the beauty of nature more than ever. It’s like I'm reconnecting with the world in a way I didn’t have time to before.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Contentment",
+            "Renewal"
+          ],
+          "entities": [
+            "simplicity",
+            "nature"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 25,
+      "speaker": "Interviewer",
+      "text": "How do you feel when you look back at your time in the Coast Guard now?"
+    },
+    {
+      "turn_id": 26,
+      "speaker": "Subject",
+      "text": "Reflecting on my time in the Coast Guard brings a mix of emotions. There's pride, certainly, in the work we did and the lives we impacted. However, there's also a sense of heaviness from the tough times, like the oil spill. Those memories are etched in my mind. But now, living by the lake, I've been able to find peace and reconciliation with those experiences. I see them as chapters of my life that have shaped who I am today. The challenging moments taught me strength and resilience, and the peaceful moments now teach me gratitude.",
+      "sentence_annotations": [
+        {
+          "text": "Reflecting on my time in the Coast Guard brings a mix of emotions.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Pride",
+            "Heaviness",
+            "Peace"
+          ],
+          "entities": [
+            "Coast Guard",
+            "Emotions"
+          ]
+        },
+        {
+          "text": "There's pride, certainly, in the work we did and the lives we impacted.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Pride"
+          ],
+          "entities": [
+            "Coast Guard",
+            "Work",
+            "Impact"
+          ]
+        },
+        {
+          "text": "However, there's also a sense of heaviness from the tough times, like the oil spill.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Heaviness"
+          ],
+          "entities": [
+            "Oil Spill",
+            "Tough Times"
+          ]
+        },
+        {
+          "text": "But now, living by the lake, I've been able to find peace and reconciliation with those experiences.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Peace",
+            "Reconciliation"
+          ],
+          "entities": [
+            "Living by the Lake",
+            "Experiences"
+          ]
+        },
+        {
+          "text": "The challenging moments taught me strength and resilience, and the peaceful moments now teach me gratitude.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Strength",
+            "Resilience",
+            "Gratitude"
+          ],
+          "entities": [
+            "Challenging Moments",
+            "Peaceful Moments"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 27,
+      "speaker": "Interviewer",
+      "text": "It's wonderful to hear how you've found peace by the lake. How does this new chapter of your life compare to your days in the Coast Guard?"
+    },
+    {
+      "turn_id": 28,
+      "speaker": "Subject",
+      "text": "It's like night and day, really. In the Coast Guard, everything was fast-paced and urgent. We were constantly on the move, always responding to one crisis or another. But here by the lake, life is slow and deliberate. I have time to breathe, to think, and to appreciate the little things. It's a stark contrast, but one that I've come to cherish deeply. It's as if I've finally found a balance that was missing before.",
+      "sentence_annotations": [
+        {
+          "text": "It's like night and day, really. In the Coast Guard, everything was fast-paced and urgent. We were constantly on the move, always responding to one crisis or another. But here by the lake, life is slow and deliberate. I have time to breathe, to think, and to appreciate the little things. It's a stark contrast, but one that I've come to cherish deeply. It's as if I've finally found a balance that was missing before.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Peace",
+            "Gratitude",
+            "Contentment"
+          ],
+          "entities": [
+            "Coast Guard",
+            "Lake",
+            "Crisis",
+            "Balance"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 29,
+      "speaker": "Interviewer",
+      "text": "Before we finish, Tom, what would you say is the biggest lesson you've learned from your journey?"
+    },
+    {
+      "turn_id": 30,
+      "speaker": "Subject",
+      "text": "That's a big question. I think, looking back, the most important lesson I've learned is resilience. Life throws you into storms, both literal and metaphorical. It's about finding the strength to face them, but also knowing when to step back and seek peace. My time in the Coast Guard was filled with challenges that taught me the value of perseverance and teamwork. But living by the lake has shown me the beauty of stillness and reflection. It's important to find a balance between the two—to work hard when needed, but also to make time to heal and appreciate the world around you. It’s all part of the journey, and I'm grateful for every step.",
+      "sentence_annotations": [
+        {
+          "text": "That's a big question. I think, looking back, the most important lesson I've learned is resilience. Life throws you into storms, both literal and metaphorical. It's about finding the strength to face them, but also knowing when to step back and seek peace. My time in the Coast Guard was filled with challenges that taught me the value of perseverance and teamwork. But living by the lake has shown me the beauty of stillness and reflection. It's important to find a balance between the two—to work hard when needed, but also to make time to heal and appreciate the world around you. It’s all part of the journey, and I'm grateful for every step.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection on life lessons",
+          "emotions": [
+            "gratitude",
+            "resilience"
+          ],
+          "entities": [
+            "Coast Guard",
+            "lake",
+            "resilience",
+            "balance",
+            "journey"
+          ]
+        }
+      ]
+    }
+  ]
+}

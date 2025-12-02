@@ -1,0 +1,587 @@
+{
+  "session_id": "20_Raj",
+  "tone": "Matter-of-fact (Treats the interview like a report)",
+  "profile": {
+    "id": "20_Raj",
+    "name": "Raj",
+    "age": 78,
+    "role": "Surgeon",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "Medical school stress",
+        "context": "No sleep."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "First heart transplant",
+        "context": "Life and death."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Shaking hands",
+        "context": "Retiring the scalpel."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your time in medical school and the stress that came with it."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Medical school was quite intense. I remember the endless hours spent studying, the pressure of exams, and the constant feeling of being evaluated. It was a challenging environment, but it taught me resilience and the importance of hard work.",
+      "sentence_annotations": [
+        {
+          "text": "Medical school was quite intense. I remember the endless hours spent studying, the pressure of exams, and the constant feeling of being evaluated.",
+          "life_stage": "Youth",
+          "event_type": "Education",
+          "emotions": [
+            "stress",
+            "pressure"
+          ],
+          "entities": [
+            "medical school",
+            "exams"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like that was a really demanding time. How did you handle the pressure?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "I handled the pressure by developing a routine. Every morning, I would jog, which cleared my mind. I also made sure to have a support system—friends who were going through the same experience, and family who offered encouragement. It wasn't easy, but those little habits helped me cope.",
+      "sentence_annotations": [
+        {
+          "text": "I handled the pressure by developing a routine. Every morning, I would jog, which cleared my mind.",
+          "life_stage": "Youth",
+          "event_type": "Coping Mechanism",
+          "emotions": [
+            "Resilience"
+          ],
+          "entities": [
+            "Routine",
+            "Jogging"
+          ]
+        },
+        {
+          "text": "I also made sure to have a support system—friends who were going through the same experience, and family who offered encouragement.",
+          "life_stage": "Youth",
+          "event_type": "Social Support",
+          "emotions": [
+            "Gratitude",
+            "Relief"
+          ],
+          "entities": [
+            "Friends",
+            "Family"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "So when did things change for you after medical school?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "After medical school, things changed when I started my residency. That was when I got involved in surgeries more directly and the stakes felt higher. I remember my first experience in the operating room—it's where I truly felt the weight of responsibility. The transition from theory to practice was incredibly daunting, but also exhilarating.",
+      "sentence_annotations": [
+        {
+          "text": "After medical school, things changed when I started my residency.",
+          "life_stage": "Early Career",
+          "event_type": "Career Transition",
+          "emotions": [
+            "anticipation",
+            "nervousness"
+          ],
+          "entities": [
+            "residency",
+            "operating room"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "It sounds like residency was a pivotal time. Can you tell me about a memorable moment during your residency?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Yes, one of the most memorable moments was assisting in my first heart surgery. I remember the anticipation, the focus required, and the teamwork involved. It was a challenging procedure, but when it was over, there was a sense of achievement and relief. It's what solidified my passion for cardiac surgery.",
+      "sentence_annotations": [
+        {
+          "text": "assisting in my first heart surgery",
+          "life_stage": "Young Adult",
+          "event_type": "Career Milestone",
+          "emotions": [
+            "anticipation",
+            "focus",
+            "relief"
+          ],
+          "entities": [
+            "heart surgery",
+            "cardiac surgery"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "That must have been an incredible experience. What was it like to perform your first heart transplant?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "Performing my first heart transplant was a milestone in my career. The first time I led a transplant, I felt a mixture of excitement and nerves. The procedure required precision and the team had to work in perfect harmony. It was a long process, but when the new heart started beating, there was a profound sense of accomplishment. It was a moment that reaffirmed my decision to specialize in cardiac surgery.",
+      "sentence_annotations": [
+        {
+          "text": "Performing my first heart transplant was a milestone in my career.",
+          "life_stage": "Early Career",
+          "event_type": "Professional Achievement",
+          "emotions": [
+            "Excitement",
+            "Nervousness",
+            "Accomplishment"
+          ],
+          "entities": [
+            "Heart Transplant",
+            "Cardiac Surgery",
+            "Career Milestone"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "That must have been an incredible experience. What was it like to perform your first heart transplant?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Performing my first heart transplant was a milestone in my career. The first time I led a transplant, I felt a mixture of excitement and nerves. The procedure required precision and the team had to work in perfect harmony. It was a long process, but when the new heart started beating, there was a profound sense of accomplishment. It was a moment that reaffirmed my decision to specialize in cardiac surgery.",
+      "sentence_annotations": [
+        {
+          "text": "Performing my first heart transplant was a milestone in my career.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Milestone",
+          "emotions": [
+            "Excitement",
+            "Nervousness",
+            "Accomplishment"
+          ],
+          "entities": [
+            "Heart Transplant",
+            "Career",
+            "Cardiac Surgery"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "What were some of the core challenges you faced as a surgeon?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "One of the core challenges was maintaining steady hands under pressure. The precision required in surgery is immense. Any slight tremor could have significant consequences. This was particularly crucial during heart transplants. Over time, I learned techniques to minimize stress and maintain focus, which helped in controlling any involuntary movements.",
+      "sentence_annotations": [
+        {
+          "text": "One of the core challenges was maintaining steady hands under pressure.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Challenge",
+          "emotions": [
+            "concern",
+            "determination"
+          ],
+          "entities": [
+            "steady hands",
+            "pressure"
+          ]
+        },
+        {
+          "text": "This was particularly crucial during heart transplants.",
+          "life_stage": "Adulthood",
+          "event_type": "Surgical Challenge",
+          "emotions": [
+            "anxiety",
+            "focus"
+          ],
+          "entities": [
+            "heart transplants",
+            "surgery"
+          ]
+        },
+        {
+          "text": "Over time, I learned techniques to minimize stress and maintain focus...",
+          "life_stage": "Adulthood",
+          "event_type": "Skill Development",
+          "emotions": [
+            "confidence",
+            "relief"
+          ],
+          "entities": [
+            "techniques",
+            "stress",
+            "focus"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "That must have been hard, keeping your hands steady under such pressure. How did you manage to develop those techniques?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Developing techniques to maintain steady hands was crucial. I practiced mindfulness and relaxation exercises regularly, which helped me remain calm during surgeries. Visualization of the procedure beforehand was another technique I used. It was about mentally preparing myself for every step, anticipating challenges, and rehearsing solutions. This mental preparation was as important as the physical skill.",
+      "sentence_annotations": [
+        {
+          "text": "Developing techniques to maintain steady hands was crucial.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Challenge",
+          "emotions": [
+            "determination",
+            "focus"
+          ],
+          "entities": [
+            "steady hands",
+            "surgery"
+          ]
+        },
+        {
+          "text": "I practiced mindfulness and relaxation exercises regularly.",
+          "life_stage": "Adulthood",
+          "event_type": "Coping Strategy",
+          "emotions": [
+            "calm",
+            "preparedness"
+          ],
+          "entities": [
+            "mindfulness",
+            "relaxation exercises"
+          ]
+        },
+        {
+          "text": "Visualization of the procedure beforehand was another technique I used.",
+          "life_stage": "Adulthood",
+          "event_type": "Coping Strategy",
+          "emotions": [
+            "confidence",
+            "preparedness"
+          ],
+          "entities": [
+            "visualization",
+            "surgery"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "It sounds like you were really dedicated to maintaining your skills. Were there any other challenges that stood out during your career?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Yes, beyond the physical demands, there was also the emotional challenge of dealing with patient outcomes. Not every surgery went perfectly, and sometimes we lost patients. It was difficult to accept, especially when you know you've done everything you could. But understanding that medicine isn't always perfect and learning to cope with these situations was vital. Building resilience and having a support network was key.",
+      "sentence_annotations": [
+        {
+          "text": "Yes, beyond the physical demands, there was also the emotional challenge of dealing with patient outcomes.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Challenge",
+          "emotions": [
+            "Accepting",
+            "Coping"
+          ],
+          "entities": [
+            "Surgery",
+            "Patient Outcomes",
+            "Emotional Challenge"
+          ]
+        },
+        {
+          "text": "Not every surgery went perfectly, and sometimes we lost patients.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Setback",
+          "emotions": [
+            "Difficulty",
+            "Resilience"
+          ],
+          "entities": [
+            "Surgery",
+            "Patient Loss"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "It sounds like dealing with patient outcomes must have been incredibly tough. How did you find support during those times?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Support came from my colleagues who understood the unique pressures of the job. We often debriefed after surgeries, discussing what went well and what could be improved. This was a crucial part of coping with the emotional aspects of the job. Additionally, I found solace in talking to my family. They reminded me of the impact I was making despite the challenges. It was essential to have people who listened and understood, both professionally and personally.",
+      "sentence_annotations": [
+        {
+          "text": "Support came from my colleagues who understood the unique pressures of the job. We often debriefed after surgeries, discussing what went well and what could be improved. This was a crucial part of coping with the emotional aspects of the job.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Challenge",
+          "emotions": [
+            "Gratitude",
+            "Support"
+          ],
+          "entities": [
+            "Colleagues",
+            "Debriefing"
+          ]
+        },
+        {
+          "text": "Additionally, I found solace in talking to my family. They reminded me of the impact I was making despite the challenges. It was essential to have people who listened and understood, both professionally and personally.",
+          "life_stage": "Adulthood",
+          "event_type": "Emotional Support",
+          "emotions": [
+            "Relief",
+            "Comfort"
+          ],
+          "entities": [
+            "Family",
+            "Emotional Support"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "So, moving to the present day, how have things been for you now, especially with your hands?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "These days, my hands have started to shake a little more than they used to. It's a natural part of aging, and while it's frustrating, I've learned to adapt. I don't perform surgeries anymore, but I still consult and share my knowledge. It's important to pass on what I've learned to the next generation.",
+      "sentence_annotations": [
+        {
+          "text": "These days, my hands have started to shake a little more than they used to.",
+          "life_stage": "Old Age",
+          "event_type": "Health Challenge",
+          "emotions": [
+            "frustration",
+            "acceptance"
+          ],
+          "entities": [
+            "hands",
+            "aging"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about how you feel reflecting on your career now."
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "Reflecting on my career, I feel a sense of satisfaction and gratitude. I've had the privilege to contribute to the field of cardiac surgery and to help many patients along the way. Every challenge I faced, every surgery performed, taught me invaluable lessons. Though I miss the hands-on aspect of surgery, I'm content with sharing my experiences and mentoring young surgeons. It's rewarding to see them grow and succeed.",
+      "sentence_annotations": [
+        {
+          "text": "Reflecting on my career, I feel a sense of satisfaction and gratitude. I've had the privilege to contribute to the field of cardiac surgery and to help many patients along the way.",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "satisfaction",
+            "gratitude"
+          ],
+          "entities": [
+            "career",
+            "cardiac surgery",
+            "patients"
+          ]
+        },
+        {
+          "text": "Though I miss the hands-on aspect of surgery, I'm content with sharing my experiences and mentoring young surgeons.",
+          "life_stage": "Old Age",
+          "event_type": "Career Transition",
+          "emotions": [
+            "contentment",
+            "nostalgia"
+          ],
+          "entities": [
+            "surgery",
+            "mentoring",
+            "young surgeons"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 25,
+      "speaker": "Interviewer",
+      "text": "So, moving to the present day, how have things been for you now, especially with your hands?"
+    },
+    {
+      "turn_id": 26,
+      "speaker": "Subject",
+      "text": "These days, my hands have started to shake a little more than they used to. It's a natural part of aging, and while it's frustrating, I've learned to adapt. I don't perform surgeries anymore, but I still consult and share my knowledge. It's important to pass on what I've learned to the next generation.",
+      "sentence_annotations": [
+        {
+          "text": "These days, my hands have started to shake a little more than they used to.",
+          "life_stage": "Old Age",
+          "event_type": "Health",
+          "emotions": [
+            "Frustration",
+            "Acceptance"
+          ],
+          "entities": [
+            "hands",
+            "shaking",
+            "aging"
+          ]
+        },
+        {
+          "text": "I don't perform surgeries anymore, but I still consult and share my knowledge.",
+          "life_stage": "Old Age",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Contentment",
+            "Pride"
+          ],
+          "entities": [
+            "consulting",
+            "knowledge",
+            "next generation"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 27,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about how you feel reflecting on your career now."
+    },
+    {
+      "turn_id": 28,
+      "speaker": "Subject",
+      "text": "Reflecting on my career, I feel a sense of satisfaction and gratitude. I've had the privilege to contribute to the field of cardiac surgery and to help many patients along the way. Every challenge I faced, every surgery performed, taught me invaluable lessons. Though I miss the hands-on aspect of surgery, I'm content with sharing my experiences and mentoring young surgeons. It's rewarding to see them grow and succeed.",
+      "sentence_annotations": [
+        {
+          "text": "Reflecting on my career, I feel a sense of satisfaction and gratitude.",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "satisfaction",
+            "gratitude"
+          ],
+          "entities": [
+            "career",
+            "reflection"
+          ]
+        },
+        {
+          "text": "I've had the privilege to contribute to the field of cardiac surgery and to help many patients along the way.",
+          "life_stage": "Old Age",
+          "event_type": "Career Contribution",
+          "emotions": [
+            "privilege",
+            "accomplishment"
+          ],
+          "entities": [
+            "cardiac surgery",
+            "patients"
+          ]
+        },
+        {
+          "text": "Though I miss the hands-on aspect of surgery, I'm content with sharing my experiences and mentoring young surgeons.",
+          "life_stage": "Old Age",
+          "event_type": "Career Transition",
+          "emotions": [
+            "contentment",
+            "nostalgia"
+          ],
+          "entities": [
+            "hands-on",
+            "mentoring",
+            "young surgeons"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 29,
+      "speaker": "Interviewer",
+      "text": "Before we finish, what final lesson would you like to impart to future surgeons or those looking to pursue a career in medicine?"
+    },
+    {
+      "turn_id": 30,
+      "speaker": "Subject",
+      "text": "The most important lesson I can share is to be resilient and adaptable. The medical field is ever-changing and the challenges are never-ending. You must be willing to learn continuously and embrace innovation. But equally, take care of your mental and emotional well-being. The demands can be intense, but maintaining your health is paramount to being effective in caring for others. Remember that every patient is a person, and empathy should guide your practice.",
+      "sentence_annotations": [
+        {
+          "text": "The most important lesson I can share is to be resilient and adaptable. The medical field is ever-changing and the challenges are never-ending. You must be willing to learn continuously and embrace innovation.",
+          "life_stage": "Old Age",
+          "event_type": "Career Advice",
+          "emotions": [
+            "reflective",
+            "insightful"
+          ],
+          "entities": [
+            "medical field",
+            "resilience",
+            "adaptability",
+            "innovation"
+          ]
+        },
+        {
+          "text": "But equally, take care of your mental and emotional well-being. The demands can be intense, but maintaining your health is paramount to being effective in caring for others.",
+          "life_stage": "Old Age",
+          "event_type": "Personal Advice",
+          "emotions": [
+            "caring",
+            "practical"
+          ],
+          "entities": [
+            "mental well-being",
+            "emotional well-being",
+            "health"
+          ]
+        },
+        {
+          "text": "Remember that every patient is a person, and empathy should guide your practice.",
+          "life_stage": "Old Age",
+          "event_type": "Ethical Advice",
+          "emotions": [
+            "empathic",
+            "advisory"
+          ],
+          "entities": [
+            "patient care",
+            "empathy"
+          ]
+        }
+      ]
+    }
+  ]
+}

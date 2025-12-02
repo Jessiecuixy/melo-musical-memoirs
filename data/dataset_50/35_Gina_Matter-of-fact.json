@@ -1,0 +1,505 @@
+{
+  "session_id": "35_Gina",
+  "tone": "Matter-of-fact (Treats the interview like a report)",
+  "profile": {
+    "id": "35_Gina",
+    "name": "Gina",
+    "age": 70,
+    "role": "Hairdresser",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "Beauty school",
+        "context": "Dreams of glamour."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "Secrets in the chair",
+        "context": "Being a therapist."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Closing the salon",
+        "context": "Missing the gossip."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your time in beauty school."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Well, beauty school was back when I was just a young woman, eager to learn and get my hands into hair. I remember the excitement of learning new techniques and the camaraderie among the students. It was as much about the skills as it was about building relationships.",
+      "sentence_annotations": [
+        {
+          "text": "Well, beauty school was back when I was just a young woman, eager to learn and get my hands into hair.",
+          "life_stage": "Youth",
+          "event_type": "Education",
+          "emotions": [
+            "Excitement",
+            "Eagerness"
+          ],
+          "entities": [
+            "beauty school"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like you really cherished the connections you made there. Can you tell me more about what those early days were like for you?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Absolutely. Those early days were a mix of nerves and thrill. I'd never been in such a focused environment before. There was one lady, Annie, who became a close friend. We both had a knack for cutting, and we'd practice on each other after hours. It was a time of discovery and growth, not just in skills but in understanding people.",
+      "sentence_annotations": [
+        {
+          "text": "Those early days were a mix of nerves and thrill.",
+          "life_stage": "Youth",
+          "event_type": "Education",
+          "emotions": [
+            "nervousness",
+            "excitement"
+          ],
+          "entities": [
+            "beauty school",
+            "Annie"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been hard, stepping into such a focused environment. So, what was it that drew you to becoming a hairdresser in the first place?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "Honestly, it was the creativity and the chance to make people feel good about themselves. I always loved styling my sisters' hair when we were kids. I guess you could say it was in my blood. Being able to transform someone's look and boost their confidence – that's what really drove me.",
+      "sentence_annotations": [
+        {
+          "text": "Honestly, it was the creativity and the chance to make people feel good about themselves. I always loved styling my sisters' hair when we were kids.",
+          "life_stage": "Youth",
+          "event_type": "Early Interest",
+          "emotions": [
+            "nostalgia",
+            "satisfaction"
+          ],
+          "entities": [
+            "creativity",
+            "sisters",
+            "hair"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "So when did things start changing for you after beauty school?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "After beauty school, I jumped right into working at a small salon. It was a whirlwind, but I loved every moment of it. Over the years, I moved around a few different salons, each teaching me something new. Eventually, I saved up enough to open my own place. It was a dream come true, but as the years went on, I realized how demanding it was to run a business. The responsibilities piled up, and it was difficult to keep up with all the trends and expenses. In the end, I decided to close the salon and retire. It was the right decision for me at the time.",
+      "sentence_annotations": [
+        {
+          "text": "After beauty school, I jumped right into working at a small salon.",
+          "life_stage": "Young Adulthood",
+          "event_type": "Career Start",
+          "emotions": [
+            "excitement",
+            "eagerness"
+          ],
+          "entities": [
+            "small salon"
+          ]
+        },
+        {
+          "text": "Eventually, I saved up enough to open my own place.",
+          "life_stage": "Middle Adulthood",
+          "event_type": "Entrepreneurship",
+          "emotions": [
+            "pride",
+            "ambition"
+          ],
+          "entities": [
+            "own salon"
+          ]
+        },
+        {
+          "text": "In the end, I decided to close the salon and retire.",
+          "life_stage": "Late Adulthood",
+          "event_type": "Retirement",
+          "emotions": [
+            "relief",
+            "acceptance"
+          ],
+          "entities": [
+            "salon",
+            "retirement"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "So when did things start changing for you after beauty school?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "After beauty school, I jumped right into working at a small salon. It was a whirlwind, but I loved every moment of it. Over the years, I moved around a few different salons, each teaching me something new. Eventually, I saved up enough to open my own place. It was a dream come true, but as the years went on, I realized how demanding it was to run a business. The responsibilities piled up, and it was difficult to keep up with all the trends and expenses. In the end, I decided to close the salon and retire. It was the right decision for me at the time.",
+      "sentence_annotations": [
+        {
+          "text": "I jumped right into working at a small salon. It was a whirlwind, but I loved every moment of it.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Start",
+          "emotions": [
+            "Excitement",
+            "Satisfaction"
+          ],
+          "entities": [
+            "small salon"
+          ]
+        },
+        {
+          "text": "Eventually, I saved up enough to open my own place.",
+          "life_stage": "Adulthood",
+          "event_type": "Entrepreneurship",
+          "emotions": [
+            "Pride",
+            "Accomplishment"
+          ],
+          "entities": [
+            "own place"
+          ]
+        },
+        {
+          "text": "The responsibilities piled up, and it was difficult to keep up with all the trends and expenses.",
+          "life_stage": "Adulthood",
+          "event_type": "Challenges",
+          "emotions": [
+            "Overwhelmed",
+            "Stress"
+          ],
+          "entities": [
+            "trends",
+            "expenses"
+          ]
+        },
+        {
+          "text": "I decided to close the salon and retire.",
+          "life_stage": "Adulthood",
+          "event_type": "Retirement Decision",
+          "emotions": [
+            "Resolution",
+            "Contentment"
+          ],
+          "entities": [
+            "close the salon",
+            "retire"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "I'd like to understand more about the challenges you faced while running your own salon. What were some of the core challenges you encountered?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Running the salon was a huge learning curve. Managing a business meant dealing with everything from staff issues to financial concerns. I had to keep up with changing trends, order supplies, and ensure our services were top-notch. There was also the challenge of marketing and keeping a steady flow of clients. It was tough balancing the creative side of things with the business demands.",
+      "sentence_annotations": [
+        {
+          "text": "Running the salon was a huge learning curve. Managing a business meant dealing with everything from staff issues to financial concerns.",
+          "life_stage": "Adulthood",
+          "event_type": "Career",
+          "emotions": [
+            "overwhelmed",
+            "determined"
+          ],
+          "entities": [
+            "salon",
+            "staff",
+            "finances"
+          ]
+        },
+        {
+          "text": "I had to keep up with changing trends, order supplies, and ensure our services were top-notch.",
+          "life_stage": "Adulthood",
+          "event_type": "Career",
+          "emotions": [
+            "challenged",
+            "responsible"
+          ],
+          "entities": [
+            "trends",
+            "supplies",
+            "services"
+          ]
+        },
+        {
+          "text": "There was also the challenge of marketing and keeping a steady flow of clients.",
+          "life_stage": "Adulthood",
+          "event_type": "Career",
+          "emotions": [
+            "stressed",
+            "focused"
+          ],
+          "entities": [
+            "marketing",
+            "clients"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "That sounds overwhelming. How did you manage to balance all these responsibilities?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "It was definitely a juggling act. I had to learn to delegate and trust my staff with responsibilities. Hiring the right people was crucial, and I was lucky to have a team that was as passionate about hairdressing as I was. We worked hard to create a warm, welcoming atmosphere for our clients. There were times when it got really stressful, especially when dealing with unexpected expenses or when business was slow. But I always tried to keep a positive outlook and focused on why I started the salon in the first place.",
+      "sentence_annotations": [
+        {
+          "text": "It was definitely a juggling act. I had to learn to delegate and trust my staff with responsibilities.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Challenges",
+          "emotions": [
+            "overwhelmed",
+            "determined"
+          ],
+          "entities": [
+            "staff",
+            "responsibilities"
+          ]
+        },
+        {
+          "text": "We worked hard to create a warm, welcoming atmosphere for our clients.",
+          "life_stage": "Adulthood",
+          "event_type": "Business Operations",
+          "emotions": [
+            "dedication",
+            "pride"
+          ],
+          "entities": [
+            "clients",
+            "salon atmosphere"
+          ]
+        },
+        {
+          "text": "There were times when it got really stressful, especially when dealing with unexpected expenses or when business was slow.",
+          "life_stage": "Adulthood",
+          "event_type": "Financial Challenges",
+          "emotions": [
+            "stress",
+            "anxiety"
+          ],
+          "entities": [
+            "expenses",
+            "business"
+          ]
+        },
+        {
+          "text": "But I always tried to keep a positive outlook and focused on why I started the salon in the first place.",
+          "life_stage": "Adulthood",
+          "event_type": "Personal Reflection",
+          "emotions": [
+            "optimism",
+            "resilience"
+          ],
+          "entities": [
+            "salon",
+            "motivation"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "So, what kind of unexpected challenges came up that you hadn't anticipated when you first opened the salon?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "One of the biggest challenges was staffing. Sometimes people would leave unexpectedly or not work out as well as I'd hoped, and that was tough. You have to be ready to fill those gaps quickly to keep the salon running smoothly. Then there were the economic downturns. It's hard to predict when people might cut back on non-essentials, like salon visits. I also didn't expect how much time I'd spend on administrative work, like taxes and bookkeeping. I had to learn as I went along, which was quite the task.",
+      "sentence_annotations": [
+        {
+          "text": "One of the biggest challenges was staffing...",
+          "life_stage": "Adulthood",
+          "event_type": "Business Ownership",
+          "emotions": [
+            "Overwhelmed",
+            "Resilient"
+          ],
+          "entities": [
+            "Staffing",
+            "Economic Downturns",
+            "Administrative Work"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "So, what ultimately led you to the decision to close the salon and retire?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Well, after many years in the business, it just felt like the right time. I had poured so much of my energy into the salon, and while it was rewarding, it was also exhausting. The industry was changing rapidly with new technologies and styles, and I felt it was getting harder to keep up. Plus, the physical demands were taking a toll on me. I wanted to enjoy my later years without the stress of running a business. It was bittersweet, of course, but in the end, I knew it was the right decision for my health and happiness.",
+      "sentence_annotations": [
+        {
+          "text": "Well, after many years in the business, it just felt like the right time.",
+          "life_stage": "Old Age",
+          "event_type": "Retirement Decision",
+          "emotions": [
+            "Acceptance",
+            "Relief"
+          ],
+          "entities": [
+            "Business",
+            "Salon"
+          ]
+        },
+        {
+          "text": "The industry was changing rapidly with new technologies and styles, and I felt it was getting harder to keep up.",
+          "life_stage": "Old Age",
+          "event_type": "Industry Change",
+          "emotions": [
+            "Overwhelmed"
+          ],
+          "entities": [
+            "Industry",
+            "Technologies",
+            "Styles"
+          ]
+        },
+        {
+          "text": "I wanted to enjoy my later years without the stress of running a business.",
+          "life_stage": "Old Age",
+          "event_type": "Retirement",
+          "emotions": [
+            "Contentment"
+          ],
+          "entities": [
+            "Retirement",
+            "Business"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear more about how you feel now, looking back at your career as a hairdresser."
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Looking back, I feel a great sense of pride and accomplishment. I spent decades doing something I truly loved, and I was able to touch people's lives in small but meaningful ways. Sure, there were challenges, but they shaped who I am today. I have no regrets about the path I chose.",
+      "sentence_annotations": [
+        {
+          "text": "Looking back, I feel a great sense of pride and accomplishment.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Pride",
+            "Accomplishment"
+          ],
+          "entities": [
+            "Career",
+            "Hairdresser"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "So, Gina, as you reflect on your career now, how do you feel about the relationships you built over the years with your clients?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "Oh, those relationships were everything to me. You know, as a hairdresser, you're not just cutting hair. You're part therapist, part confidante, and sometimes even a friend. Clients would share their lives with you—their joys, their struggles—and I cherished that trust. It's one of the things I miss the most since retiring. I think those connections are what made the job so fulfilling.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, those relationships were everything to me... It's one of the things I miss the most since retiring.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection on Career",
+          "emotions": [
+            "nostalgia",
+            "gratitude"
+          ],
+          "entities": [
+            "clients",
+            "relationships",
+            "retirement"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "Before we finish, Gina, what would you say is the most important lesson you’ve learned from your career that you’d like to share?"
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "The biggest lesson I’ve learned is that it's important to follow your passion but also to be adaptable. The beauty industry—and life itself—are constantly changing, and you have to be able to roll with the punches. Trust in yourself, keep learning, and don’t be afraid to ask for help when you need it. The connections you build along the way will help you through the tough times.",
+      "sentence_annotations": [
+        {
+          "text": "The biggest lesson I’ve learned is that it's important to follow your passion but also to be adaptable.",
+          "life_stage": "Old Age",
+          "event_type": "Retirement Reflection",
+          "emotions": [
+            "pride",
+            "contentment"
+          ],
+          "entities": [
+            "beauty industry",
+            "life"
+          ]
+        },
+        {
+          "text": "Trust in yourself, keep learning, and don’t be afraid to ask for help when you need it.",
+          "life_stage": "Old Age",
+          "event_type": "Retirement Reflection",
+          "emotions": [
+            "wisdom",
+            "gratitude"
+          ],
+          "entities": []
+        },
+        {
+          "text": "The connections you build along the way will help you through the tough times.",
+          "life_stage": "Old Age",
+          "event_type": "Retirement Reflection",
+          "emotions": [
+            "appreciation"
+          ],
+          "entities": [
+            "connections"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "session_id": "37_Saul",
+  "tone": "Short-spoken and Reserved (Needs probing)",
+  "profile": {
+    "id": "37_Saul",
+    "name": "Saul",
+    "age": 83,
+    "role": "Lawyer",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "Public defender days",
+        "context": "Fighting the system."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "The big civil rights case",
+        "context": "Justice."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Teaching ethics",
+        "context": "Warning the next gen."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your days as a public defender."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Well, those were the early days of my career. It was tough, you know? Long hours, lots of cases, and not much pay.",
+      "sentence_annotations": [
+        {
+          "text": "It was tough, you know? Long hours, lots of cases, and not much pay.",
+          "life_stage": "Early Career",
+          "event_type": "Career Start",
+          "emotions": [
+            "determination",
+            "stress"
+          ],
+          "entities": [
+            "public defender",
+            "career"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like it was quite a challenging time. Can you tell me more about what drove you to become a public defender in the first place?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Back then, I wanted to make a difference. I felt that everyone deserved representation, no matter their circumstances. It was more about justice than money for me.",
+      "sentence_annotations": [
+        {
+          "text": "Back then, I wanted to make a difference. I felt that everyone deserved representation, no matter their circumstances. It was more about justice than money for me.",
+          "life_stage": "Early Career",
+          "event_type": "Professional Motivation",
+          "emotions": [
+            "idealism",
+            "commitment"
+          ],
+          "entities": [
+            "justice",
+            "representation",
+            "public defender"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been hard. So, when did things start to change for you in your career?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "Things began to change when I took on a big civil rights case. It was a turning point, really. It drew attention to the issues I was passionate about.",
+      "sentence_annotations": [
+        {
+          "text": "Things began to change when I took on a big civil rights case.",
+          "life_stage": "Early Career",
+          "event_type": "Career Milestone",
+          "emotions": [
+            "Pride",
+            "Determination"
+          ],
+          "entities": [
+            "Civil Rights"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "I'd love to know how your time as a public defender came to an end."
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Eventually, I realized I couldn't keep up with the demands. The workload was immense and I needed a change.",
+      "sentence_annotations": [
+        {
+          "text": "Eventually, I realized I couldn't keep up with the demands. The workload was immense and I needed a change.",
+          "life_stage": "Early Career",
+          "event_type": "Career Transition",
+          "emotions": [
+            "overwhelmed",
+            "contemplative"
+          ],
+          "entities": [
+            "public defender",
+            "workload"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "That must have been hard. So, when did things start to change for you in your career?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "Things began to change when I took on a big civil rights case. It was a turning point, really. It drew attention to the issues I was passionate about.",
+      "sentence_annotations": [
+        {
+          "text": "Things began to change when I took on a big civil rights case.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Determination",
+            "Passion"
+          ],
+          "entities": [
+            "civil rights case"
+          ]
+        },
+        {
+          "text": "It was a turning point, really. It drew attention to the issues I was passionate about.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Satisfaction",
+            "Purpose"
+          ],
+          "entities": [
+            "civil rights issues"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "So, during that big civil rights case, what were some of the core challenges you faced?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "The biggest challenge was dealing with the immense pressure. There was a lot riding on it, and the media attention was overwhelming. We were also up against a well-funded opposition.",
+      "sentence_annotations": [
+        {
+          "text": "The biggest challenge was dealing with the immense pressure. There was a lot riding on it, and the media attention was overwhelming.",
+          "life_stage": "Adulthood",
+          "event_type": "The big civil rights case",
+          "emotions": [
+            "pressure",
+            "overwhelmed"
+          ],
+          "entities": [
+            "civil rights case",
+            "media"
+          ]
+        },
+        {
+          "text": "We were also up against a well-funded opposition.",
+          "life_stage": "Adulthood",
+          "event_type": "The big civil rights case",
+          "emotions": [
+            "challenged"
+          ],
+          "entities": [
+            "opposition"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "It sounds like handling that pressure was a real test. How did you manage to stay focused and effective during such a stressful time?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "I leaned heavily on my team. We were all in it together, working long nights, digging for every piece of evidence, and ensuring every angle was covered. It was the teamwork that got us through.",
+      "sentence_annotations": [
+        {
+          "text": "I leaned heavily on my team. We were all in it together, working long nights, digging for every piece of evidence, and ensuring every angle was covered.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Challenge",
+          "emotions": [
+            "Pressure",
+            "Reliance"
+          ],
+          "entities": [
+            "team",
+            "evidence",
+            "media attention"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear more about the people you worked with on that case. What was the dynamic like?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "We had a diverse team, each with their strengths. There was mutual respect, and everyone knew their role. It was a high-pressure environment, but we trusted each other to deliver.",
+      "sentence_annotations": [
+        {
+          "text": "We had a diverse team, each with their strengths.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional",
+          "emotions": [
+            "Pride",
+            "Gratitude"
+          ],
+          "entities": [
+            "Civil rights case",
+            "Team dynamics"
+          ]
+        },
+        {
+          "text": "There was mutual respect, and everyone knew their role.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional",
+          "emotions": [
+            "Respect",
+            "Trust"
+          ],
+          "entities": [
+            "Team dynamics"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "So, after that pivotal civil rights case, how did your career evolve? I'd love to hear about your transition into teaching ethics."
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "After that case, I felt a pull towards education. I wanted to impart the lessons I learned, especially about integrity and justice, to the younger generation.",
+      "sentence_annotations": [
+        {
+          "text": "After that case, I felt a pull towards education. I wanted to impart the lessons I learned, especially about integrity and justice, to the younger generation.",
+          "life_stage": "Old Age",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Reflective",
+            "Purposeful"
+          ],
+          "entities": [
+            "Education",
+            "Integrity",
+            "Justice",
+            "Younger Generation"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "Reflecting on your teaching career, what has been the most rewarding aspect for you?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Seeing the students grow and become ethical professionals. It's fulfilling to watch them carry forward the values I held dear throughout my career.",
+      "sentence_annotations": [
+        {
+          "text": "Seeing the students grow and become ethical professionals.",
+          "life_stage": "Old Age",
+          "event_type": "Reflecting on Teaching",
+          "emotions": [
+            "fulfillment",
+            "pride"
+          ],
+          "entities": [
+            "students",
+            "ethical professionals"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "It sounds like teaching has been a very fulfilling chapter for you. How do you feel looking back on the entirety of your career?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "I've had my share of ups and downs, but it's been a rewarding journey. I think I've managed to stay true to my values, which is what matters most to me.",
+      "sentence_annotations": [
+        {
+          "text": "I've had my share of ups and downs, but it's been a rewarding journey.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection on Career",
+          "emotions": [
+            "Satisfaction",
+            "Pride"
+          ],
+          "entities": [
+            "Career",
+            "Values"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "Before we finish, Saul, what would you say is the most important lesson you've learned throughout your life and career?"
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "I'd say it's the importance of staying true to your principles. No matter the challenges or pressures, if you hold on to your core values, you can navigate through just about anything.",
+      "sentence_annotations": [
+        {
+          "text": "I'd say it's the importance of staying true to your principles. No matter the challenges or pressures, if you hold on to your core values, you can navigate through just about anything.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "satisfaction",
+            "pride"
+          ],
+          "entities": [
+            "values",
+            "principles",
+            "challenges",
+            "pressures"
+          ]
+        }
+      ]
+    }
+  ]
+}

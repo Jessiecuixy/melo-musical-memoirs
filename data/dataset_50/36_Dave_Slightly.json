@@ -1,0 +1,545 @@
+{
+  "session_id": "36_Dave",
+  "tone": "Slightly Wandering and Forgetful (Goes off-topic)",
+  "profile": {
+    "id": "36_Dave",
+    "name": "Dave",
+    "age": 72,
+    "role": "Welder",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "Building skyscrapers",
+        "context": "No fear of heights."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "Flash burn injury",
+        "context": "Danger of the job."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Sculpting metal art",
+        "context": "New expression."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your time building skyscrapers."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Oh, building those skyscrapers was something, let me tell you. I was just a young fellow when I started, full of energy and maybe a bit too much confidence, you know? It was the 70s, and the construction sites were buzzing with activity, the smell of fresh concrete in the air. I remember the first time I walked onto a site, I was amazed at the sheer scale of everything. There were these massive steel beams, and the sound of welding was like music to my ears.",
+      "sentence_annotations": [
+        {
+          "text": "building those skyscrapers was something... I was just a young fellow when I started...",
+          "life_stage": "Youth",
+          "event_type": "Career Start",
+          "emotions": [
+            "nostalgia",
+            "excitement"
+          ],
+          "entities": [
+            "skyscrapers",
+            "construction sites",
+            "steel beams"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like those early days were quite something. Did you have any memorable experiences from that time?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Oh, plenty! There was this one time, I think it was the summer of '75 or maybe '76, can't quite recall. Anyway, we were working on this high-rise, and one of the older guys, Joe, he taught me a trick or two about welding. Said it was all about the rhythm, like dancing with metal. Funny thing is, Joe had the bushiest mustache you'd ever seen, and he always wore this old fedora, even on site. Thought he was some kind of Humphrey Bogart, I guess. We had some good laughs.",
+      "sentence_annotations": [
+        {
+          "text": "There was this one time, I think it was the summer of '75 or maybe '76...",
+          "life_stage": "Early Career",
+          "event_type": "Memorable Experience",
+          "emotions": [
+            "Nostalgia",
+            "Amusement"
+          ],
+          "entities": [
+            "Joe",
+            "high-rise",
+            "welding",
+            "Humphrey Bogart"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been hard, balancing the excitement with the challenges of the job. So when did things change for you?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "Well, it wasn't all fun and games. It sounds like I was invincible back then, but there were risks. I remember one day, we had this big beam to hoist, and the crane was acting up. It was a tense moment, but we got through it. Then there was another time, uh, later on, when I got a flash burn to the eyes. That was a real wake-up call, let me tell you. I had to take some time off to heal, and during that break, I started thinking about other ways to work with metal.",
+      "sentence_annotations": [
+        {
+          "text": "I remember one day, we had this big beam to hoist, and the crane was acting up.",
+          "life_stage": "Adulthood",
+          "event_type": "Work Challenge",
+          "emotions": [
+            "Tension",
+            "Relief"
+          ],
+          "entities": [
+            "construction",
+            "crane",
+            "beam"
+          ]
+        },
+        {
+          "text": "Then there was another time, uh, later on, when I got a flash burn to the eyes.",
+          "life_stage": "Adulthood",
+          "event_type": "Injury",
+          "emotions": [
+            "Pain",
+            "Realization"
+          ],
+          "entities": [
+            "flash burn",
+            "welding",
+            "eyes"
+          ]
+        },
+        {
+          "text": "I had to take some time off to heal, and during that break, I started thinking about other ways to work with metal.",
+          "life_stage": "Adulthood",
+          "event_type": "Turning Point",
+          "emotions": [
+            "Reflective",
+            "Inspired"
+          ],
+          "entities": [
+            "metal",
+            "break",
+            "healing"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "That must have been quite a turning point for you. How did you manage that transition?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Yeah, it was. Taking that time off was strange at first. I mean, I was used to the hustle and bustle of the sites, you know? But having to sit still and rest my eyes, well, it gave me time to think. I started tinkering with small metal pieces at home during recovery. Just little things, like bending and shaping scraps into shapes. At first, it was just to keep my hands busy, but then I realized I could create something beautiful. I remember the first piece I made. It was a small sculpture of a bird, kind of abstract. My wife said it looked like our old parakeet, Charlie, who used to chirp away in the mornings. Anyway, that's when I thought, 'Maybe there's more to this.' I guess that was the start of something new for me.",
+      "sentence_annotations": [
+        {
+          "text": "I remember the first piece I made. It was a small sculpture of a bird, kind of abstract.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Change",
+          "emotions": [
+            "Reflective",
+            "Nostalgic"
+          ],
+          "entities": [
+            "sculpture",
+            "bird",
+            "parakeet",
+            "Charlie"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "That must have been quite a turning point for you. How did you manage that transition?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "Yeah, it was. Taking that time off was strange at first. I mean, I was used to the hustle and bustle of the sites, you know? But having to sit still and rest my eyes, well, it gave me time to think. I started tinkering with small metal pieces at home during recovery. Just little things, like bending and shaping scraps into shapes. At first, it was just to keep my hands busy, but then I realized I could create something beautiful. I remember the first piece I made. It was a small sculpture of a bird, kind of abstract. My wife said it looked like our old parakeet, Charlie, who used to chirp away in the mornings. Anyway, that's when I thought, 'Maybe there's more to this.' I guess that was the start of something new for me.",
+      "sentence_annotations": [
+        {
+          "text": "Taking time off after a flash burn injury to the eyes, resulting in a transition to metal sculpting.",
+          "life_stage": "Adulthood",
+          "event_type": "Flash burn injury and career transition",
+          "emotions": [
+            "Reflective",
+            "Innovative"
+          ],
+          "entities": [
+            "flash burn",
+            "recovery",
+            "metal sculpting",
+            "bird sculpture",
+            "parakeet Charlie"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "How did you cope with the challenges of your recovery?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Oh, it was a mix of frustration and curiosity, really. You know, sitting at home wasn't easy. I was so used to the routine of getting up early, heading to the site, and now suddenly I had all this time. I did get restless at first, but slowly, I started to appreciate the slower pace. My wife, bless her heart, she was a rock during that time. She kept telling me to take it easy, that this was just a phase. I remember one afternoon, I was sitting on the porch, and she brought me this book about metalworking—kind of like a guide for artists. I flipped through it and thought, 'Why not?' That's when I started experimenting more seriously with the metal. It kept my mind off things and gave me a sense of purpose again.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, it was a mix of frustration and curiosity, really. You know, sitting at home wasn't easy. I was so used to the routine of getting up early, heading to the site, and now suddenly I had all this time. I did get restless at first, but slowly, I started to appreciate the slower pace.",
+          "life_stage": "Adulthood",
+          "event_type": "Recovery",
+          "emotions": [
+            "frustration",
+            "curiosity",
+            "restlessness",
+            "appreciation"
+          ],
+          "entities": [
+            "recovery",
+            "routine",
+            "site"
+          ]
+        },
+        {
+          "text": "My wife, bless her heart, she was a rock during that time. She kept telling me to take it easy, that this was just a phase.",
+          "life_stage": "Adulthood",
+          "event_type": "Support",
+          "emotions": [
+            "gratitude",
+            "reassurance"
+          ],
+          "entities": [
+            "wife",
+            "support"
+          ]
+        },
+        {
+          "text": "I remember one afternoon, I was sitting on the porch, and she brought me this book about metalworking—kind of like a guide for artists. I flipped through it and thought, 'Why not?' That's when I started experimenting more seriously with the metal.",
+          "life_stage": "Adulthood",
+          "event_type": "Exploration",
+          "emotions": [
+            "interest",
+            "engagement"
+          ],
+          "entities": [
+            "book",
+            "metalworking",
+            "artists"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "It sounds like your wife played a significant role in your recovery. Can you tell me more about how she supported you during that time?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "Oh, she was incredible. You know, we've been through a lot together, and this was another test of our partnership. She was patient, always there with a kind word or a gentle nudge when I needed it. I remember there were days when I was just so down, frustrated that I couldn't do what I used to. But she'd sit with me, reminding me of the things I could do instead of focusing on what I couldn't. She even got involved in my little projects, offering her opinions on my sculptures. I think having her believe in me made all the difference. It's funny how sometimes you need someone else's perspective to really see your own potential.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, she was incredible. You know, we've been through a lot together, and this was another test of our partnership.",
+          "life_stage": "Adulthood",
+          "event_type": "Personal Support",
+          "emotions": [
+            "Gratitude",
+            "Appreciation"
+          ],
+          "entities": [
+            "wife",
+            "partnership"
+          ]
+        },
+        {
+          "text": "I remember there were days when I was just so down, frustrated that I couldn't do what I used to.",
+          "life_stage": "Adulthood",
+          "event_type": "Recovery Challenge",
+          "emotions": [
+            "Frustration",
+            "Sadness"
+          ],
+          "entities": [
+            "recovery",
+            "frustration"
+          ]
+        },
+        {
+          "text": "But she'd sit with me, reminding me of the things I could do instead of focusing on what I couldn't.",
+          "life_stage": "Adulthood",
+          "event_type": "Personal Support",
+          "emotions": [
+            "Encouragement",
+            "Comfort"
+          ],
+          "entities": [
+            "wife",
+            "support"
+          ]
+        },
+        {
+          "text": "She even got involved in my little projects, offering her opinions on my sculptures.",
+          "life_stage": "Adulthood",
+          "event_type": "Artistic Development",
+          "emotions": [
+            "Inspiration",
+            "Motivation"
+          ],
+          "entities": [
+            "sculptures",
+            "projects"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "It sounds like your wife played a significant role in your recovery. Can you tell me more about how she supported you during that time?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Oh, she was incredible. You know, we've been through a lot together, and this was another test of our partnership. She was patient, always there with a kind word or a gentle nudge when I needed it. I remember there were days when I was just so down, frustrated that I couldn't do what I used to. But she'd sit with me, reminding me of the things I could do instead of focusing on what I couldn't. She even got involved in my little projects, offering her opinions on my sculptures. I think having her believe in me made all the difference. It's funny how sometimes you need someone else's perspective to really see your own potential.",
+      "sentence_annotations": [
+        {
+          "text": "She was patient, always there with a kind word or a gentle nudge when I needed it.",
+          "life_stage": "Adulthood",
+          "event_type": "Personal Support",
+          "emotions": [
+            "gratitude",
+            "relief"
+          ],
+          "entities": [
+            "wife",
+            "recovery"
+          ]
+        },
+        {
+          "text": "She even got involved in my little projects, offering her opinions on my sculptures.",
+          "life_stage": "Adulthood",
+          "event_type": "Creative Process",
+          "emotions": [
+            "appreciation"
+          ],
+          "entities": [
+            "wife",
+            "sculptures"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "So, Dave, how did you go from those small sculptures at home to making it your life’s work?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Ah, well, that's an interesting journey. You know, after I made that little bird sculpture, I just kept going. I started picking up more scrap metal, visiting junkyards and whatnot. It's amazing the things people throw away, real treasure if you know what to look for. And, uh, I guess it just grew from there. I started making larger pieces, experimenting more with forms and textures. It was like... like rediscovering a new rhythm. Then, one day, a friend of mine saw my work and suggested I try showing them at a local art fair. I thought, 'Why not?' It was a whole new world for me. People actually liked them, and some even wanted to buy my pieces! That's when I realized I could make a living out of this. It's funny, isn't it? How life takes you on these unexpected paths.",
+      "sentence_annotations": [
+        {
+          "text": "Ah, well, that's an interesting journey. You know, after I made that little bird sculpture, I just kept going. I started picking up more scrap metal, visiting junkyards and whatnot. It's amazing the things people throw away, real treasure if you know what to look for. And, uh, I guess it just grew from there. I started making larger pieces, experimenting more with forms and textures. It was like... like rediscovering a new rhythm. Then, one day, a friend of mine saw my work and suggested I try showing them at a local art fair. I thought, 'Why not?' It was a whole new world for me. People actually liked them, and some even wanted to buy my pieces! That's when I realized I could make a living out of this. It's funny, isn't it? How life takes you on these unexpected paths.",
+          "life_stage": "Old Age",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Curiosity",
+            "Surprise",
+            "Fulfillment"
+          ],
+          "entities": [
+            "bird sculpture",
+            "scrap metal",
+            "junkyards",
+            "art fair"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "It's fascinating how life can lead us to unexpected places. What has creating art meant to you personally?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Well, creating art, it's like... it's like breathing for me now. It's peace, you know? When I'm working on a piece, I get lost in it. I forget about time, my worries, everything. There's something so satisfying about taking a cold, hard piece of metal and turning it into something beautiful, something that tells a story. I guess, in a way, it helped me find myself again after the accident. Ah, it's funny, sometimes I think about those skyscrapers, standing tall and proud, and I realize that now I get to build my own little worlds, one piece at a time. And, uh, sometimes I wonder if my old pal Joe would be proud. I like to think he'd appreciate the rhythm I've found in this new dance with metal.",
+      "sentence_annotations": [
+        {
+          "text": "Creating art is like breathing for me now.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "peaceful",
+            "satisfied"
+          ],
+          "entities": [
+            "art",
+            "metal"
+          ]
+        },
+        {
+          "text": "I get lost in it. I forget about time, my worries, everything.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "immersed",
+            "relieved"
+          ],
+          "entities": [
+            "art",
+            "worries"
+          ]
+        },
+        {
+          "text": "I like to think he'd appreciate the rhythm I've found in this new dance with metal.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "nostalgic"
+          ],
+          "entities": [
+            "Joe",
+            "dance",
+            "metal"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "It's fascinating how life can lead us to unexpected places. What has creating art meant to you personally?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "Well, creating art, it's like... it's like breathing for me now. It's peace, you know? When I'm working on a piece, I get lost in it. I forget about time, my worries, everything. There's something so satisfying about taking a cold, hard piece of metal and turning it into something beautiful, something that tells a story. I guess, in a way, it helped me find myself again after the accident. Ah, it's funny, sometimes I think about those skyscrapers, standing tall and proud, and I realize that now I get to build my own little worlds, one piece at a time. And, uh, sometimes I wonder if my old pal Joe would be proud. I like to think he'd appreciate the rhythm I've found in this new dance with metal.",
+      "sentence_annotations": [
+        {
+          "text": "Well, creating art, it's like... it's like breathing for me now. It's peace, you know?",
+          "life_stage": "Old Age",
+          "event_type": "Reflection on Art",
+          "emotions": [
+            "peaceful",
+            "satisfied"
+          ],
+          "entities": [
+            "art",
+            "peace"
+          ]
+        },
+        {
+          "text": "I guess, in a way, it helped me find myself again after the accident.",
+          "life_stage": "Old Age",
+          "event_type": "Recovery",
+          "emotions": [
+            "reflective",
+            "grateful"
+          ],
+          "entities": [
+            "accident",
+            "recovery"
+          ]
+        },
+        {
+          "text": "sometimes I think about those skyscrapers, standing tall and proud",
+          "life_stage": "Old Age",
+          "event_type": "Career Reflection",
+          "emotions": [
+            "nostalgic"
+          ],
+          "entities": [
+            "skyscrapers",
+            "career"
+          ]
+        },
+        {
+          "text": "I like to think he'd appreciate the rhythm I've found in this new dance with metal.",
+          "life_stage": "Old Age",
+          "event_type": "Mentorship Reflection",
+          "emotions": [
+            "hopeful",
+            "grateful"
+          ],
+          "entities": [
+            "Joe",
+            "rhythm",
+            "metal"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "Before we finish, is there any final lesson or piece of advice you'd like to share from your journey?"
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "Oh, let me think about that. You know, it's funny how life throws all sorts of curves at you. When I was a young man working on those skyscrapers, I never imagined I'd end up spending my days in a workshop crafting art from metal. But I guess the thing is, you never know where life might take you. It's important to keep an open mind and be willing to adapt. If something feels like it's not working, don't be afraid to try something different. And, uh, appreciate the people around you who support you. Like my wife, she's been my rock through all of this. So, yeah, I suppose my advice would be to keep your eyes open for opportunities, even when they seem like setbacks, and cherish the folks who lift you up along the way.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, let me think about that. You know, it's funny how life throws all sorts of curves at you. When I was a young man working on those skyscrapers, I never imagined I'd end up spending my days in a workshop crafting art from metal.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Nostalgia",
+            "Surprise"
+          ],
+          "entities": [
+            "skyscrapers",
+            "workshop",
+            "crafting art",
+            "metal"
+          ]
+        },
+        {
+          "text": "But I guess the thing is, you never know where life might take you. It's important to keep an open mind and be willing to adapt.",
+          "life_stage": "Old Age",
+          "event_type": "Life Lesson",
+          "emotions": [
+            "Acceptance",
+            "Wisdom"
+          ],
+          "entities": [
+            "life",
+            "open mind",
+            "adapt"
+          ]
+        },
+        {
+          "text": "If something feels like it's not working, don't be afraid to try something different. And, uh, appreciate the people around you who support you. Like my wife, she's been my rock through all of this.",
+          "life_stage": "Old Age",
+          "event_type": "Life Lesson",
+          "emotions": [
+            "Gratitude",
+            "Encouragement"
+          ],
+          "entities": [
+            "support",
+            "wife",
+            "advice"
+          ]
+        }
+      ]
+    }
+  ]
+}

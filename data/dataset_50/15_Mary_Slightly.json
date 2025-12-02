@@ -1,0 +1,546 @@
+{
+  "session_id": "15_Mary",
+  "tone": "Slightly Wandering and Forgetful (Goes off-topic)",
+  "profile": {
+    "id": "15_Mary",
+    "name": "Mary",
+    "age": 84,
+    "role": "Librarian",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "The quiet reading room",
+        "context": "Love for books."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "The computer revolution",
+        "context": "Adapting to digital."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "The library closing",
+        "context": "Community loss."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your early days in the quiet reading room."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Oh, those were such peaceful times. I remember the smell of the old books and the sound of pages turning. It was a small place, really, but it felt like a whole world to me. We had this old librarian, Mrs. Thompson, who always wore these big glasses and had a bun in her hair. I spent hours there after school, just lost in stories. Sometimes, I'd help her organize the shelves, and she'd reward me with extra borrowing privileges. I remember how different it was back then, without any of the noise and technology we see today. There was a sense of calm that you don't find much anymore.",
+      "sentence_annotations": [
+        {
+          "text": "I remember the smell of the old books and the sound of pages turning.",
+          "life_stage": "Youth",
+          "event_type": "Nostalgia",
+          "emotions": [
+            "Calm",
+            "Contentment"
+          ],
+          "entities": [
+            "Reading Room",
+            "Books"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like the quiet reading room was a special place for you. What was it like working with Mrs. Thompson?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Oh, Mrs. Thompson, yes. She was quite the character. I think she saw a bit of herself in me, you know. She'd always say, 'Mary, if you love the books, they'll love you back.' We didn't have anything like computers back then, just card catalogs and our own wits to find what we needed. Mrs. Thompson taught me how to use the Dewey Decimal System. Gosh, I haven't thought about that in years. Anyway, I’d often find myself lost in the stacks. Sometimes, I'd even find little notes from readers tucked inside books. It was like a treasure hunt.",
+      "sentence_annotations": [
+        {
+          "text": "The quiet reading room was a special place for Mary, filled with the smell of old books and the sound of pages turning.",
+          "life_stage": "Youth",
+          "event_type": "Work and Mentorship",
+          "emotions": [
+            "Nostalgia",
+            "Fondness"
+          ],
+          "entities": [
+            "Mrs. Thompson",
+            "Dewey Decimal System"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "It sounds like the quiet reading room was a special place for you. What was it like working with Mrs. Thompson?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "Oh, Mrs. Thompson, yes. She was quite the character. I think she saw a bit of herself in me, you know. She'd always say, 'Mary, if you love the books, they'll love you back.' We didn't have anything like computers back then, just card catalogs and our own wits to find what we needed. Mrs. Thompson taught me how to use the Dewey Decimal System. Gosh, I haven't thought about that in years. Anyway, I’d often find myself lost in the stacks. Sometimes, I'd even find little notes from readers tucked inside books. It was like a treasure hunt.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, Mrs. Thompson, yes. She was quite the character.",
+          "life_stage": "Youth",
+          "event_type": "Mentorship",
+          "emotions": [
+            "Nostalgia",
+            "Fondness"
+          ],
+          "entities": [
+            "Mrs. Thompson",
+            "Dewey Decimal System"
+          ]
+        },
+        {
+          "text": "Anyway, I’d often find myself lost in the stacks. Sometimes, I'd even find little notes from readers tucked inside books.",
+          "life_stage": "Youth",
+          "event_type": "Library Experience",
+          "emotions": [
+            "Curiosity",
+            "Contentment"
+          ],
+          "entities": [
+            "Books",
+            "Card catalogs"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "So when did things start to change in the library?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Oh, let me think. It must have been sometime in the late '80s or early '90s when the computers started coming in. It was all very new and a bit confusing at first. I remember the first time we got a computer—it was a big, bulky thing. We had to learn how to use it, and there was this young fellow who came in to teach us. What was his name again? I think it was... oh dear, I'm forgetting. Anyway, he was very patient with us old-timers. We eventually got the hang of it, but I do miss the simplicity of the card catalogs. It's funny, I still catch myself reaching for a pen when I want to take a note, even though everything's digital now.",
+      "sentence_annotations": [
+        {
+          "text": "It must have been sometime in the late '80s or early '90s when the computers started coming in.",
+          "life_stage": "Adulthood",
+          "event_type": "Technological Change",
+          "emotions": [
+            "Nostalgia",
+            "Confusion"
+          ],
+          "entities": [
+            "computers",
+            "late '80s",
+            "early '90s"
+          ]
+        },
+        {
+          "text": "I remember the first time we got a computer—it was a big, bulky thing.",
+          "life_stage": "Adulthood",
+          "event_type": "Technological Change",
+          "emotions": [
+            "Surprise"
+          ],
+          "entities": [
+            "first computer"
+          ]
+        },
+        {
+          "text": "We eventually got the hang of it, but I do miss the simplicity of the card catalogs.",
+          "life_stage": "Adulthood",
+          "event_type": "Technological Change",
+          "emotions": [
+            "Nostalgia"
+          ],
+          "entities": [
+            "card catalogs",
+            "simplicity"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "That must have been hard to adapt to such a big change."
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "Yes, it was quite an adjustment! But I think what really helped was the enthusiasm of the younger generation. They were so excited about the possibilities that computers brought. We started getting more visitors, curious to see what these new machines could do. It changed the whole atmosphere of the library. Suddenly, it wasn't just a quiet place to read; it became a hub of activity. I remember one girl, oh what was her name? She was always so fascinated by the technology. It's strange how things just slip your mind... Anyway, she used to come in every afternoon to explore the new digital catalog. I think she ended up working in IT, can you imagine?",
+      "sentence_annotations": [
+        {
+          "text": "It was quite an adjustment! But I think what really helped was the enthusiasm of the younger generation.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Experience",
+          "emotions": [
+            "Nostalgia",
+            "Adaptation"
+          ],
+          "entities": [
+            "library",
+            "computers",
+            "younger generation"
+          ]
+        },
+        {
+          "text": "We started getting more visitors, curious to see what these new machines could do.",
+          "life_stage": "Adulthood",
+          "event_type": "Technological Change",
+          "emotions": [
+            "Curiosity",
+            "Excitement"
+          ],
+          "entities": [
+            "library",
+            "visitors",
+            "computers"
+          ]
+        },
+        {
+          "text": "It's strange how things just slip your mind...",
+          "life_stage": "Adulthood",
+          "event_type": "Aging",
+          "emotions": [
+            "Forgetfulness"
+          ],
+          "entities": [
+            "memory"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about some of the core challenges you faced during this transition."
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Oh, well, let's see. I think one of the biggest challenges was just getting everyone on the same page. You know, not everyone was as excited about the computers as the younger crowd. Some of my colleagues were quite resistant at first. They were set in their ways, and I understand that. But eventually, we all had to get used to it. There were a lot of training sessions, and sometimes things would go wrong—computers would crash, or the internet wouldn't work. It was a bit daunting for those of us who had been used to doing things the old way. And then there was the issue of space—those computers took up a lot of room, and we had to reorganize the library to fit them in. It was a lot to handle, but we managed.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, well, let's see. I think one of the biggest challenges was just getting everyone on the same page.",
+          "life_stage": "Adulthood",
+          "event_type": "The computer revolution",
+          "emotions": [
+            "Reflective",
+            "Challenged"
+          ],
+          "entities": [
+            "computers",
+            "library",
+            "colleagues"
+          ]
+        },
+        {
+          "text": "There were a lot of training sessions, and sometimes things would go wrong—computers would crash, or the internet wouldn't work.",
+          "life_stage": "Adulthood",
+          "event_type": "The computer revolution",
+          "emotions": [
+            "Frustrated",
+            "Overwhelmed"
+          ],
+          "entities": [
+            "training sessions",
+            "computers",
+            "internet"
+          ]
+        },
+        {
+          "text": "And then there was the issue of space—those computers took up a lot of room, and we had to reorganize the library to fit them in.",
+          "life_stage": "Adulthood",
+          "event_type": "The computer revolution",
+          "emotions": [
+            "Stressed",
+            "Adaptable"
+          ],
+          "entities": [
+            "space",
+            "computers",
+            "library"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "That sounds like quite a period of adjustment. Were there any particular incidents or stories that stand out from that time?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "Oh, let me think now. Yes, there was this one time when we were trying to set up the first few computers, and one of them just wouldn't start. We had a small gathering of staff and a few curious patrons staring at it, trying to figure out what went wrong. It turned out it wasn't even plugged in! Oh, the laughter that ensued, it was embarrassing but lighthearted. It seemed like every little hiccup was a small adventure in itself. We didn't have IT support like they do now, so solving these issues was a community effort. But the camaraderie that came from it was something special, I think.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, let me think now. Yes, there was this one time when we were trying to set up the first few computers, and one of them just wouldn't start. We had a small gathering of staff and a few curious patrons staring at it, trying to figure out what went wrong. It turned out it wasn't even plugged in! Oh, the laughter that ensued, it was embarrassing but lighthearted. It seemed like every little hiccup was a small adventure in itself. We didn't have IT support like they do now, so solving these issues was a community effort. But the camaraderie that came from it was something special, I think.",
+          "life_stage": "Adulthood",
+          "event_type": "The computer revolution",
+          "emotions": [
+            "nostalgia",
+            "amusement"
+          ],
+          "entities": [
+            "computers",
+            "library",
+            "staff",
+            "patrons",
+            "IT support"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "It sounds like there were a lot of challenges and changes. How did the library's patrons respond to all this?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Oh, the patrons, yes. They were quite a mixed bunch when it came to the changes. Some of the older folks were just as wary as we were, but others were surprisingly eager to dive into the new technology. I remember one lady, Mrs. Henderson, she was in her seventies and would come in every week to learn something new. She even started using email to keep in touch with her grandchildren! But I think the biggest challenge was keeping the balance—making sure we didn't lose the essence of what a library is. We tried to maintain that quiet space for reading while also accommodating the new technology. It was a bit like walking on a tightrope at times, making sure everyone felt welcome and that their needs were being met.",
+      "sentence_annotations": [
+        {
+          "text": "The patrons, yes. They were quite a mixed bunch when it came to the changes. Some of the older folks were just as wary as we were, but others were surprisingly eager to dive into the new technology.",
+          "life_stage": "Adulthood",
+          "event_type": "Adaptation to Technological Change",
+          "emotions": [
+            "Nostalgia",
+            "Amusement"
+          ],
+          "entities": [
+            "Patrons",
+            "Technology"
+          ]
+        },
+        {
+          "text": "I remember one lady, Mrs. Henderson, she was in her seventies and would come in every week to learn something new.",
+          "life_stage": "Adulthood",
+          "event_type": "Impact on Community",
+          "emotions": [
+            "Admiration",
+            "Joy"
+          ],
+          "entities": [
+            "Mrs. Henderson",
+            "Patrons"
+          ]
+        },
+        {
+          "text": "But I think the biggest challenge was keeping the balance—making sure we didn't lose the essence of what a library is.",
+          "life_stage": "Adulthood",
+          "event_type": "Preservation of Tradition",
+          "emotions": [
+            "Concern",
+            "Determination"
+          ],
+          "entities": [
+            "Library",
+            "Tradition"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "So when did the library eventually close?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Oh, that was such a sad time, really. I think it must have been about five years ago now, or was it six? Time gets a bit fuzzy. Anyway, the decision came down from the city council. They said it was due to budget cuts and declining visitors, which I suppose is true, but it still broke my heart. We all gathered for one last meeting, and I remember looking around at the faces—so many memories, you know? We tried to rally support to keep it open; there were petitions and meetings, but in the end, it just wasn't enough. I remember packing up the books, and that felt like the end of an era. Some of them were donated to other libraries, but a lot were just put into storage. It's funny how a place can be so full of life, and then suddenly, it's... well, just gone.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, that was such a sad time, really. I think it must have been about five years ago now, or was it six? Time gets a bit fuzzy. Anyway, the decision came down from the city council.",
+          "life_stage": "Old Age",
+          "event_type": "Library Closing",
+          "emotions": [
+            "Sadness",
+            "Nostalgia"
+          ],
+          "entities": [
+            "library",
+            "city council",
+            "budget cuts"
+          ]
+        },
+        {
+          "text": "We all gathered for one last meeting, and I remember looking around at the faces—so many memories, you know?",
+          "life_stage": "Old Age",
+          "event_type": "Library Closing",
+          "emotions": [
+            "Nostalgia",
+            "Sorrow"
+          ],
+          "entities": [
+            "meeting",
+            "memories"
+          ]
+        },
+        {
+          "text": "We tried to rally support to keep it open; there were petitions and meetings, but in the end, it just wasn't enough.",
+          "life_stage": "Old Age",
+          "event_type": "Library Closing",
+          "emotions": [
+            "Disappointment",
+            "Determination"
+          ],
+          "entities": [
+            "support",
+            "petitions",
+            "meetings"
+          ]
+        },
+        {
+          "text": "I remember packing up the books, and that felt like the end of an era.",
+          "life_stage": "Old Age",
+          "event_type": "Library Closing",
+          "emotions": [
+            "Closure",
+            "Sadness"
+          ],
+          "entities": [
+            "packing",
+            "books",
+            "end of an era"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "It must have been difficult to see the library close after all those years. How have you been reflecting on this change?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Oh, yes, it was a hard pill to swallow, indeed. You know, libraries have always been a sort of sanctuary for me, a place where I could find peace amidst the chaos of life. Losing that felt like losing a part of myself. I often find myself reminiscing about the old days, how the library was bustling with people, young and old, each with their own stories. And I do wonder sometimes, what happened to all those people who used to come in regularly? Did they find new places, new havens? I hope they did. It's strange, isn't it, how a building can hold so much? Not just books, but memories. I still like to think of all the people who found solace or a moment of joy in those walls. Oh, I’m rambling now, but yes, it was a significant change, and sometimes I just sit and think about it all.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, yes, it was a hard pill to swallow, indeed. You know, libraries have always been a sort of sanctuary for me, a place where I could find peace amidst the chaos of life. Losing that felt like losing a part of myself.",
+          "life_stage": "Old Age",
+          "event_type": "Library Closing",
+          "emotions": [
+            "Sadness",
+            "Nostalgia"
+          ],
+          "entities": [
+            "Library"
+          ]
+        },
+        {
+          "text": "I often find myself reminiscing about the old days, how the library was bustling with people, young and old, each with their own stories. And I do wonder sometimes, what happened to all those people who used to come in regularly?",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Nostalgia",
+            "Curiosity"
+          ],
+          "entities": [
+            "Library",
+            "People"
+          ]
+        },
+        {
+          "text": "It's strange, isn't it, how a building can hold so much? Not just books, but memories. I still like to think of all the people who found solace or a moment of joy in those walls.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Nostalgia",
+            "Reflection"
+          ],
+          "entities": [
+            "Library",
+            "Memories"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "That must have been hard to see such an important place in your life close. How do you feel about the future of libraries in general?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "Ah, the future of libraries, that's something I ponder about often. You see, I worry sometimes that people might forget the magic that libraries hold. There's something so special about walking into a place filled with stories and knowledge, just waiting to be discovered. I hope that future generations will still find value in that. But, I suppose things always change, don't they? I remember when the computer first came in, I thought it was the end of a certain kind of library, but perhaps it's just a new chapter. I think if we can keep the heart of the library alive, then they'll always have a place. Oh dear, I'm getting sentimental again. But yes, I do hope libraries continue to be places of learning and community.",
+      "sentence_annotations": [
+        {
+          "text": "Ah, the future of libraries, that's something I ponder about often. You see, I worry sometimes that people might forget the magic that libraries hold. There's something so special about walking into a place filled with stories and knowledge, just waiting to be discovered.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Worry",
+            "Nostalgia"
+          ],
+          "entities": [
+            "Libraries",
+            "Future Generations"
+          ]
+        },
+        {
+          "text": "But, I suppose things always change, don't they? I remember when the computer first came in, I thought it was the end of a certain kind of library, but perhaps it's just a new chapter.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Acceptance",
+            "Hope"
+          ],
+          "entities": [
+            "Computers",
+            "Change",
+            "Libraries"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "Before we finish, if you could impart one lesson from your time at the library, what would it be?"
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "Oh, that's a lovely question. Let's see... I suppose it would be that libraries are much more than just buildings filled with books. They're alive with the stories of those who visit them, with the laughter and the learning that happens within their walls. I learned that while books are important, it's the people who bring life to those pages. You know, we often think of knowledge as something we gain, but it's also something we share. And I think, if there's one lesson, it's to never stop sharing what you know. Even in a world that's changing faster than I can keep up with, that sharing is what connects us all.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, that's a lovely question. Let's see... I suppose it would be that libraries are much more than just buildings filled with books. They're alive with the stories of those who visit them, with the laughter and the learning that happens within their walls. I learned that while books are important, it's the people who bring life to those pages.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Nostalgic",
+            "Thoughtful"
+          ],
+          "entities": [
+            "Libraries",
+            "Books",
+            "Stories"
+          ]
+        },
+        {
+          "text": "You know, we often think of knowledge as something we gain, but it's also something we share. And I think, if there's one lesson, it's to never stop sharing what you know. Even in a world that's changing faster than I can keep up with, that sharing is what connects us all.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Hopeful",
+            "Wise"
+          ],
+          "entities": [
+            "Knowledge",
+            "Sharing",
+            "Change"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "session_id": "48_Nora",
+  "tone": "Slightly Wandering and Forgetful (Goes off-topic)",
+  "profile": {
+    "id": "48_Nora",
+    "name": "Nora",
+    "age": 82,
+    "role": "Midwife",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "First home birth",
+        "context": "Miracle of life."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "Complications",
+        "context": "Tragedy and resilience."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Meeting babies grown up",
+        "context": "Cycle of life."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your first home birth experience."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Oh, my first home birth! That takes me way back. It was in the spring, I remember because the flowers were just blooming. I was so nervous and excited, all at once. The family had an old Victorian house, lovely and full of character. Back then, I didn't have all the fancy equipment we use nowadays. Just my hands and a small bag with the essentials.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, my first home birth! That takes me way back. It was in the spring, I remember because the flowers were just blooming.",
+          "life_stage": "Young Adult",
+          "event_type": "First Home Birth",
+          "emotions": [
+            "Nervous",
+            "Excited"
+          ],
+          "entities": [
+            "Home Birth",
+            "Spring",
+            "Victorian House"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like a beautiful setting. How did it all go?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Well, it was quite an experience. The mother was a lovely young woman, very calm and collected, which helped a lot. But, oh, I remember there was a moment when the baby just wouldn't turn. I had to improvise a little, but eventually, with a bit of patience, everything went smoothly. The baby was a healthy little girl. Oh, and the father was pacing outside the whole time, poor thing.",
+      "sentence_annotations": [
+        {
+          "text": "The mother was a lovely young woman, very calm and collected...",
+          "life_stage": "Adulthood",
+          "event_type": "First Home Birth",
+          "emotions": [
+            "Nervousness",
+            "Excitement",
+            "Relief"
+          ],
+          "entities": [
+            "Victorian house",
+            "mother",
+            "father",
+            "baby girl"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been hard, especially with the baby not turning. How did you feel once it was all over?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "Once it was all over, I felt this immense relief, like a weight had been lifted. You see, back then, we didn't have the same support systems. Each birth was a little adventure of its own. I remember thinking about how it reminded me of my own childhood. My mother used to tell me stories about her work as a nurse during the war. Oh, she was a strong woman, always so calm under pressure. I think I got some of my determination from her. Anyway, I stayed with the family for a while after the birth, helping the mother adjust and recover. That little girl grew up to be quite the character, you know. I saw her a few times over the years.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, she was a strong woman, always so calm under pressure. I think I got some of my determination from her.",
+          "life_stage": "Youth",
+          "event_type": "Family Influence",
+          "emotions": [
+            "Nostalgia",
+            "Admiration"
+          ],
+          "entities": [
+            "Mother",
+            "World War",
+            "Nursing"
+          ]
+        },
+        {
+          "text": "I saw her a few times over the years.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Follow-up",
+          "emotions": [
+            "Pride",
+            "Affection"
+          ],
+          "entities": [
+            "Little girl",
+            "Family"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "So when did things change for you? I mean, how did the period of doing home births come to an end?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Ah, yes. Well, there was a time when I started noticing more complications. You know, in the early days, the births were mostly straightforward, but as I got older, there were a few cases that really challenged me. One time, there was this boy who arrived with the cord wrapped around. Oh, those were tense moments. But we managed. I think it was around then that hospitals started becoming more accessible and better equipped. Families were opting for hospital births more often. I remember feeling a bit sad about it, but also relieved in a way. I wanted to be there for all those families, but there were only so many hours in a day. I guess I slowly transitioned to more of a consultant role, sharing my experiences with younger midwives, which was a nice change.",
+      "sentence_annotations": [
+        {
+          "text": "But we managed. I think it was around then that hospitals started becoming more accessible and better equipped.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Nostalgia",
+            "Relief"
+          ],
+          "entities": [
+            "Hospitals",
+            "Midwives",
+            "Families"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "So when did things change for you? I mean, how did the period of doing home births come to an end?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "Ah, yes. Well, there was a time when I started noticing more complications. You know, in the early days, the births were mostly straightforward, but as I got older, there were a few cases that really challenged me. One time, there was this boy who arrived with the cord wrapped around. Oh, those were tense moments. But we managed. I think it was around then that hospitals started becoming more accessible and better equipped. Families were opting for hospital births more often. I remember feeling a bit sad about it, but also relieved in a way. I wanted to be there for all those families, but there were only so many hours in a day. I guess I slowly transitioned to more of a consultant role, sharing my experiences with younger midwives, which was a nice change.",
+      "sentence_annotations": [
+        {
+          "text": "Well, there was a time when I started noticing more complications.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Transition",
+          "emotions": [
+            "reflective",
+            "nostalgic"
+          ],
+          "entities": [
+            "home births",
+            "complications",
+            "hospitals"
+          ]
+        },
+        {
+          "text": "One time, there was this boy who arrived with the cord wrapped around.",
+          "life_stage": "Adulthood",
+          "event_type": "Challenging Birth",
+          "emotions": [
+            "tense",
+            "relieved"
+          ],
+          "entities": [
+            "birth complications",
+            "umbilical cord"
+          ]
+        },
+        {
+          "text": "I remember feeling a bit sad about it, but also relieved in a way.",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Transition",
+          "emotions": [
+            "sad",
+            "relieved"
+          ],
+          "entities": [
+            "home births",
+            "hospitals",
+            "professional transition"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "That sounds intense, especially with the cord situation. How did you handle those more challenging moments?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Oh, those moments were indeed something. You know, it's funny because in those intense situations, time seems to move differently. I always relied on my intuition and a little bit of what I call, 'midwife magic.' You see, I was fortunate to have some incredible mentors who taught me how to stay calm and focused. There was one particular midwife, Mrs. Jenkins, who would always say, 'Nora, remember to breathe, and you'll find the way.' So, that's what I did. And then, of course, there was the support from the families. They were often so understanding and hopeful, and that gave me strength. I suppose it’s like my garden; sometimes the plants don't grow the way you expect, but with care and patience, they usually find their way.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, those moments were indeed something. You know, it's funny because in those intense situations, time seems to move differently. I always relied on my intuition and a little bit of what I call, 'midwife magic.'",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Challenge",
+          "emotions": [
+            "reflective",
+            "calm"
+          ],
+          "entities": [
+            "midwife magic",
+            "intuition",
+            "intense situations"
+          ]
+        },
+        {
+          "text": "I was fortunate to have some incredible mentors who taught me how to stay calm and focused. There was one particular midwife, Mrs. Jenkins, who would always say, 'Nora, remember to breathe, and you'll find the way.'",
+          "life_stage": "Adulthood",
+          "event_type": "Mentorship",
+          "emotions": [
+            "grateful",
+            "inspired"
+          ],
+          "entities": [
+            "Mrs. Jenkins",
+            "mentors",
+            "calm and focused"
+          ]
+        },
+        {
+          "text": "And then, of course, there was the support from the families. They were often so understanding and hopeful, and that gave me strength.",
+          "life_stage": "Adulthood",
+          "event_type": "Community Support",
+          "emotions": [
+            "supported",
+            "strengthened"
+          ],
+          "entities": [
+            "families",
+            "support",
+            "hopeful"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "That sounds intense, especially with the cord situation. How did you handle those more challenging moments?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "Oh, those moments were indeed something. You know, it's funny because in those intense situations, time seems to move differently. I always relied on my intuition and a little bit of what I call, 'midwife magic.' You see, I was fortunate to have some incredible mentors who taught me how to stay calm and focused. There was one particular midwife, Mrs. Jenkins, who would always say, 'Nora, remember to breathe, and you'll find the way.' So, that's what I did. And then, of course, there was the support from the families. They were often so understanding and hopeful, and that gave me strength. I suppose it’s like my garden; sometimes the plants don't grow the way you expect, but with care and patience, they usually find their way.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, those moments were indeed something. You know, it's funny because in those intense situations, time seems to move differently. I always relied on my intuition and a little bit of what I call, 'midwife magic.'",
+          "life_stage": "Adulthood",
+          "event_type": "Professional Challenges",
+          "emotions": [
+            "Reflective",
+            "Grateful"
+          ],
+          "entities": [
+            "intense situations",
+            "intuition",
+            "midwife magic"
+          ]
+        },
+        {
+          "text": "You see, I was fortunate to have some incredible mentors who taught me how to stay calm and focused.",
+          "life_stage": "Adulthood",
+          "event_type": "Mentorship",
+          "emotions": [
+            "Grateful",
+            "Appreciative"
+          ],
+          "entities": [
+            "mentors",
+            "calm",
+            "focused"
+          ]
+        },
+        {
+          "text": "There was one particular midwife, Mrs. Jenkins, who would always say, 'Nora, remember to breathe, and you'll find the way.'",
+          "life_stage": "Adulthood",
+          "event_type": "Guidance",
+          "emotions": [
+            "Nostalgic",
+            "Appreciative"
+          ],
+          "entities": [
+            "Mrs. Jenkins",
+            "guidance",
+            "breathe",
+            "find the way"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear if you've ever had the chance to meet any of the babies you helped deliver now that they're older."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Oh, yes, I have! It's such a peculiar feeling, seeing those little ones all grown up. There's this one young man, Thomas—I delivered him at home during a snowstorm. His mother always joked that he came into the world with a flair for the dramatic. Well, he's a teacher now, and every once in a while, he stops by to say hello. There's something so heartwarming about those visits. You know, it makes me think about how life just continues, like a river flowing. Oh, speaking of rivers, did I ever tell you about the time I got caught in the rain walking by the Thames? It was such a downpour, and I was drenched head to toe!",
+      "sentence_annotations": [
+        {
+          "text": "Oh, yes, I have! It's such a peculiar feeling, seeing those little ones all grown up. There's this one young man, Thomas—I delivered him at home during a snowstorm. His mother always joked that he came into the world with a flair for the dramatic.",
+          "life_stage": "Old Age",
+          "event_type": "Meeting grown-up babies",
+          "emotions": [
+            "Nostalgia",
+            "Pride",
+            "Warmth"
+          ],
+          "entities": [
+            "Thomas",
+            "Snowstorm"
+          ]
+        },
+        {
+          "text": "Well, he's a teacher now, and every once in a while, he stops by to say hello. There's something so heartwarming about those visits.",
+          "life_stage": "Old Age",
+          "event_type": "Meeting grown-up babies",
+          "emotions": [
+            "Joy",
+            "Contentment"
+          ],
+          "entities": [
+            "Thomas",
+            "Teacher"
+          ]
+        },
+        {
+          "text": "Oh, speaking of rivers, did I ever tell you about the time I got caught in the rain walking by the Thames? It was such a downpour, and I was drenched head to toe!",
+          "life_stage": "Old Age",
+          "event_type": "Personal Anecdote",
+          "emotions": [
+            "Amusement"
+          ],
+          "entities": [
+            "River Thames",
+            "Rain"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "That must be a wonderful feeling, seeing them grown up and doing well. How does it make you feel to know you've been a part of their lives like that?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Oh, it's an indescribable feeling, really. There's a sense of pride and joy, like seeing a seed you've planted grow into a mighty tree. You know, I often think back to those early days, not just the births but also the families—their stories, their lives. It's a bit like looking at an old photograph and remembering all the details. Oh, and speaking of photographs, I used to take a little snap of each baby with the family, just a small keepsake. I wonder if any of those photos are still around. But yes, it's heartwarming, and it gives me a sense of fulfillment. Being a midwife was never just a job for me; it was a calling. And to see those children now, living their own lives, it makes all those long nights and early mornings worth it. Oh, did I ever tell you about the time I helped deliver twins in the middle of a power outage? Quite the experience!",
+      "sentence_annotations": [
+        {
+          "text": "Oh, it's an indescribable feeling, really. There's a sense of pride and joy, like seeing a seed you've planted grow into a mighty tree.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Pride",
+            "Joy",
+            "Fulfillment"
+          ],
+          "entities": [
+            "Nora",
+            "babies delivered",
+            "tree",
+            "seed"
+          ]
+        },
+        {
+          "text": "I used to take a little snap of each baby with the family, just a small keepsake.",
+          "life_stage": "Old Age",
+          "event_type": "Memory",
+          "emotions": [
+            "Nostalgia"
+          ],
+          "entities": [
+            "Nora",
+            "photographs",
+            "babies",
+            "families"
+          ]
+        },
+        {
+          "text": "Being a midwife was never just a job for me; it was a calling.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Fulfillment"
+          ],
+          "entities": [
+            "Nora",
+            "midwife",
+            "calling"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "That must be a wonderful feeling, seeing them grown up and doing well. How does it make you feel to know you've been a part of their lives like that?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Oh, it's an indescribable feeling, really. There's a sense of pride and joy, like seeing a seed you've planted grow into a mighty tree. You know, I often think back to those early days, not just the births but also the families—their stories, their lives. It's a bit like looking at an old photograph and remembering all the details. Oh, and speaking of photographs, I used to take a little snap of each baby with the family, just a small keepsake. I wonder if any of those photos are still around. But yes, it's heartwarming, and it gives me a sense of fulfillment. Being a midwife was never just a job for me; it was a calling. And to see those children now, living their own lives, it makes all those long nights and early mornings worth it. Oh, did I ever tell you about the time I helped deliver twins in the middle of a power outage? Quite the experience!",
+      "sentence_annotations": [
+        {
+          "text": "Oh, it's an indescribable feeling, really. There's a sense of pride and joy, like seeing a seed you've planted grow into a mighty tree.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection on Career Impact",
+          "emotions": [
+            "Pride",
+            "Joy",
+            "Fulfillment"
+          ],
+          "entities": [
+            "midwife",
+            "children",
+            "families"
+          ]
+        },
+        {
+          "text": "Oh, and speaking of photographs, I used to take a little snap of each baby with the family, just a small keepsake.",
+          "life_stage": "Old Age",
+          "event_type": "Reminiscing",
+          "emotions": [
+            "Nostalgia",
+            "Sentimentality"
+          ],
+          "entities": [
+            "photographs",
+            "babies",
+            "families"
+          ]
+        },
+        {
+          "text": "Oh, did I ever tell you about the time I helped deliver twins in the middle of a power outage? Quite the experience!",
+          "life_stage": "Old Age",
+          "event_type": "Anecdote",
+          "emotions": [
+            "Amusement",
+            "Amazement"
+          ],
+          "entities": [
+            "twins",
+            "power outage",
+            "delivery"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "Before we finish, Nora, I'd love to know, after all these years of delivering babies and being such an integral part of so many families' lives, what would you say is the most important lesson you've learned?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "Oh, that's a tall order! Let me think. Well, I suppose if I had to choose just one lesson, it would be the importance of patience and trust. You see, life has its own rhythm, like the ebb and flow of the tides. In my years as a midwife, I learned that sometimes you just have to let things unfold in their own time. Panic never helped anyone. Trust in the process and in the people around you. Oh, and kindness. Yes, always kindness. A gentle word or a warm smile can make all the difference. It's like my garden again—you nurture it with care, and it will flourish. And even when things don't go as planned, there's always a way forward. Just like that day by the Thames, drenched, but somehow finding beauty in the storm. Oh dear, I'm rambling! But yes, patience, trust, and kindness. I think those are the keys.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, that's a tall order! Let me think. Well, I suppose if I had to choose just one lesson, it would be the importance of patience and trust. You see, life has its own rhythm, like the ebb and flow of the tides. In my years as a midwife, I learned that sometimes you just have to let things unfold in their own time. Panic never helped anyone. Trust in the process and in the people around you.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Reflective",
+            "Content"
+          ],
+          "entities": [
+            "Patience",
+            "Trust",
+            "Life Rhythm"
+          ]
+        },
+        {
+          "text": "Oh, and kindness. Yes, always kindness. A gentle word or a warm smile can make all the difference.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Gentle",
+            "Warm"
+          ],
+          "entities": [
+            "Kindness"
+          ]
+        },
+        {
+          "text": "It's like my garden again—you nurture it with care, and it will flourish. And even when things don't go as planned, there's always a way forward.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Hopeful",
+            "Optimistic"
+          ],
+          "entities": [
+            "Garden",
+            "Care",
+            "Flourish"
+          ]
+        },
+        {
+          "text": "Just like that day by the Thames, drenched, but somehow finding beauty in the storm.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Nostalgic"
+          ],
+          "entities": [
+            "Thames",
+            "Beauty",
+            "Storm"
+          ]
+        }
+      ]
+    }
+  ]
+}

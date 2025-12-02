@@ -1,0 +1,649 @@
+{
+  "session_id": "25_Ahmed",
+  "tone": "Slightly Wandering and Forgetful (Goes off-topic)",
+  "profile": {
+    "id": "25_Ahmed",
+    "name": "Ahmed",
+    "age": 76,
+    "role": "Taxi Driver",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "Driving in 80s NYC",
+        "context": "Chaos and crime."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "Saving for a medallion",
+        "context": "The American Dream."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Uber taking over",
+        "context": "Obsolescence."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your experiences driving in New York City during the 1980s."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Oh, the 80s! That was quite a time to be driving a taxi in NYC, let me tell you. The city was alive in a way that was hard to describe. The streets were busy with people from all walks of life. I remember there was always something happening, and each shift was an adventure. But, you know, the traffic was really something else, and trying to navigate through it was an art form in itself. People sometimes forget how different the city was back then. There were no GPS devices like today, so you really had to know your way around. I used to keep a map in the car just in case.",
+      "sentence_annotations": [
+        {
+          "text": "The city was alive in a way that was hard to describe.",
+          "life_stage": "Youth",
+          "event_type": "Career Experience",
+          "emotions": [
+            "Nostalgia",
+            "Pride"
+          ],
+          "entities": [
+            "New York City",
+            "1980s",
+            "Taxi Driving"
+          ]
+        },
+        {
+          "text": "There were no GPS devices like today, so you really had to know your way around.",
+          "life_stage": "Youth",
+          "event_type": "Technological Context",
+          "emotions": [
+            "Nostalgia"
+          ],
+          "entities": [
+            "GPS",
+            "Maps"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like the 1980s were quite a vibrant time in the city. What was it like navigating without modern technology?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Oh, yes! Back then, it was all about knowing the city like the back of your hand. You had to remember all the little streets and shortcuts. I used to rely on landmarks, you know? Like, 'Turn right at the deli with the big red sign,' or 'Take a left by the park with the old oak tree.' It was a different way of driving. Sometimes, I'd have a passenger who knew a shortcut, and we'd have a good laugh about it. And let's not forget those late-night shifts—those could get interesting! I always had a stash of stories from the night drives, but speaking of stories, did I ever tell you about the time I picked up a famous singer? It was quite a night, and the tips were excellent!",
+      "sentence_annotations": [
+        {
+          "text": "Oh, yes! Back then, it was all about knowing the city like the back of your hand.",
+          "life_stage": "Middle Age",
+          "event_type": "Occupation",
+          "emotions": [
+            "Nostalgia"
+          ],
+          "entities": [
+            "NYC",
+            "Taxi Driver"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That sounds like a unique experience, driving without GPS. I'd love to hear more about the stories from your late-night shifts."
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "Ah, those late-night shifts, they were something else! The city had a different vibe after midnight. You'd get all sorts of characters hopping into the cab. Some nights, it felt like the city never slept. One time, I had this passenger who was convinced the world was ending and insisted on going to their favorite diner for one last meal. We drove around for a while, and I think they calmed down just talking about their memories of the place. It was moments like these that reminded me how human we all are, regardless of how hectic things got. You know, it's funny how people feel more free to talk to strangers in a cab at night. Oh, and I was saving up for a medallion back then, a real dream for any taxi driver.",
+      "sentence_annotations": [
+        {
+          "text": "The city had a different vibe after midnight. You'd get all sorts of characters hopping into the cab.",
+          "life_stage": "Early Career",
+          "event_type": "Work Experience",
+          "emotions": [
+            "Nostalgia",
+            "Amusement"
+          ],
+          "entities": [
+            "Late-night shifts",
+            "New York City",
+            "Taxi passengers"
+          ]
+        },
+        {
+          "text": "I was saving up for a medallion back then, a real dream for any taxi driver.",
+          "life_stage": "Mid Career",
+          "event_type": "Aspirations",
+          "emotions": [
+            "Hope",
+            "Determination"
+          ],
+          "entities": [
+            "Taxi medallion",
+            "Career goals"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "It sounds like those late-night shifts were full of interesting characters and stories. How did saving for a medallion impact your time as a taxi driver?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Well, saving for a medallion was always in the back of my mind. It was like having a carrot dangling in front of you. The medallion, it meant stability, you know? Owning one was like owning a piece of the city, a key to the streets. Every fare, every tip, it all went into that dream. Of course, life sometimes had other plans, and expenses would pop up. But driving, it gave me purpose. And, let's see, oh yes, I remember there were times I'd drive extra hours just to get closer to that goal. Funny thing is, I often ended up working more nights because that's when the fares were better. And while I was out there chasing my dream, I'd often find myself hearing other people's dreams too, all those stories in the back seat.",
+      "sentence_annotations": [
+        {
+          "text": "saving for a medallion was always in the back of my mind",
+          "life_stage": "Adulthood",
+          "event_type": "Financial Goal",
+          "emotions": [
+            "determination",
+            "hope"
+          ],
+          "entities": [
+            "medallion",
+            "taxi driver",
+            "New York City"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "So when did things change with your goal of getting a medallion?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "Oh, well, that changed a bit later on. You see, things got more complicated in the taxi business. There was a time when the prices of medallions shot up. It was like the whole city suddenly realized what a gold mine they were sitting on, and the prices just skyrocketed. I remember feeling a bit disheartened. I mean, how could a simple taxi driver like me ever afford one? But I kept driving and saving what I could. Funny thing is, around that time, I got to know more drivers who were in the same boat, and we used to trade advice and stories. Some would say, 'Don't worry, Ahmed, one day it'll happen.' And I believed them for a while. Then, oh! I remember there was a time I almost gave up chasing the medallion dream altogether. You know, life has its way of teaching you patience, but also when to change course.",
+      "sentence_annotations": [
+        {
+          "text": "You see, things got more complicated in the taxi business. There was a time when the prices of medallions shot up.",
+          "life_stage": "Midlife",
+          "event_type": "Economic Change",
+          "emotions": [
+            "Disheartened",
+            "Reflective"
+          ],
+          "entities": [
+            "Taxi medallions",
+            "New York City"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "It sounds like saving up for a medallion was quite a journey. So when did things change with your goal of getting a medallion?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Oh, well, that changed a bit later on. You see, things got more complicated in the taxi business. There was a time when the prices of medallions shot up. It was like the whole city suddenly realized what a gold mine they were sitting on, and the prices just skyrocketed. I remember feeling a bit disheartened. I mean, how could a simple taxi driver like me ever afford one? But I kept driving and saving what I could. Funny thing is, around that time, I got to know more drivers who were in the same boat, and we used to trade advice and stories. Some would say, 'Don't worry, Ahmed, one day it'll happen.' And I believed them for a while. Then, oh! I remember there was a time I almost gave up chasing the medallion dream altogether. You know, life has its way of teaching you patience, but also when to change course.",
+      "sentence_annotations": [
+        {
+          "text": "Things got more complicated in the taxi business. There was a time when the prices of medallions shot up.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Challenge",
+          "emotions": [
+            "Disheartened",
+            "Perseverance"
+          ],
+          "entities": [
+            "medallions",
+            "taxi business"
+          ]
+        },
+        {
+          "text": "Funny thing is, around that time, I got to know more drivers who were in the same boat, and we used to trade advice and stories.",
+          "life_stage": "Adulthood",
+          "event_type": "Community Building",
+          "emotions": [
+            "Camaraderie",
+            "Hope"
+          ],
+          "entities": [
+            "drivers",
+            "advice",
+            "stories"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "It sounds like saving up for a medallion was quite a journey. Could you tell me about some of the challenges you faced along the way?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "Oh, absolutely. You see, saving up was never easy. There were always unexpected expenses, like repairs on the car or just the day-to-day living costs that seemed to creep up on you. And then, those medallion prices, they soared beyond what most of us could imagine back then. Sometimes, I'd think, 'Is this all worth it?' I mean, there were days I felt like I was stuck in a loop, just driving and saving, driving and saving. But then, I'd get a good fare or a generous tip, and it would lift my spirits. Oh, and speaking of challenges, those long hours could really wear you out. I'd often end up working double shifts just to make a little extra. That was tough on the body. But you know, during those long nights, I'd meet people who'd share their stories and dreams, and somehow it made it all feel a little less heavy. I guess that's one thing that kept me going.",
+      "sentence_annotations": [
+        {
+          "text": "You see, saving up was never easy. There were always unexpected expenses, like repairs on the car or just the day-to-day living costs that seemed to creep up on you.",
+          "life_stage": "Adulthood",
+          "event_type": "Financial Struggle",
+          "emotions": [
+            "frustration",
+            "resilience"
+          ],
+          "entities": [
+            "medallion",
+            "unexpected expenses",
+            "repairs"
+          ]
+        },
+        {
+          "text": "And then, those medallion prices, they soared beyond what most of us could imagine back then.",
+          "life_stage": "Adulthood",
+          "event_type": "Economic Change",
+          "emotions": [
+            "disappointment",
+            "disbelief"
+          ],
+          "entities": [
+            "medallion prices",
+            "economic change"
+          ]
+        },
+        {
+          "text": "Sometimes, I'd think, 'Is this all worth it?' I mean, there were days I felt like I was stuck in a loop, just driving and saving, driving and saving.",
+          "life_stage": "Adulthood",
+          "event_type": "Personal Reflection",
+          "emotions": [
+            "doubt",
+            "exhaustion"
+          ],
+          "entities": [
+            "loop",
+            "driving",
+            "saving"
+          ]
+        },
+        {
+          "text": "But then, I'd get a good fare or a generous tip, and it would lift my spirits.",
+          "life_stage": "Adulthood",
+          "event_type": "Positive Encounter",
+          "emotions": [
+            "hope",
+            "upliftment"
+          ],
+          "entities": [
+            "good fare",
+            "generous tip"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "It sounds like saving up for a medallion was quite a journey. Could you tell me about some of the challenges you faced along the way?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Oh, absolutely. You see, saving up was never easy. There were always unexpected expenses, like repairs on the car or just the day-to-day living costs that seemed to creep up on you. And then, those medallion prices, they soared beyond what most of us could imagine back then. Sometimes, I'd think, 'Is this all worth it?' I mean, there were days I felt like I was stuck in a loop, just driving and saving, driving and saving. But then, I'd get a good fare or a generous tip, and it would lift my spirits. Oh, and speaking of challenges, those long hours could really wear you out. I'd often end up working double shifts just to make a little extra. That was tough on the body. But you know, during those long nights, I'd meet people who'd share their stories and dreams, and somehow it made it all feel a little less heavy. I guess that's one thing that kept me going.",
+      "sentence_annotations": [
+        {
+          "text": "There were always unexpected expenses, like repairs on the car or just the day-to-day living costs that seemed to creep up on you.",
+          "life_stage": "Adulthood",
+          "event_type": "Financial Struggles",
+          "emotions": [
+            "Frustration"
+          ],
+          "entities": [
+            "expenses",
+            "car repairs",
+            "living costs"
+          ]
+        },
+        {
+          "text": "And then, those medallion prices, they soared beyond what most of us could imagine back then.",
+          "life_stage": "Adulthood",
+          "event_type": "Market Changes",
+          "emotions": [
+            "Disheartenment"
+          ],
+          "entities": [
+            "medallion prices"
+          ]
+        },
+        {
+          "text": "I'd often end up working double shifts just to make a little extra.",
+          "life_stage": "Adulthood",
+          "event_type": "Work Challenges",
+          "emotions": [
+            "Exhaustion"
+          ],
+          "entities": [
+            "double shifts",
+            "working long hours"
+          ]
+        },
+        {
+          "text": "But you know, during those long nights, I'd meet people who'd share their stories and dreams, and somehow it made it all feel a little less heavy.",
+          "life_stage": "Adulthood",
+          "event_type": "Human Connection",
+          "emotions": [
+            "Connection",
+            "Inspiration"
+          ],
+          "entities": [
+            "stories",
+            "dreams",
+            "people"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "That must have been hard, working such long hours just to keep your dream alive. Can you tell me about a specific moment that tested your resolve?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Oh yes, there were quite a few of those moments. I remember one particular winter, the snow was relentless. It was one of those nights where you wonder why you even got out of bed. I was picking up passengers in the freezing cold, and the roads were a mess. I had this one fare, a young couple trying to get to the airport. The streets were almost impassable, but we made it—with a lot of sliding and a few prayers. When we got there, the gentleman gave me the biggest tip I'd ever seen. He said it was for 'braving the storm.' It was moments like that which made it all seem worthwhile, you know? It reminded me that perseverance often pays off, even when things seem bleak. And then, there were the times I'd just sit in my cab watching the snow fall, thinking about how to keep moving forward.",
+      "sentence_annotations": [
+        {
+          "text": "I remember one particular winter, the snow was relentless. It was one of those nights where you wonder why you even got out of bed.",
+          "life_stage": "Adulthood",
+          "event_type": "Challenge",
+          "emotions": [
+            "frustration",
+            "determination"
+          ],
+          "entities": [
+            "winter",
+            "snow",
+            "taxi driving"
+          ]
+        },
+        {
+          "text": "When we got there, the gentleman gave me the biggest tip I'd ever seen. He said it was for 'braving the storm.'",
+          "life_stage": "Adulthood",
+          "event_type": "Positive Encounter",
+          "emotions": [
+            "gratitude",
+            "satisfaction"
+          ],
+          "entities": [
+            "airport",
+            "passengers",
+            "tip"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "It must have felt rewarding when perseverance paid off like that. But I'm curious, what were some of the adjustments you had to make as the industry started to change?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Ah, adjustments, yes. The taxi industry was always in flux, but some changes were bigger than others. I remember when those yellow cabs started getting those fancy meters that printed out receipts. That was quite a change from when we used to jot down fares in a little notebook, but oh, the real big shift came later on. You know, when those ride-sharing apps started popping up. I didn't know what to make of it at first. It felt like the whole world was turning upside down. Suddenly, everyone was a taxi driver, and it just wasn't the same. The competition grew fierce, and it was hard to keep up with the new technology. I even thought about trying it myself, but, you know, it just felt different. I missed the old ways, the stories shared with passengers, and the sense of community among us drivers.",
+      "sentence_annotations": [
+        {
+          "text": "Ah, adjustments, yes. The taxi industry was always in flux, but some changes were bigger than others. I remember when those yellow cabs started getting those fancy meters that printed out receipts.",
+          "life_stage": "Adulthood",
+          "event_type": "Industry Changes",
+          "emotions": [
+            "Nostalgia",
+            "Uncertainty"
+          ],
+          "entities": [
+            "Taxi Industry",
+            "Yellow Cabs",
+            "Meters"
+          ]
+        },
+        {
+          "text": "The real big shift came later on. You know, when those ride-sharing apps started popping up.",
+          "life_stage": "Adulthood",
+          "event_type": "Technological Shift",
+          "emotions": [
+            "Confusion",
+            "Apprehension"
+          ],
+          "entities": [
+            "Ride-Sharing Apps",
+            "Technology"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "It must have felt rewarding when perseverance paid off like that. But I'm curious, what were some of the adjustments you had to make as the industry started to change?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "Ah, adjustments, yes. The taxi industry was always in flux, but some changes were bigger than others. I remember when those yellow cabs started getting those fancy meters that printed out receipts. That was quite a change from when we used to jot down fares in a little notebook, but oh, the real big shift came later on. You know, when those ride-sharing apps started popping up. I didn't know what to make of it at first. It felt like the whole world was turning upside down. Suddenly, everyone was a taxi driver, and it just wasn't the same. The competition grew fierce, and it was hard to keep up with the new technology. I even thought about trying it myself, but, you know, it just felt different. I missed the old ways, the stories shared with passengers, and the sense of community among us drivers.",
+      "sentence_annotations": [
+        {
+          "text": "Ah, adjustments, yes. The taxi industry was always in flux, but some changes were bigger than others.",
+          "life_stage": "Old Age",
+          "event_type": "Industry Change",
+          "emotions": [
+            "Nostalgia",
+            "Uncertainty"
+          ],
+          "entities": [
+            "Taxi Industry"
+          ]
+        },
+        {
+          "text": "I remember when those yellow cabs started getting those fancy meters that printed out receipts.",
+          "life_stage": "Old Age",
+          "event_type": "Technology Adoption",
+          "emotions": [
+            "Surprise"
+          ],
+          "entities": [
+            "Yellow Cabs",
+            "Technology"
+          ]
+        },
+        {
+          "text": "The competition grew fierce, and it was hard to keep up with the new technology.",
+          "life_stage": "Old Age",
+          "event_type": "Industry Change",
+          "emotions": [
+            "Overwhelm",
+            "Anxiety"
+          ],
+          "entities": [
+            "Ride-sharing Apps",
+            "Competition"
+          ]
+        },
+        {
+          "text": "I missed the old ways, the stories shared with passengers, and the sense of community among us drivers.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Nostalgia",
+            "Loss"
+          ],
+          "entities": [
+            "Community",
+            "Taxi Drivers"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "So as the industry was changing with the rise of ride-sharing apps, how did you feel about the impact on your work and your dream of owning a medallion?"
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "Oh, well, it was a tough pill to swallow, to be honest. You see, for years, I had this vision that owning a medallion was the end goal, the peak of success in our line of work. But with these apps coming in, it felt like the ground was shifting under my feet. Suddenly, the medallion wasn't the golden ticket it once was. I remember talking to other drivers, and we all felt a bit lost. It was like our dreams had been put on hold, or worse, taken away. But then, you know, I realized that life doesn't always go the way you plan. It's like driving a cab, sometimes you have to take detours. I guess I learned to adapt, focus on the present, and find joy in the everyday rides. But still, there was always this lingering feeling of what could have been.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, well, it was a tough pill to swallow, to be honest. You see, for years, I had this vision that owning a medallion was the end goal, the peak of success in our line of work.",
+          "life_stage": "Old Age",
+          "event_type": "Industry Change",
+          "emotions": [
+            "disheartened",
+            "lost"
+          ],
+          "entities": [
+            "medallion",
+            "ride-sharing apps"
+          ]
+        },
+        {
+          "text": "But with these apps coming in, it felt like the ground was shifting under my feet. Suddenly, the medallion wasn't the golden ticket it once was.",
+          "life_stage": "Old Age",
+          "event_type": "Industry Change",
+          "emotions": [
+            "disheartened",
+            "lost"
+          ],
+          "entities": [
+            "medallion",
+            "ride-sharing apps"
+          ]
+        },
+        {
+          "text": "But then, you know, I realized that life doesn't always go the way you plan. It's like driving a cab, sometimes you have to take detours.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "acceptance",
+            "adaptation"
+          ],
+          "entities": [
+            "life",
+            "cab driving"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 25,
+      "speaker": "Interviewer",
+      "text": "That must have been really challenging, seeing such a big shift in the industry. How did you manage to stay resilient during that time?"
+    },
+    {
+      "turn_id": 26,
+      "speaker": "Subject",
+      "text": "Oh, resilience, that's a good word for it. You know, it's funny, the more things change, the more they stay the same. I think it was the people that kept me going. The passengers, their stories—it was like a nightly theater show. You could say I had a front-row seat to people's lives. There was this one lady, a regular, who used to tell me about her garden. We talked about tomatoes and roses, and it was like a little escape from all the hustle. And then there were my fellow drivers, we'd share a coffee and talk about the old days. Those moments, they grounded me. And I suppose, I just took it one day at a time, focusing on the small joys and not letting the bigger changes overwhelm me. It's like they say, 'keep your eyes on the road, and your hands upon the wheel.'",
+      "sentence_annotations": [
+        {
+          "text": "Oh, resilience, that's a good word for it. You know, it's funny, the more things change, the more they stay the same. I think it was the people that kept me going. The passengers, their stories—it was like a nightly theater show. You could say I had a front-row seat to people's lives. There was this one lady, a regular, who used to tell me about her garden. We talked about tomatoes and roses, and it was like a little escape from all the hustle. And then there were my fellow drivers, we'd share a coffee and talk about the old days. Those moments, they grounded me. And I suppose, I just took it one day at a time, focusing on the small joys and not letting the bigger changes overwhelm me. It's like they say, 'keep your eyes on the road, and your hands upon the wheel.'",
+          "life_stage": "Old Age",
+          "event_type": "Industry Changes",
+          "emotions": [
+            "Resilience",
+            "Nostalgia"
+          ],
+          "entities": [
+            "Passengers",
+            "Fellow Drivers",
+            "Garden",
+            "Tomatoes",
+            "Roses"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 27,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear more about how those small joys kept you going during such turbulent times."
+    },
+    {
+      "turn_id": 28,
+      "speaker": "Subject",
+      "text": "Ah, those small joys, they were my lifeline, really. You know, there was this one time I picked up a family heading to a picnic in Central Park. The kids were so excited, chattering away about the games they were going to play and the sandwiches they were going to eat. Their excitement was infectious. It reminded me of simpler times, and it made me smile. And then there were those quiet moments when I'd just pull over, take a sip of coffee while watching the city lights flicker. It sounds mundane, but those little things—watching the world go by, feeling part of something bigger—they kept my spirits up. I guess even in the midst of all the changes, those tiny slices of happiness gave me a sense of continuity, like a thread connecting all the parts of my life together.",
+      "sentence_annotations": [
+        {
+          "text": "Ah, those small joys, they were my lifeline, really...",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Nostalgia",
+            "Contentment"
+          ],
+          "entities": [
+            "Central Park",
+            "taxi rides",
+            "city lights"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 29,
+      "speaker": "Interviewer",
+      "text": "Before we finish, Ahmed, could you share a final lesson or piece of wisdom that you'd like to pass on from your years behind the wheel?"
+    },
+    {
+      "turn_id": 30,
+      "speaker": "Subject",
+      "text": "Oh, that's a good question. You know, after all these years, I'd say it's important to embrace change. Life is full of unexpected turns, much like the roads we drive on. I learned that you can't always stick to your planned route, sometimes you have to take detours. And it's during those detours that you often find the most interesting experiences. Also, never underestimate the power of human connection. The stories and laughter shared with passengers and fellow drivers have been the highlights of my journey. So, I guess my advice would be to stay open-minded, cherish the small moments, and always keep moving forward, even if the road seems uncertain.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, that's a good question. You know, after all these years, I'd say it's important to embrace change. Life is full of unexpected turns, much like the roads we drive on. I learned that you can't always stick to your planned route, sometimes you have to take detours. And it's during those detours that you often find the most interesting experiences.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection/Lesson Learned",
+          "emotions": [
+            "Reflective",
+            "Accepting"
+          ],
+          "entities": [
+            "change",
+            "unexpected turns",
+            "detours"
+          ]
+        },
+        {
+          "text": "Also, never underestimate the power of human connection. The stories and laughter shared with passengers and fellow drivers have been the highlights of my journey.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection/Relationships",
+          "emotions": [
+            "Nostalgic",
+            "Grateful"
+          ],
+          "entities": [
+            "human connection",
+            "stories",
+            "passengers",
+            "fellow drivers"
+          ]
+        },
+        {
+          "text": "So, I guess my advice would be to stay open-minded, cherish the small moments, and always keep moving forward, even if the road seems uncertain.",
+          "life_stage": "Old Age",
+          "event_type": "Advice",
+          "emotions": [
+            "Hopeful",
+            "Encouraging"
+          ],
+          "entities": [
+            "advice",
+            "open-minded",
+            "moving forward"
+          ]
+        }
+      ]
+    }
+  ]
+}

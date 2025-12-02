@@ -1,0 +1,582 @@
+{
+  "session_id": "14_Joe",
+  "tone": "Frank and Direct (No sugar-coating)",
+  "profile": {
+    "id": "14_Joe",
+    "name": "Joe",
+    "age": 73,
+    "role": "Truck Driver",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "First cross-country trip",
+        "context": "Freedom of the road."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "Missing kids' birthdays",
+        "context": "Sacrifice for money."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Losing his license",
+        "context": "Loss of independence."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your first cross-country trip."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Well, my first cross-country trip was back in '71. I was a greenhorn then, just 21 and eager to hit the road. Got my start on a run from Jersey to California. The open road was something else, you know? It was like a rite of passage for us truckers, feeling the freedom and the weight of responsibility all at once.",
+      "sentence_annotations": [
+        {
+          "text": "Well, my first cross-country trip was back in '71. I was a greenhorn then, just 21 and eager to hit the road.",
+          "life_stage": "Youth",
+          "event_type": "First cross-country trip",
+          "emotions": [
+            "Eagerness",
+            "Nostalgia"
+          ],
+          "entities": [
+            "cross-country trip",
+            "1971",
+            "21",
+            "Jersey",
+            "California",
+            "truckers",
+            "freedom",
+            "responsibility"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like that experience was quite significant for you. How did it change your perspective on life or work?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Oh, it sure did. That trip opened my eyes to the vastness of the country and the diversity of people out there. It made me realize how small my world had been before. I became more independent and responsible, knowing I had to deliver those goods on time. But it also came with its sacrifices, like being away from family.",
+      "sentence_annotations": [
+        {
+          "text": "That trip opened my eyes to the vastness of the country and the diversity of people out there.",
+          "life_stage": "Youth",
+          "event_type": "First cross-country trip",
+          "emotions": [
+            "Awakening",
+            "Independence"
+          ],
+          "entities": [
+            "Country",
+            "People"
+          ]
+        },
+        {
+          "text": "It made me realize how small my world had been before.",
+          "life_stage": "Youth",
+          "event_type": "First cross-country trip",
+          "emotions": [
+            "Realization"
+          ],
+          "entities": [
+            "World"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been hard. So when did things change in terms of balancing work and family?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "Well, things started to shift when my kids were born. You know, missing their birthdays and those special moments was tough. I was on the road a lot, trying to provide for them, but it felt like I was missing out on everything important. It was a real struggle to balance the two.",
+      "sentence_annotations": [
+        {
+          "text": "missing their birthdays and those special moments was tough",
+          "life_stage": "Adulthood",
+          "event_type": "Family Sacrifice",
+          "emotions": [
+            "Regret",
+            "Sadness"
+          ],
+          "entities": [
+            "Children",
+            "Family",
+            "Truck Driving"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "It sounds like missing those special moments with your kids was really challenging. Can you tell me more about how that affected you and your family?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Oh, it definitely was. I remember one year, I missed my son's first baseball game. He was so excited, and I could only hear about it over the phone. My wife tried to be supportive and understanding, but there were times when the distance put a strain on our relationship. The guilt of not being there weighed on me, and I knew I had to make some changes eventually.",
+      "sentence_annotations": [
+        {
+          "text": "I remember one year, I missed my son's first baseball game.",
+          "life_stage": "Adulthood",
+          "event_type": "Family",
+          "emotions": [
+            "guilt",
+            "regret"
+          ],
+          "entities": [
+            "son's baseball game",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "So how did this period of being on the road and missing family events come to an end?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "Well, as the years went on, it became more and more difficult to keep up with that lifestyle. The guilt just kept piling up. I reached a point where I had to make a decision. Eventually, I lost my license due to some health issues. It was a hard pill to swallow, but in a way, it forced me to slow down and reconnect with my family. It was tough initially, but it turned out to be a blessing in disguise.",
+      "sentence_annotations": [
+        {
+          "text": "Eventually, I lost my license due to some health issues.",
+          "life_stage": "Mature Adult",
+          "event_type": "Health Decline",
+          "emotions": [
+            "Resignation",
+            "Acceptance"
+          ],
+          "entities": [
+            "License",
+            "Health Issues"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "It sounds like missing those special moments with your kids was really challenging. Can you tell me more about how that affected you and your family?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Oh, it definitely was. I remember one year, I missed my son's first baseball game. He was so excited, and I could only hear about it over the phone. My wife tried to be supportive and understanding, but there were times when the distance put a strain on our relationship. The guilt of not being there weighed on me, and I knew I had to make some changes eventually.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, it definitely was. I remember one year, I missed my son's first baseball game. He was so excited, and I could only hear about it over the phone. My wife tried to be supportive and understanding, but there were times when the distance put a strain on our relationship. The guilt of not being there weighed on me, and I knew I had to make some changes eventually.",
+          "life_stage": "Adulthood",
+          "event_type": "Missing family events",
+          "emotions": [
+            "guilt",
+            "regret",
+            "sadness"
+          ],
+          "entities": [
+            "son",
+            "wife",
+            "baseball game"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "So how did this period of being on the road and missing family events come to an end?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "Well, as the years went on, it became more and more difficult to keep up with that lifestyle. The guilt just kept piling up. I reached a point where I had to make a decision. Eventually, I lost my license due to some health issues. It was a hard pill to swallow, but in a way, it forced me to slow down and reconnect with my family. It was tough initially, but it turned out to be a blessing in disguise.",
+      "sentence_annotations": [
+        {
+          "text": "Eventually, I lost my license due to some health issues. It was a hard pill to swallow, but in a way, it forced me to slow down and reconnect with my family.",
+          "life_stage": "Adulthood",
+          "event_type": "Losing his license",
+          "emotions": [
+            "guilt",
+            "relief"
+          ],
+          "entities": [
+            "license",
+            "health issues",
+            "family"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "That must have been a challenging transition for you. How did losing your license impact your day-to-day life?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Losing my license was like losing a part of myself. Driving was all I knew, so it felt like I lost my identity. Suddenly, I had all this time on my hands and no idea what to do with it. But it also meant I could finally be there for my family, really be present. I started attending my kids' events and spending more time with my wife. It was a major adjustment, but it brought us all closer together.",
+      "sentence_annotations": [
+        {
+          "text": "Losing my license was like losing a part of myself. Driving was all I knew, so it felt like I lost my identity.",
+          "life_stage": "Adulthood",
+          "event_type": "Losing his license",
+          "emotions": [
+            "loss",
+            "adjustment"
+          ],
+          "entities": [
+            "license",
+            "identity"
+          ]
+        },
+        {
+          "text": "I started attending my kids' events and spending more time with my wife. It was a major adjustment, but it brought us all closer together.",
+          "life_stage": "Adulthood",
+          "event_type": "Reconnecting with family",
+          "emotions": [
+            "gratitude",
+            "closeness"
+          ],
+          "entities": [
+            "family",
+            "kids",
+            "wife"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "It sounds like a very personal journey. How did reconnecting with your family change your relationships?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Reconnecting with my family was transformative. It was like I was meeting them all over again, this time with fresh eyes. I realized how much I had missed and how much they had grown without me noticing. My wife and I had to work through some old wounds, but we did it together. We became a stronger unit, and I found new ways to support them. It brought a lot of peace back into my life.",
+      "sentence_annotations": [
+        {
+          "text": "Reconnecting with my family was transformative. It was like I was meeting them all over again, this time with fresh eyes. I realized how much I had missed and how much they had grown without me noticing. My wife and I had to work through some old wounds, but we did it together. We became a stronger unit, and I found new ways to support them. It brought a lot of peace back into my life.",
+          "life_stage": "Adulthood",
+          "event_type": "Personal Transformation",
+          "emotions": [
+            "reflective",
+            "hopeful"
+          ],
+          "entities": [
+            "family",
+            "wife"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "That must have been a challenging transition for you. How did losing your license impact your day-to-day life?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Losing my license was like losing a part of myself. Driving was all I knew, so it felt like I lost my identity. Suddenly, I had all this time on my hands and no idea what to do with it. But it also meant I could finally be there for my family, really be present. I started attending my kids' events and spending more time with my wife. It was a major adjustment, but it brought us all closer together.",
+      "sentence_annotations": [
+        {
+          "text": "Losing my license was like losing a part of myself. Driving was all I knew, so it felt like I lost my identity.",
+          "life_stage": "Adulthood",
+          "event_type": "Losing License",
+          "emotions": [
+            "Loss",
+            "Identity Crisis"
+          ],
+          "entities": [
+            "License",
+            "Driving"
+          ]
+        },
+        {
+          "text": "It also meant I could finally be there for my family, really be present.",
+          "life_stage": "Adulthood",
+          "event_type": "Reconnection with Family",
+          "emotions": [
+            "Presence",
+            "Family Bond"
+          ],
+          "entities": [
+            "Family",
+            "Time"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "It sounds like a very personal journey. How did reconnecting with your family change your relationships?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "Reconnecting with my family was transformative. It was like I was meeting them all over again, this time with fresh eyes. I realized how much I had missed and how much they had grown without me noticing. My wife and I had to work through some old wounds, but we did it together. We became a stronger unit, and I found new ways to support them. It brought a lot of peace back into my life.",
+      "sentence_annotations": [
+        {
+          "text": "Reconnecting with my family was transformative.",
+          "life_stage": "Old Age",
+          "event_type": "Personal Growth",
+          "emotions": [
+            "reflective",
+            "content"
+          ],
+          "entities": [
+            "family",
+            "wife"
+          ]
+        },
+        {
+          "text": "It was like I was meeting them all over again, this time with fresh eyes.",
+          "life_stage": "Old Age",
+          "event_type": "Family Reunion",
+          "emotions": [
+            "nostalgic",
+            "hopeful"
+          ],
+          "entities": [
+            "family"
+          ]
+        },
+        {
+          "text": "My wife and I had to work through some old wounds.",
+          "life_stage": "Old Age",
+          "event_type": "Relationship Challenges",
+          "emotions": [
+            "determined",
+            "relieved"
+          ],
+          "entities": [
+            "wife"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear more about how it felt to finally be present for those family moments."
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "Being there for my family was like filling a void I didn't even realize was so deep. Watching my kids' faces light up when I was at their events was priceless. It made all those hard years worth it. We had our moments of adjustment, sure, but it was like life gave me a second chance to be the husband and father I wanted to be.",
+      "sentence_annotations": [
+        {
+          "text": "Being there for my family was like filling a void I didn't even realize was so deep.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection on Family Life",
+          "emotions": [
+            "Fulfillment",
+            "Contentment"
+          ],
+          "entities": [
+            "Family",
+            "Kids",
+            "Events"
+          ]
+        },
+        {
+          "text": "It made all those hard years worth it.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection on Sacrifices",
+          "emotions": [
+            "Gratitude",
+            "Relief"
+          ],
+          "entities": [
+            "Hard years",
+            "Sacrifices"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 25,
+      "speaker": "Interviewer",
+      "text": "What advice would you give to someone who might be struggling with similar challenges?"
+    },
+    {
+      "turn_id": 26,
+      "speaker": "Subject",
+      "text": "I'd say, don't wait until it's too late. If you're feeling torn between work and family, try to find a balance sooner rather than later. Success at work means nothing if you're not there for the people you love. It's a tough choice, but it's worth it in the long run. Be present, because those moments won't come back.",
+      "sentence_annotations": [
+        {
+          "text": "I'd say, don't wait until it's too late. If you're feeling torn between work and family, try to find a balance sooner rather than later.",
+          "life_stage": "Old Age",
+          "event_type": "Giving Advice",
+          "emotions": [
+            "Regret",
+            "Wisdom"
+          ],
+          "entities": [
+            "work",
+            "family"
+          ]
+        },
+        {
+          "text": "Success at work means nothing if you're not there for the people you love.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Realization"
+          ],
+          "entities": [
+            "work",
+            "family",
+            "success"
+          ]
+        },
+        {
+          "text": "It's a tough choice, but it's worth it in the long run. Be present, because those moments won't come back.",
+          "life_stage": "Old Age",
+          "event_type": "Advice",
+          "emotions": [
+            "Encouragement",
+            "Urgency"
+          ],
+          "entities": [
+            "choice",
+            "moments"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 27,
+      "speaker": "Interviewer",
+      "text": "You mentioned earlier that losing your license was a blessing in disguise. Can you elaborate on how that realization came about?"
+    },
+    {
+      "turn_id": 28,
+      "speaker": "Subject",
+      "text": "Yeah, it was kind of a gradual realization. At first, I felt lost, like I'd been stripped of my purpose. But as I spent more time at home, I started seeing things differently. The small moments with my family started to mean so much more. I realized that life had given me a chance to be present, to witness and participate in the lives of my loved ones in a way I hadn't before. It was like life was showing me what truly mattered.",
+      "sentence_annotations": [
+        {
+          "text": "Yeah, it was kind of a gradual realization. At first, I felt lost, like I'd been stripped of my purpose.",
+          "life_stage": "Old Age",
+          "event_type": "Losing License",
+          "emotions": [
+            "Loss",
+            "Confusion"
+          ],
+          "entities": [
+            "License",
+            "Purpose"
+          ]
+        },
+        {
+          "text": "But as I spent more time at home, I started seeing things differently. The small moments with my family started to mean so much more.",
+          "life_stage": "Old Age",
+          "event_type": "Reconnecting with Family",
+          "emotions": [
+            "Gratitude",
+            "Contentment"
+          ],
+          "entities": [
+            "Home",
+            "Family"
+          ]
+        },
+        {
+          "text": "I realized that life had given me a chance to be present, to witness and participate in the lives of my loved ones in a way I hadn't before.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection on Life",
+          "emotions": [
+            "Realization",
+            "Appreciation"
+          ],
+          "entities": [
+            "Life",
+            "Loved Ones"
+          ]
+        },
+        {
+          "text": "It was like life was showing me what truly mattered.",
+          "life_stage": "Old Age",
+          "event_type": "Personal Growth",
+          "emotions": [
+            "Clarity",
+            "Fulfillment"
+          ],
+          "entities": [
+            "Life",
+            "Priorities"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 29,
+      "speaker": "Interviewer",
+      "text": "Before we finish, Joe, I'd love to hear what lesson you've learned through all these experiences that you'd like to share."
+    },
+    {
+      "turn_id": 30,
+      "speaker": "Subject",
+      "text": "Well, if there's one thing life taught me, it's that time is the most precious thing we have. You can't get it back once it's gone. So, make sure you're spending it on what truly matters. Don't let work or other distractions steal those moments that your family will remember forever. It's the little things that count, like being there for a game or a recital. And remember, it's never too late to make a change and be there for the people you love.",
+      "sentence_annotations": [
+        {
+          "text": "Well, if there's one thing life taught me, it's that time is the most precious thing we have.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection/Lesson",
+          "emotions": [
+            "Wisdom",
+            "Gratitude"
+          ],
+          "entities": [
+            "time",
+            "life"
+          ]
+        },
+        {
+          "text": "Don't let work or other distractions steal those moments that your family will remember forever.",
+          "life_stage": "Old Age",
+          "event_type": "Advice",
+          "emotions": [
+            "Regret",
+            "Determination"
+          ],
+          "entities": [
+            "work",
+            "family",
+            "moments"
+          ]
+        },
+        {
+          "text": "And remember, it's never too late to make a change and be there for the people you love.",
+          "life_stage": "Old Age",
+          "event_type": "Encouragement",
+          "emotions": [
+            "Hope",
+            "Empowerment"
+          ],
+          "entities": [
+            "change",
+            "people you love"
+          ]
+        }
+      ]
+    }
+  ]
+}

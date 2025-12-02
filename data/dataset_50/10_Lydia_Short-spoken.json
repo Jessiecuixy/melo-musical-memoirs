@@ -1,0 +1,382 @@
+{
+  "session_id": "10_Lydia",
+  "tone": "Short-spoken and Reserved (Needs probing)",
+  "profile": {
+    "id": "10_Lydia",
+    "name": "Lydia",
+    "age": 76,
+    "role": "Retired Teacher",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "Peace Corps",
+        "context": "Idealism abroad."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "Teaching during protests",
+        "context": "Civil rights era."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Writing memoirs",
+        "context": "Reflection."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your time in the Peace Corps."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Ah, the Peace Corps. It was a long time ago, but I remember it well. I went to Ghana. It was my first time leaving the country.",
+      "sentence_annotations": [
+        {
+          "text": "Ah, the Peace Corps. It was a long time ago, but I remember it well. I went to Ghana. It was my first time leaving the country.",
+          "life_stage": "Youth",
+          "event_type": "Volunteering",
+          "emotions": [
+            "Nostalgia",
+            "Excitement"
+          ],
+          "entities": [
+            "Peace Corps",
+            "Ghana"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like that experience in Ghana must have been quite impactful. What was it like adjusting to a new culture for the first time?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "It was definitely an adjustment. The culture was vibrant and welcoming, but there were challenging moments too, like adapting to the climate and language barriers.",
+      "sentence_annotations": [
+        {
+          "text": "The culture was vibrant and welcoming, but there were challenging moments too, like adapting to the climate and language barriers.",
+          "life_stage": "Youth",
+          "event_type": "Cultural Adjustment",
+          "emotions": [
+            "Nostalgia",
+            "Challenge"
+          ],
+          "entities": [
+            "Ghana",
+            "Peace Corps",
+            "Culture",
+            "Climate",
+            "Language"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been hard, especially with the language barriers. How did you manage to communicate effectively with the locals?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "Well, I picked up some basic phrases in Twi and Ewe, and the locals were patient with me. They taught me a lot. It was humbling, really.",
+      "sentence_annotations": [
+        {
+          "text": "I picked up some basic phrases in Twi and Ewe, and the locals were patient with me.",
+          "life_stage": "Youth",
+          "event_type": "Cultural Adjustment",
+          "emotions": [
+            "humility",
+            "gratitude"
+          ],
+          "entities": [
+            "Twi",
+            "Ewe",
+            "locals"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "So when did things change for you after the Peace Corps?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "After the Peace Corps, I came back to the States and started teaching. It was around the time of the protests in the late 60s, early 70s. The atmosphere was charged, you know.",
+      "sentence_annotations": [
+        {
+          "text": "After the Peace Corps, I came back to the States and started teaching.",
+          "life_stage": "Early Adulthood",
+          "event_type": "Career",
+          "emotions": [
+            "reflective"
+          ],
+          "entities": [
+            "Peace Corps",
+            "teaching",
+            "States"
+          ]
+        },
+        {
+          "text": "It was around the time of the protests in the late 60s, early 70s.",
+          "life_stage": "Early Adulthood",
+          "event_type": "Historical Context",
+          "emotions": [
+            "nostalgic"
+          ],
+          "entities": [
+            "protests",
+            "late 60s",
+            "early 70s"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "That period was full of significant changes and challenges. How did you find stepping into teaching during such a tumultuous time?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "It was quite the experience. The classroom was a microcosm of the world outside. Students were passionate and vocal about their beliefs. It was a time when education wasn't just about textbooks but about real-world issues.",
+      "sentence_annotations": [
+        {
+          "text": "It was quite the experience. The classroom was a microcosm of the world outside.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Transition",
+          "emotions": [
+            "Reflective",
+            "Challenged"
+          ],
+          "entities": [
+            "Teaching",
+            "Classroom",
+            "Protests",
+            "1960s",
+            "1970s"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "That sounds intense. What were some of the core challenges you faced as a teacher during that time?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Balancing the curriculum with students' demands to discuss current events was tricky. Some parents were supportive, but others thought I was overstepping. Then there were the protests outside the school; sometimes it felt like teaching was the least of my responsibilities.",
+      "sentence_annotations": [
+        {
+          "text": "Balancing the curriculum with students' demands to discuss current events was tricky. Some parents were supportive, but others thought I was overstepping.",
+          "life_stage": "Adulthood",
+          "event_type": "Teaching during protests",
+          "emotions": [
+            "challenged",
+            "cautious"
+          ],
+          "entities": [
+            "curriculum",
+            "students",
+            "parents",
+            "protests"
+          ]
+        },
+        {
+          "text": "Then there were the protests outside the school; sometimes it felt like teaching was the least of my responsibilities.",
+          "life_stage": "Adulthood",
+          "event_type": "Teaching during protests",
+          "emotions": [
+            "overwhelmed",
+            "responsible"
+          ],
+          "entities": [
+            "protests",
+            "school"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "That must have been quite a balancing act. How did you cope with the pressures and expectations from all sides?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "I tried to listen to everyone and find a middle ground. It wasn't easy, though. Some days were tougher than others.",
+      "sentence_annotations": [
+        {
+          "text": "I tried to listen to everyone and find a middle ground.",
+          "life_stage": "Adulthood",
+          "event_type": "Teaching during protests",
+          "emotions": [
+            "stress",
+            "determination"
+          ],
+          "entities": [
+            "students",
+            "parents",
+            "protests",
+            "curriculum"
+          ]
+        },
+        {
+          "text": "Some days were tougher than others.",
+          "life_stage": "Adulthood",
+          "event_type": "Teaching during protests",
+          "emotions": [
+            "frustration",
+            "resilience"
+          ],
+          "entities": [
+            "expectations",
+            "pressures"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "That sounds like a lot to juggle. How did the protests outside the school impact your teaching methods or the classroom environment?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "The protests definitely brought a sense of urgency to everything. I had to be flexible with my lesson plans, sometimes addressing the events happening right outside our windows. It was important to make the students feel heard and safe.",
+      "sentence_annotations": [
+        {
+          "text": "The protests definitely brought a sense of urgency to everything. I had to be flexible with my lesson plans, sometimes addressing the events happening right outside our windows. It was important to make the students feel heard and safe.",
+          "life_stage": "Adulthood",
+          "event_type": "Teaching during protests",
+          "emotions": [
+            "concern",
+            "adaptability"
+          ],
+          "entities": [
+            "protests",
+            "teaching methods",
+            "classroom environment"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about what you've been up to more recently. Have you been working on any projects or hobbies?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Yes, I've been writing my memoirs. It's something I've wanted to do for a long time.",
+      "sentence_annotations": [
+        {
+          "text": "Yes, I've been writing my memoirs.",
+          "life_stage": "Old Age",
+          "event_type": "Personal Project",
+          "emotions": [
+            "Reflective",
+            "Determined"
+          ],
+          "entities": [
+            "memoirs",
+            "writing"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "That sounds like a rewarding endeavor. How has the process of writing your memoirs been for you?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "It's been interesting. Reflecting on my life, I can see how things connected in ways I didn't notice at the time. It's given me a sense of closure.",
+      "sentence_annotations": [
+        {
+          "text": "Reflecting on my life, I can see how things connected in ways I didn't notice at the time. It's given me a sense of closure.",
+          "life_stage": "Old Age",
+          "event_type": "Writing Memoirs",
+          "emotions": [
+            "Reflective",
+            "Content"
+          ],
+          "entities": [
+            "Life Reflections",
+            "Closure"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "That sounds like a meaningful process. Have you discovered anything about yourself through writing that has surprised you?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "I suppose I've realized how resilient I've been through different phases of my life. There were challenges that seemed insurmountable at the time, but looking back, I see how they shaped me.",
+      "sentence_annotations": [
+        {
+          "text": "I suppose I've realized how resilient I've been through different phases of my life. There were challenges that seemed insurmountable at the time, but looking back, I see how they shaped me.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection on Writing Memoirs",
+          "emotions": [
+            "introspection",
+            "gratitude"
+          ],
+          "entities": [
+            "resilience",
+            "challenges",
+            "life phases"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "Before we finish, if you had to share one lesson from your life experiences with future generations, what would it be?"
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "I'd say, embrace change. It's often uncomfortable, but it's where growth happens. And always listen, truly listen, to those around you.",
+      "sentence_annotations": [
+        {
+          "text": "I'd say, embrace change. It's often uncomfortable, but it's where growth happens. And always listen, truly listen, to those around you.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection and Advice",
+          "emotions": [
+            "wisdom",
+            "reflectiveness"
+          ],
+          "entities": [
+            "change",
+            "growth",
+            "listening"
+          ]
+        }
+      ]
+    }
+  ]
+}

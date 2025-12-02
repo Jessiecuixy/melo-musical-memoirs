@@ -1,0 +1,528 @@
+{
+  "session_id": "04_Carlos",
+  "tone": "Talkative and Detailed (Eager to share every memory)",
+  "profile": {
+    "id": "04_Carlos",
+    "name": "Carlos",
+    "age": 74,
+    "role": "Jazz Musician",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "Touring in a van",
+        "context": "Hunger and passion."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "Hearing loss scare",
+        "context": "Career crisis."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Playing for himself",
+        "context": "Music as therapy."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your time touring in a van."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Oh, those were the days! You know, back in the late '60s and early '70s, we were just a bunch of young cats, crammed into this beat-up old van, chasing the music wherever it took us. We didn't have much, just our instruments, a few bucks, and a whole lot of passion. It was cramped, sure, but it felt like freedom. We played at all sorts of places—some not much bigger than living rooms. But it didn't matter as long as we were playing.",
+      "sentence_annotations": [
+        {
+          "text": "back in the late '60s and early '70s, we were just a bunch of young cats, crammed into this beat-up old van, chasing the music wherever it took us.",
+          "life_stage": "Youth",
+          "event_type": "Touring",
+          "emotions": [
+            "Nostalgia",
+            "Freedom"
+          ],
+          "entities": [
+            "1960s",
+            "1970s",
+            "van",
+            "music"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like those days were really formative for you. What was it like, traveling like that and playing wherever you could?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Oh, it was an adventure every single day, let me tell you! We'd drive for hours, sometimes through the night, just to make it to the next gig. Often, we'd sleep in the van or crash at someone's place if they offered. The camaraderie was something else. We were like a family, really. I remember one night, we were stuck in the middle of nowhere because the van broke down. Instead of getting upset, we just took out our instruments and started jamming right there by the roadside. Those impromptu sessions were magical. People would stop by and listen, and sometimes, they'd even join in. It was raw and real, and I think that's what made it so special.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, it was an adventure every single day, let me tell you! We'd drive for hours, sometimes through the night, just to make it to the next gig.",
+          "life_stage": "Youth",
+          "event_type": "Touring in a van",
+          "emotions": [
+            "nostalgia",
+            "excitement"
+          ],
+          "entities": [
+            "van",
+            "gigs",
+            "camaraderie"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been hard, especially with the breakdowns. So when did things change?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "Ah, yes, things did start to change as we moved into the '80s. We were all getting a bit older, and the constant traveling was taking its toll on us. But what really shook me was this one time when I started to notice I was having trouble hearing certain notes. I dismissed it at first, thinking it was just temporary. But it got worse, and there was a real scare that I might lose my ability to play. I remember sitting in a doctor’s office, just sweating bullets, thinking about what I would do if I couldn’t play anymore. Music was everything to me; it was my identity.",
+      "sentence_annotations": [
+        {
+          "text": "We were all getting a bit older, and the constant traveling was taking its toll on us.",
+          "life_stage": "Adulthood",
+          "event_type": "Change in circumstances",
+          "emotions": [
+            "Nostalgia",
+            "Concern"
+          ],
+          "entities": [
+            "Touring",
+            "Travel"
+          ]
+        },
+        {
+          "text": "I started to notice I was having trouble hearing certain notes.",
+          "life_stage": "Adulthood",
+          "event_type": "Health scare",
+          "emotions": [
+            "Fear",
+            "Anxiety"
+          ],
+          "entities": [
+            "Hearing",
+            "Music"
+          ]
+        },
+        {
+          "text": "I remember sitting in a doctor’s office, just sweating bullets, thinking about what I would do if I couldn’t play anymore.",
+          "life_stage": "Adulthood",
+          "event_type": "Health scare",
+          "emotions": [
+            "Fear",
+            "Anxiety"
+          ],
+          "entities": [
+            "Doctor",
+            "Music"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "That must have been terrifying. How did you cope with the possibility of losing your hearing?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Absolutely, it was a real wake-up call. I had to face the reality that this might be the end of my career as a performer. But, you know, during those months of uncertainty, something interesting happened. I started playing just for myself. I would sit down with my guitar and just let my fingers move over the strings, not worrying about gigs or audiences. It was almost meditative. That's when I really understood that music was more than just a profession for me—it was therapy, a way to connect with myself on a deeper level. Thankfully, my hearing stabilized, and I didn't lose it completely, but that period taught me a lot about the role music played in my life.",
+      "sentence_annotations": [
+        {
+          "text": "I started playing just for myself. I would sit down with my guitar and just let my fingers move over the strings, not worrying about gigs or audiences.",
+          "life_stage": "Adulthood",
+          "event_type": "Personal Reflection",
+          "emotions": [
+            "introspection",
+            "acceptance"
+          ],
+          "entities": [
+            "guitar",
+            "music",
+            "therapy"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "That must have been terrifying. How did you cope with the possibility of losing your hearing?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "Absolutely, it was a real wake-up call. I had to face the reality that this might be the end of my career as a performer. But, you know, during those months of uncertainty, something interesting happened. I started playing just for myself. I would sit down with my guitar and just let my fingers move over the strings, not worrying about gigs or audiences. It was almost meditative. That's when I really understood that music was more than just a profession for me—it was therapy, a way to connect with myself on a deeper level. Thankfully, my hearing stabilized, and I didn't lose it completely, but that period taught me a lot about the role music played in my life.",
+      "sentence_annotations": [
+        {
+          "text": "I had to face the reality that this might be the end of my career as a performer.",
+          "life_stage": "Adulthood",
+          "event_type": "Hearing loss scare",
+          "emotions": [
+            "fear",
+            "reflection"
+          ],
+          "entities": [
+            "career",
+            "hearing",
+            "performer"
+          ]
+        },
+        {
+          "text": "I started playing just for myself.",
+          "life_stage": "Adulthood",
+          "event_type": "Hearing loss scare",
+          "emotions": [
+            "introspection",
+            "acceptance"
+          ],
+          "entities": [
+            "music",
+            "therapy",
+            "personal growth"
+          ]
+        },
+        {
+          "text": "Thankfully, my hearing stabilized, and I didn't lose it completely, but that period taught me a lot about the role music played in my life.",
+          "life_stage": "Adulthood",
+          "event_type": "Hearing loss scare",
+          "emotions": [
+            "relief",
+            "gratitude"
+          ],
+          "entities": [
+            "hearing",
+            "music",
+            "life lessons"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "It sounds like you found a new appreciation for music during that time. How did your relationship with music evolve after that experience?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Oh, it evolved quite a bit. After that scare, I had a new perspective on everything. I started to focus more on the quality of my music rather than just playing as many gigs as possible. I spent more time composing and experimenting with different sounds. It was also around this time that I started teaching younger musicians. I realized I wanted to pass on what I had learned over the years. Sharing my love for jazz with the next generation became incredibly fulfilling. It was like music became this multifaceted thing for me—not just about performance, but also about creation and education. Every time I played, it was like a reminder of how precious it was to still have my hearing and my ability to make music.",
+      "sentence_annotations": [
+        {
+          "text": "After that scare, I had a new perspective on everything. I started to focus more on the quality of my music rather than just playing as many gigs as possible.",
+          "life_stage": "Adulthood",
+          "event_type": "Personal Growth",
+          "emotions": [
+            "Gratitude",
+            "Introspection"
+          ],
+          "entities": [
+            "music",
+            "gigs"
+          ]
+        },
+        {
+          "text": "I started teaching younger musicians. I realized I wanted to pass on what I had learned over the years.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Change",
+          "emotions": [
+            "Fulfillment",
+            "Purpose"
+          ],
+          "entities": [
+            "teaching",
+            "younger musicians"
+          ]
+        },
+        {
+          "text": "Every time I played, it was like a reminder of how precious it was to still have my hearing and my ability to make music.",
+          "life_stage": "Adulthood",
+          "event_type": "Reflection",
+          "emotions": [
+            "Gratitude",
+            "Mindfulness"
+          ],
+          "entities": [
+            "hearing",
+            "music"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "It sounds like you found a new appreciation for music during that time. How did your relationship with music evolve after that experience?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "Oh, it evolved quite a bit. After that scare, I had a new perspective on everything. I started to focus more on the quality of my music rather than just playing as many gigs as possible. I spent more time composing and experimenting with different sounds. It was also around this time that I started teaching younger musicians. I realized I wanted to pass on what I had learned over the years. Sharing my love for jazz with the next generation became incredibly fulfilling. It was like music became this multifaceted thing for me—not just about performance, but also about creation and education. Every time I played, it was like a reminder of how precious it was to still have my hearing and my ability to make music.",
+      "sentence_annotations": [
+        {
+          "text": "After that scare, I had a new perspective on everything. I started to focus more on the quality of my music rather than just playing as many gigs as possible.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Development",
+          "emotions": [
+            "Reflective",
+            "Grateful"
+          ],
+          "entities": [
+            "Hearing loss scare",
+            "Music quality",
+            "Career"
+          ]
+        },
+        {
+          "text": "I spent more time composing and experimenting with different sounds. It was also around this time that I started teaching younger musicians.",
+          "life_stage": "Adulthood",
+          "event_type": "Career Development",
+          "emotions": [
+            "Innovative",
+            "Fulfilled"
+          ],
+          "entities": [
+            "Composing",
+            "Teaching",
+            "Jazz"
+          ]
+        },
+        {
+          "text": "Every time I played, it was like a reminder of how precious it was to still have my hearing and my ability to make music.",
+          "life_stage": "Adulthood",
+          "event_type": "Personal Reflection",
+          "emotions": [
+            "Thankful",
+            "Mindful"
+          ],
+          "entities": [
+            "Hearing",
+            "Music",
+            "Reflection"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear what your music means to you now, in this current stage of your life."
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Well, these days, music is my constant companion. I no longer play with the pressure of performing for an audience or the rush of touring. Now, it's just me and my guitar, and sometimes a few friends who join in for the fun of it. It's become a personal conversation, a way to reflect on life's journey. I play to remember the good times, to process the challenges, and to find peace in the moments of solitude. It’s all about the joy of creating sound and the memories it brings back. Even though I’m not on stage as much anymore, music is still the heartbeat of my days.",
+      "sentence_annotations": [
+        {
+          "text": "Well, these days, music is my constant companion...",
+          "life_stage": "Old Age",
+          "event_type": "Personal Reflection",
+          "emotions": [
+            "contentment",
+            "nostalgia",
+            "peace"
+          ],
+          "entities": [
+            "music",
+            "guitar",
+            "solitude",
+            "memories"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "It sounds like music has taken on a deeply personal role for you now. How does that feel, compared to your earlier days of performing and touring?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Oh, it's a completely different feeling, almost like coming full circle. Back then, music was about energy, excitement, and sharing it with the world. Now, it's about introspection and connection with myself. It's a quieter, more intimate experience. There's a certain peace in knowing that I can still create without the need for validation from an audience. I often find myself playing tunes that bring back memories, like a soft reminder of the journey I've been on. It's comforting. Whether I'm strumming a familiar chord or experimenting with a new melody, it's all about finding joy in the process.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, it's a completely different feeling, almost like coming full circle. Back then, music was about energy, excitement, and sharing it with the world. Now, it's about introspection and connection with myself.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "contentment",
+            "nostalgia"
+          ],
+          "entities": [
+            "music",
+            "introspection"
+          ]
+        },
+        {
+          "text": "There's a certain peace in knowing that I can still create without the need for validation from an audience. I often find myself playing tunes that bring back memories, like a soft reminder of the journey I've been on.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "peace",
+            "comfort"
+          ],
+          "entities": [
+            "music",
+            "memories"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "It sounds like music has taken on a deeply personal role for you now. How does that feel, compared to your earlier days of performing and touring?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Oh, it's a completely different feeling, almost like coming full circle. Back then, music was about energy, excitement, and sharing it with the world. Now, it's about introspection and connection with myself. It's a quieter, more intimate experience. There's a certain peace in knowing that I can still create without the need for validation from an audience. I often find myself playing tunes that bring back memories, like a soft reminder of the journey I've been on. It's comforting. Whether I'm strumming a familiar chord or experimenting with a new melody, it's all about finding joy in the process.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, it's a completely different feeling, almost like coming full circle. Back then, music was about energy, excitement, and sharing it with the world.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Nostalgia",
+            "Contentment"
+          ],
+          "entities": [
+            "music",
+            "performing",
+            "touring"
+          ]
+        },
+        {
+          "text": "Now, it's about introspection and connection with myself. It's a quieter, more intimate experience.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Introspection",
+            "Peace"
+          ],
+          "entities": [
+            "introspection",
+            "connection"
+          ]
+        },
+        {
+          "text": "There's a certain peace in knowing that I can still create without the need for validation from an audience.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Peace",
+            "Independence"
+          ],
+          "entities": [
+            "creation",
+            "validation"
+          ]
+        },
+        {
+          "text": "I often find myself playing tunes that bring back memories, like a soft reminder of the journey I've been on.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Nostalgia",
+            "Comfort"
+          ],
+          "entities": [
+            "memories",
+            "journey"
+          ]
+        },
+        {
+          "text": "Whether I'm strumming a familiar chord or experimenting with a new melody, it's all about finding joy in the process.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Joy",
+            "Contentment"
+          ],
+          "entities": [
+            "chord",
+            "melody",
+            "process"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "Before we finish, Carlos, if you could share one lesson or piece of wisdom from your journey through music, what would it be?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "That's a big question, but I think if there's one thing I've learned, it's that music is more than just a career or a hobby—it's a lifelong companion. It's there during the highs and the lows, and it can teach you a lot about yourself if you let it. So my advice would be to embrace it in whatever form it comes to you, and don't be afraid to let it guide you through the twists and turns of life. It's about finding your voice, your sound, and letting it resonate with who you are.",
+      "sentence_annotations": [
+        {
+          "text": "That's a big question, but I think if there's one thing I've learned, it's that music is more than just a career or a hobby—it's a lifelong companion.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "wisdom",
+            "contentment"
+          ],
+          "entities": [
+            "music",
+            "career",
+            "hobby"
+          ]
+        },
+        {
+          "text": "It's there during the highs and the lows, and it can teach you a lot about yourself if you let it.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "insightful",
+            "appreciative"
+          ],
+          "entities": [
+            "music",
+            "self-discovery"
+          ]
+        },
+        {
+          "text": "So my advice would be to embrace it in whatever form it comes to you, and don't be afraid to let it guide you through the twists and turns of life.",
+          "life_stage": "Old Age",
+          "event_type": "Advice",
+          "emotions": [
+            "encouraging",
+            "thoughtful"
+          ],
+          "entities": [
+            "music",
+            "life"
+          ]
+        },
+        {
+          "text": "It's about finding your voice, your sound, and letting it resonate with who you are.",
+          "life_stage": "Old Age",
+          "event_type": "Advice",
+          "emotions": [
+            "empowering",
+            "reflective"
+          ],
+          "entities": [
+            "music",
+            "identity"
+          ]
+        }
+      ]
+    }
+  ]
+}

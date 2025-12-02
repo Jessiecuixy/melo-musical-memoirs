@@ -1,0 +1,427 @@
+{
+  "session_id": "46_Fiona",
+  "tone": "Talkative and Detailed (Eager to share every memory)",
+  "profile": {
+    "id": "46_Fiona",
+    "name": "Fiona",
+    "age": 74,
+    "role": "Potter",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "Living in a commune",
+        "context": "Art over money."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "The gallery fire",
+        "context": "Losing work."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Arthritis in hands",
+        "context": "Adapting technique."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your time living in a commune."
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Oh, that was quite an experience! I was in my late twenties, full of energy and idealism. The commune was located in the countryside, surrounded by rolling hills and endless fields. We were a group of about 20 people, all sharing the same vision of a self-sustained, community-focused lifestyle. We grew our own food, shared responsibilities, and spent our evenings discussing everything from philosophy to politics.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, that was quite an experience! I was in my late twenties, full of energy and idealism. The commune was located in the countryside, surrounded by rolling hills and endless fields. We were a group of about 20 people, all sharing the same vision of a self-sustained, community-focused lifestyle. We grew our own food, shared responsibilities, and spent our evenings discussing everything from philosophy to politics.",
+          "life_stage": "Youth",
+          "event_type": "Living in a commune",
+          "emotions": [
+            "nostalgia",
+            "enthusiasm"
+          ],
+          "entities": [
+            "commune",
+            "countryside",
+            "self-sustained lifestyle",
+            "philosophy",
+            "politics"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like a vibrant time. What brought you to join the commune in the first place?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Well, I was looking for something different, a way to live that felt more connected to nature and people. I had just finished art school and was feeling a bit disillusioned with the traditional career path that everyone seemed to expect. So, when a friend mentioned this commune, it seemed like the perfect escape and adventure. I remember arriving with just a backpack and my potter’s wheel, ready to embrace this new lifestyle.",
+      "sentence_annotations": [
+        {
+          "text": "I had just finished art school and was feeling a bit disillusioned with the traditional career path that everyone seemed to expect.",
+          "life_stage": "Youth",
+          "event_type": "Career Decision",
+          "emotions": [
+            "Disillusionment",
+            "Excitement"
+          ],
+          "entities": [
+            "Art School",
+            "Potter’s Wheel",
+            "Commune"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been quite a shift from art school. How did living in the commune influence your pottery?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "Oh, it was transformative! Being surrounded by nature had a profound impact on my work. I found myself inspired by the organic shapes and textures around me. I would spend hours outside, observing the play of light and shadow, which I tried to capture in my pieces. Plus, the communal spirit influenced my art as well. I started creating pieces that reflected our collective ideals—things like pottery that was practical for our shared meals and vessels that symbolized unity.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, it was transformative! Being surrounded by nature had a profound impact on my work.",
+          "life_stage": "Young Adult",
+          "event_type": "Artistic Development",
+          "emotions": [
+            "Inspired",
+            "Motivated"
+          ],
+          "entities": [
+            "Nature",
+            "Pottery"
+          ]
+        },
+        {
+          "text": "I started creating pieces that reflected our collective ideals—things like pottery that was practical for our shared meals and vessels that symbolized unity.",
+          "life_stage": "Young Adult",
+          "event_type": "Community Influence",
+          "emotions": [
+            "Connected",
+            "Purposeful"
+          ],
+          "entities": [
+            "Commune",
+            "Pottery"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "So when did things change?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Things really shifted when the gallery that exhibited our art caught fire. It was a devastating night. The gallery was not just a space for our art but a hub for our little community. I remember getting the call from a friend in the middle of the night. We all rushed over, but by the time we got there, the flames had already done their damage. I stood there, watching it burn, and it felt like a piece of my heart was being consumed by the fire. The gallery was where I displayed my pottery, and it was a crucial part of our livelihood. Seeing it reduced to ashes was heart-wrenching. That event marked a turning point for many of us at the commune.",
+      "sentence_annotations": [
+        {
+          "text": "Things really shifted when the gallery that exhibited our art caught fire. It was a devastating night.",
+          "life_stage": "Adulthood",
+          "event_type": "The gallery fire",
+          "emotions": [
+            "devastation",
+            "loss"
+          ],
+          "entities": [
+            "gallery",
+            "art",
+            "fire"
+          ]
+        },
+        {
+          "text": "The gallery was not just a space for our art but a hub for our little community.",
+          "life_stage": "Adulthood",
+          "event_type": "The gallery fire",
+          "emotions": [
+            "community",
+            "loss"
+          ],
+          "entities": [
+            "gallery",
+            "community"
+          ]
+        },
+        {
+          "text": "I remember getting the call from a friend in the middle of the night.",
+          "life_stage": "Adulthood",
+          "event_type": "The gallery fire",
+          "emotions": [
+            "shock",
+            "urgency"
+          ],
+          "entities": [
+            "call",
+            "friend",
+            "night"
+          ]
+        },
+        {
+          "text": "I stood there, watching it burn, and it felt like a piece of my heart was being consumed by the fire.",
+          "life_stage": "Adulthood",
+          "event_type": "The gallery fire",
+          "emotions": [
+            "heartbreak",
+            "helplessness"
+          ],
+          "entities": [
+            "fire",
+            "heart"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "That must have been hard. How did you and the community cope with the aftermath of the fire?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "It was incredibly challenging for all of us. The gallery was more than just a building; it was like a second home where our art, our dreams, and our sense of purpose were all tied together. After the fire, there was a sense of loss that was hard to shake. We had to support each other emotionally and find ways to rebuild, both our spirits and our livelihoods. For me, it was particularly tough because my pottery was my main source of income. I remember feeling quite lost and uncertain about the future. We organized fundraisers to gather some money to rebuild, but it was a slow and painful process. Some members of the commune decided to leave, feeling that it was time to move on. Personally, I stayed, determined to help reconstruct what we had lost. I poured my grief into my work, creating pieces that were more raw and emotional. It was a period of deep introspection, and I think it made me a stronger person in many ways.",
+      "sentence_annotations": [
+        {
+          "text": "The gallery was more than just a building; it was like a second home where our art, our dreams, and our sense of purpose were all tied together.",
+          "life_stage": "Adulthood",
+          "event_type": "The gallery fire",
+          "emotions": [
+            "loss",
+            "grief",
+            "determination"
+          ],
+          "entities": [
+            "gallery",
+            "community",
+            "art",
+            "livelihood"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "And how did this aftermath impact your personal journey, especially your work with pottery?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Well, after the fire, creating pottery became a form of therapy for me. Each piece I crafted was like a small step towards healing. I experimented with new techniques, pushing the boundaries of what I’d done before. It was during this period that I started incorporating more symbolic elements into my work—things that represented resilience and rebirth. I remember one series I created was entirely inspired by the concept of the phoenix rising from the ashes. It resonated with many people, not just within the commune but beyond, perhaps because we were all going through some form of personal rebirth after the tragedy. Financially, it was tough, and I had to be resourceful, sometimes trading my work for necessities. But it gave me a deeper appreciation for the art itself, rather than just seeing it as a means to earn a living.",
+      "sentence_annotations": [
+        {
+          "text": "Well, after the fire, creating pottery became a form of therapy for me. Each piece I crafted was like a small step towards healing.",
+          "life_stage": "Adulthood",
+          "event_type": "The gallery fire",
+          "emotions": [
+            "Resilience",
+            "Determination"
+          ],
+          "entities": [
+            "pottery",
+            "healing",
+            "phoenix"
+          ]
+        },
+        {
+          "text": "I experimented with new techniques, pushing the boundaries of what I’d done before.",
+          "life_stage": "Adulthood",
+          "event_type": "The gallery fire",
+          "emotions": [
+            "Creativity",
+            "Innovation"
+          ],
+          "entities": [
+            "new techniques",
+            "pottery"
+          ]
+        },
+        {
+          "text": "Financially, it was tough, and I had to be resourceful, sometimes trading my work for necessities.",
+          "life_stage": "Adulthood",
+          "event_type": "The gallery fire",
+          "emotions": [
+            "Struggle",
+            "Resourcefulness"
+          ],
+          "entities": [
+            "financial difficulties",
+            "trading"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "And when did you start noticing changes in your hands?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "Ah, that was a bit later in life. I was in my late fifties when I first noticed something wasn't quite right. At first, it was just a bit of stiffness in the morning, but over time, it became more persistent. I tried to ignore it, thinking it was just part of getting older, but it gradually started affecting my pottery work. There were days when I simply couldn't throw the wheel like I used to. It was frustrating, to say the least. Pottery had been my passion, my outlet, and suddenly, it felt like it was slipping away from me. It took a while to finally seek medical advice, and that's when I was diagnosed with arthritis. That was a tough pill to swallow.",
+      "sentence_annotations": [
+        {
+          "text": "Ah, that was a bit later in life. I was in my late fifties when I first noticed something wasn't quite right.",
+          "life_stage": "Old Age",
+          "event_type": "Health Issue",
+          "emotions": [
+            "reflective",
+            "frustrated"
+          ],
+          "entities": [
+            "arthritis",
+            "pottery"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "That must have been really challenging. How did you adapt to the changes brought on by arthritis?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Oh, it was quite an adjustment, to be honest. Initially, I felt quite defeated, like my hands were betraying me. Pottery had been such a central part of my identity for so long, and the thought of not being able to do it anymore was terrifying. But I decided I wasn't ready to give it up without a fight. I started experimenting with different techniques that required less strain on my hands, like hand-building instead of using the wheel. It was slower, but it allowed me to continue creating. I also began teaching pottery classes, which was a wonderful way to share my passion with others and keep my connection to the craft alive. Teaching brought a new dimension to my art, as seeing my students discover their own creativity reminded me of why I fell in love with pottery in the first place. It was a silver lining that I hadn't anticipated.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, it was quite an adjustment, to be honest.",
+          "life_stage": "Old Age",
+          "event_type": "Health Challenge",
+          "emotions": [
+            "challenged",
+            "defeated",
+            "determined"
+          ],
+          "entities": [
+            "arthritis",
+            "hands",
+            "pottery"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "And how do you feel looking back at everything now?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "Reflecting on my journey, I feel a deep sense of gratitude. Life has been a tapestry of experiences, some filled with joy and others with heartache, but each one has shaped me into who I am today. The times at the commune taught me about the beauty of community and resilience. The gallery fire, although devastating, pushed me to explore new depths in my art and in myself. And the challenge of arthritis forced me to adapt and find new ways to express my creativity. I'm proud of how I've navigated these hurdles, and even now, at 74, I continue to find inspiration in the world around me. I guess, despite everything, the potter's wheel is still turning, just in a different way.",
+      "sentence_annotations": [
+        {
+          "text": "Reflecting on my journey, I feel a deep sense of gratitude. Life has been a tapestry of experiences, some filled with joy and others with heartache, but each one has shaped me into who I am today.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "gratitude",
+            "contentment"
+          ],
+          "entities": [
+            "life journey",
+            "experiences",
+            "personal growth"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "Before we finish, Fiona, I'd love to ask, what lesson or wisdom would you like to share with others from your life experiences?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Oh, that's a thoughtful question. I suppose if there's one thing I've learned, it's the importance of resilience and adaptability. Life will throw unexpected challenges your way, and it's natural to feel discouraged at times. But I've found that it's in those moments of adversity that we discover our true strength. Whether it's living in a commune, dealing with the fire, or learning to adapt to arthritis, each experience taught me to be flexible and to find beauty in unexpected places. Embrace change, even when it's difficult. Lean on your community when you need support, and don't be afraid to reinvent yourself. Creativity is not just about art; it's about how we live our lives and face our challenges. Keep your heart open, and you'll always find a way forward.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, that's a thoughtful question. I suppose if there's one thing I've learned, it's the importance of resilience and adaptability.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Gratitude",
+            "Wisdom"
+          ],
+          "entities": [
+            "resilience",
+            "adaptability"
+          ]
+        },
+        {
+          "text": "Life will throw unexpected challenges your way, and it's natural to feel discouraged at times.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Understanding",
+            "Empathy"
+          ],
+          "entities": [
+            "challenges",
+            "discouragement"
+          ]
+        },
+        {
+          "text": "Whether it's living in a commune, dealing with the fire, or learning to adapt to arthritis, each experience taught me to be flexible and to find beauty in unexpected places.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Acceptance",
+            "Gratitude"
+          ],
+          "entities": [
+            "commune",
+            "fire",
+            "arthritis",
+            "flexibility",
+            "beauty"
+          ]
+        },
+        {
+          "text": "Embrace change, even when it's difficult. Lean on your community when you need support, and don't be afraid to reinvent yourself.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Encouragement",
+            "Hope"
+          ],
+          "entities": [
+            "change",
+            "community",
+            "reinvention"
+          ]
+        },
+        {
+          "text": "Creativity is not just about art; it's about how we live our lives and face our challenges. Keep your heart open, and you'll always find a way forward.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Inspiration",
+            "Hope"
+          ],
+          "entities": [
+            "creativity",
+            "challenges",
+            "open heart"
+          ]
+        }
+      ]
+    }
+  ]
+}

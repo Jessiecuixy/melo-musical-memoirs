@@ -1,0 +1,455 @@
+{
+  "session_id": "31_Maria",
+  "tone": "Melancholic and Slow-paced (Deep in thought)",
+  "profile": {
+    "id": "31_Maria",
+    "name": "Maria",
+    "age": 75,
+    "role": "Housekeeper",
+    "timeline": [
+      {
+        "stage": "Youth",
+        "topic": "Raising other's kids",
+        "context": "Sacrifice."
+      },
+      {
+        "stage": "Adulthood",
+        "topic": "Buying her own home",
+        "context": "Achievement."
+      },
+      {
+        "stage": "Old Age",
+        "topic": "Being visited by them",
+        "context": "Gratitude."
+      }
+    ]
+  },
+  "dialogue_turns": [
+    {
+      "turn_id": 1,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear about your time raising other people's kids. How did that come about?"
+    },
+    {
+      "turn_id": 2,
+      "speaker": "Subject",
+      "text": "Oh, that was a long time ago... I was just a young woman. I started when I was about nineteen, right after I finished school. I needed a job, and there was a family looking for someone to help with their children. At first, I thought it would be temporary, but it ended up lasting for many years. I really got to know those kids, watched them grow up.",
+      "sentence_annotations": [
+        {
+          "text": "I started when I was about nineteen, right after I finished school.",
+          "life_stage": "Youth",
+          "event_type": "Career Start",
+          "emotions": [
+            "Nostalgia",
+            "Melancholy"
+          ],
+          "entities": [
+            "job",
+            "family",
+            "children",
+            "nineteen"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 3,
+      "speaker": "Interviewer",
+      "text": "It sounds like you formed quite a bond with them. What was that experience like for you?"
+    },
+    {
+      "turn_id": 4,
+      "speaker": "Subject",
+      "text": "Yes, I did. It was like being part of their family, in a way. They relied on me, and I felt a great responsibility to care for them. Sometimes, it was hard because I had to be away from my own family. But seeing them grow and become their own people was rewarding. It taught me patience and understanding.",
+      "sentence_annotations": [
+        {
+          "text": "Yes, I did. It was like being part of their family, in a way.",
+          "life_stage": "Early Adulthood",
+          "event_type": "Employment and Work",
+          "emotions": [
+            "attachment",
+            "responsibility"
+          ],
+          "entities": [
+            "Family",
+            "Children"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 5,
+      "speaker": "Interviewer",
+      "text": "That must have been hard, being away from your family. How did you manage that?"
+    },
+    {
+      "turn_id": 6,
+      "speaker": "Subject",
+      "text": "Yes, it was challenging. I missed them a lot. But the family's kids also became a part of my life, so it was like I had an extended family. I managed by writing letters to my parents and siblings whenever I could. And on special occasions, I'd visit them. It wasn't easy, but the love from both sides made it bearable.",
+      "sentence_annotations": [
+        {
+          "text": "Yes, it was challenging. I missed them a lot.",
+          "life_stage": "Youth",
+          "event_type": "Emotional Struggle",
+          "emotions": [
+            "Sadness",
+            "Longing"
+          ],
+          "entities": [
+            "Family",
+            "Distance"
+          ]
+        },
+        {
+          "text": "But the family's kids also became a part of my life, so it was like I had an extended family.",
+          "life_stage": "Youth",
+          "event_type": "Bonding Experience",
+          "emotions": [
+            "Connection",
+            "Affection"
+          ],
+          "entities": [
+            "Extended Family",
+            "Children"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 7,
+      "speaker": "Interviewer",
+      "text": "So when did things change with that family?"
+    },
+    {
+      "turn_id": 8,
+      "speaker": "Subject",
+      "text": "Well, things started to change as the kids grew older. They didn’t need me as much anymore. The family had some changes too. The parents decided to move to another city for work, and they didn’t need a housekeeper any longer. It was a bittersweet moment. I was happy for them, but it also meant I had to find a new path.",
+      "sentence_annotations": [
+        {
+          "text": "Well, things started to change as the kids grew older.",
+          "life_stage": "Adulthood",
+          "event_type": "Job Transition",
+          "emotions": [
+            "Bittersweet",
+            "Reflective"
+          ],
+          "entities": [
+            "Family",
+            "Kids"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 9,
+      "speaker": "Interviewer",
+      "text": "I can imagine that must have been a big shift. So when did things change for you after that?"
+    },
+    {
+      "turn_id": 10,
+      "speaker": "Subject",
+      "text": "After they moved, I found myself with more time on my hands than I knew what to do with. It was a bit daunting at first, but it also gave me the opportunity to think about my own future for once. That's when I started considering buying my own home. I wanted a place that was truly mine, where I could settle and not have to move for someone else's needs.",
+      "sentence_annotations": [
+        {
+          "text": "I started considering buying my own home.",
+          "life_stage": "Adulthood",
+          "event_type": "Deciding to buy a home",
+          "emotions": [
+            "hopeful",
+            "introspective"
+          ],
+          "entities": [
+            "home",
+            "future",
+            "independence"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 11,
+      "speaker": "Interviewer",
+      "text": "I'd love to hear more about the challenges you faced while trying to buy your own home. What was that process like for you?"
+    },
+    {
+      "turn_id": 12,
+      "speaker": "Subject",
+      "text": "Ah, buying my own home was a real journey. I didn’t have much saved up, and I was nervous about taking on a mortgage. But I had this longing, you know, to have something that was just mine. It took a lot of careful saving and planning. I had to budget everything so strictly. I remember having to forego little luxuries just so I could save a bit more each month. It wasn’t easy, but I was determined.",
+      "sentence_annotations": [
+        {
+          "text": "Ah, buying my own home was a real journey. I didn’t have much saved up, and I was nervous about taking on a mortgage.",
+          "life_stage": "Adulthood",
+          "event_type": "Economic",
+          "emotions": [
+            "nervous",
+            "determined"
+          ],
+          "entities": [
+            "home",
+            "mortgage"
+          ]
+        },
+        {
+          "text": "But I had this longing, you know, to have something that was just mine.",
+          "life_stage": "Adulthood",
+          "event_type": "Personal desire",
+          "emotions": [
+            "longing",
+            "determined"
+          ],
+          "entities": [
+            "home"
+          ]
+        },
+        {
+          "text": "It took a lot of careful saving and planning. I had to budget everything so strictly.",
+          "life_stage": "Adulthood",
+          "event_type": "Financial Planning",
+          "emotions": [
+            "determined",
+            "focused"
+          ],
+          "entities": [
+            "saving",
+            "budget"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 13,
+      "speaker": "Interviewer",
+      "text": "That sounds like a lot of sacrifice. What were some of the biggest hurdles you faced during this time?"
+    },
+    {
+      "turn_id": 14,
+      "speaker": "Subject",
+      "text": "Oh, there were quite a few. The financial aspect was always a stressor. I had to be very disciplined with my money, which wasn't easy. But beyond that, it was the uncertainty that weighed on me. There were times when I doubted if I could actually do it, especially when unexpected expenses came up. Sometimes, I felt very alone in this journey because it was such a personal goal, and not many people around me understood it.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, there were quite a few. The financial aspect was always a stressor. I had to be very disciplined with my money, which wasn't easy. But beyond that, it was the uncertainty that weighed on me. There were times when I doubted if I could actually do it, especially when unexpected expenses came up. Sometimes, I felt very alone in this journey because it was such a personal goal, and not many people around me understood it.",
+          "life_stage": "Adulthood",
+          "event_type": "Buying a Home",
+          "emotions": [
+            "Stress",
+            "Determination",
+            "Loneliness"
+          ],
+          "entities": [
+            "financial discipline",
+            "mortgage",
+            "personal goal"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 15,
+      "speaker": "Interviewer",
+      "text": "That sounds like a lot to handle on your own. Did you have any support during this time?"
+    },
+    {
+      "turn_id": 16,
+      "speaker": "Subject",
+      "text": "Well, I had a few friends who would check in on me, offer a kind word or a bit of advice. But mostly, it was about me pushing through. I think the hardest part was staying motivated when it felt like I was just treading water. There were moments when I questioned if it was worth all the effort. But then, I’d remind myself of the dream – having my own place where I could see myself growing old. That kept me going.",
+      "sentence_annotations": [
+        {
+          "text": "Well, I had a few friends who would check in on me, offer a kind word or a bit of advice. But mostly, it was about me pushing through. I think the hardest part was staying motivated when it felt like I was just treading water. There were moments when I questioned if it was worth all the effort. But then, I’d remind myself of the dream – having my own place where I could see myself growing old. That kept me going.",
+          "life_stage": "Adulthood",
+          "event_type": "Buying her own home",
+          "emotions": [
+            "Determination",
+            "Loneliness"
+          ],
+          "entities": [
+            "Friends",
+            "Home ownership"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 17,
+      "speaker": "Interviewer",
+      "text": "So when did you finally achieve that dream of owning your home?"
+    },
+    {
+      "turn_id": 18,
+      "speaker": "Subject",
+      "text": "It was quite a moment, let me tell you. When I finally got the keys, it felt surreal. All those years of saving and worrying finally paid off. I remember just standing in the empty living room, taking it all in. It was a small house, nothing fancy, but it was mine. The first night I spent there, it felt like I could finally breathe easy. I knew I had a place to call my own, a place where I could welcome others and perhaps one day, those kids I helped raise.",
+      "sentence_annotations": [
+        {
+          "text": "When I finally got the keys, it felt surreal. All those years of saving and worrying finally paid off.",
+          "life_stage": "Old Age",
+          "event_type": "Personal Achievement",
+          "emotions": [
+            "relief",
+            "satisfaction"
+          ],
+          "entities": [
+            "home ownership",
+            "personal milestone"
+          ]
+        },
+        {
+          "text": "The first night I spent there, it felt like I could finally breathe easy.",
+          "life_stage": "Old Age",
+          "event_type": "Personal Reflection",
+          "emotions": [
+            "contentment",
+            "peace"
+          ],
+          "entities": [
+            "home",
+            "personal space"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 19,
+      "speaker": "Interviewer",
+      "text": "Now that you have your own home, do you ever hear from those kids you helped raise?"
+    },
+    {
+      "turn_id": 20,
+      "speaker": "Subject",
+      "text": "Oh, yes, I do. It's funny how life comes full circle sometimes. Those kids, they're all grown up now, with families of their own. They come by every now and then to visit. It's always heartwarming to see them. I get to hear about their lives, their own kids. They've all turned out to be such wonderful individuals. It makes me proud, in a way, to know that I might have played a small part in their upbringing.",
+      "sentence_annotations": [
+        {
+          "text": "Oh, yes, I do. It's funny how life comes full circle sometimes. Those kids, they're all grown up now, with families of their own. They come by every now and then to visit.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "nostalgia",
+            "contentment"
+          ],
+          "entities": [
+            "kids",
+            "families",
+            "visits"
+          ]
+        },
+        {
+          "text": "It's always heartwarming to see them. I get to hear about their lives, their own kids. They've all turned out to be such wonderful individuals.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "pride",
+            "happiness"
+          ],
+          "entities": [
+            "kids",
+            "lives",
+            "individuals"
+          ]
+        },
+        {
+          "text": "It makes me proud, in a way, to know that I might have played a small part in their upbringing.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "pride",
+            "gratitude"
+          ],
+          "entities": [
+            "upbringing"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 21,
+      "speaker": "Interviewer",
+      "text": "That must be a lovely feeling, seeing them all grown up and visiting you. How does it feel to look back on everything now?"
+    },
+    {
+      "turn_id": 22,
+      "speaker": "Subject",
+      "text": "Well, it's a mix of emotions, really. There's a sense of fulfillment, knowing that I was able to achieve something for myself, like buying my own home. But there's also a sense of nostalgia when I think about those earlier years. The kids I raised, seeing them now, it's like seeing a part of my own life reflected back at me. They remind me of all those years spent caring for them, learning from them. I can't help but feel grateful for the experiences and the connections I made along the way. It's been quite a journey, and sometimes I find myself just sitting in my home, reflecting on how far I've come.",
+      "sentence_annotations": [
+        {
+          "text": "There's a sense of fulfillment, knowing that I was able to achieve something for myself, like buying my own home.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "fulfillment",
+            "gratitude",
+            "nostalgia"
+          ],
+          "entities": [
+            "home",
+            "kids",
+            "journey"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 23,
+      "speaker": "Interviewer",
+      "text": "It sounds like those visits from them must bring a lot of joy into your life. How do those visits typically go?"
+    },
+    {
+      "turn_id": 24,
+      "speaker": "Subject",
+      "text": "Oh, they do. Every visit is like a little reunion. We sit around the kitchen table, and they tell me about their lives, their children. I love hearing about their adventures and challenges. Sometimes they'll help me with things around the house, but mostly, it's about spending time together. It's like having my own family around.",
+      "sentence_annotations": [
+        {
+          "text": "Every visit is like a little reunion. We sit around the kitchen table, and they tell me about their lives, their children.",
+          "life_stage": "Old Age",
+          "event_type": "Reunion",
+          "emotions": [
+            "Joy",
+            "Nostalgia"
+          ],
+          "entities": [
+            "Kitchen table",
+            "Visits"
+          ]
+        },
+        {
+          "text": "It's like having my own family around.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Happiness",
+            "Contentment"
+          ],
+          "entities": [
+            "Family",
+            "Home"
+          ]
+        }
+      ]
+    },
+    {
+      "turn_id": 25,
+      "speaker": "Interviewer",
+      "text": "Before we finish, Maria, if you had to share one lesson from your journey, what would it be?"
+    },
+    {
+      "turn_id": 26,
+      "speaker": "Subject",
+      "text": "Ah, that's a good question. I think, if there's one thing I've learned, it's the importance of perseverance and believing in your dreams. Even when things seem tough or the path forward isn't clear, holding onto that vision can give you strength. Life has its challenges, but it's also filled with unexpected joys — those little moments that make everything worthwhile. And sometimes, you find your family in the most unexpected places. It's about cherishing the connections you make along the way.",
+      "sentence_annotations": [
+        {
+          "text": "Ah, that's a good question. I think, if there's one thing I've learned, it's the importance of perseverance and believing in your dreams. Even when things seem tough or the path forward isn't clear, holding onto that vision can give you strength. Life has its challenges, but it's also filled with unexpected joys — those little moments that make everything worthwhile. And sometimes, you find your family in the most unexpected places. It's about cherishing the connections you make along the way.",
+          "life_stage": "Old Age",
+          "event_type": "Reflection",
+          "emotions": [
+            "Gratitude",
+            "Nostalgia",
+            "Fulfillment"
+          ],
+          "entities": [
+            "Family",
+            "Home",
+            "Perseverance",
+            "Connections"
+          ]
+        }
+      ]
+    }
+  ]
+}
