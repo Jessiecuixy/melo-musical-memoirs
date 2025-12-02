@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 
 # Virtual environments
+.venv/
 venv/
 .env/
 
@@ -17,3 +18,8 @@ venv/
 
 # macOS
 .DS_Store
+
+models/
+*.pt
+*.bin
+*.safetensors
