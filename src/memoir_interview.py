@@ -59,7 +59,8 @@ def get_audio_input():
         recognizer.adjust_for_ambient_noise(source)
         audio = recognizer.listen(source)
     try:
-        text = recognizer.recognize_whisper(audio)
+        #text = recognizer.recognize_whisper(audio)
+        text = recognizer.recognize_google(audio)
         return text.strip()
     except sr.UnknownValueError:
         print("Sorry, could not understand audio.")
