@@ -13,9 +13,7 @@ import random
 import warnings
 warnings.filterwarnings("ignore")
 
-# ------------------------------
 # 1. MODELS AND INITIALIZATION
-# ------------------------------
 
 embedder = SentenceTransformer("all-MiniLM-L6-v2")
 nlp = spacy.load("en_core_web_sm")
@@ -37,9 +35,7 @@ SEED_EMBEDS = embedder.encode(SEED_ENVIRONMENTAL, convert_to_tensor=True)
 
 lastfm = load_dataset("Acervans/Lastfm-VADS")["train"]
 
-# ------------------------------
 # 2. ENVIRONMENT DETECTION
-# ------------------------------
 
 def extract_nouns(text):
     doc = nlp(text)
@@ -66,9 +62,7 @@ def detect_environment(text):
     normalized = set([w.split()[0] for w in emb] + [z.split()[0] for z in zsl])
     return list(normalized)
 
-# ------------------------------
 # 3. AMBIENCE LOOP
-# ------------------------------
 
 current_ambience_thread = None
 stop_ambience = False
@@ -99,9 +93,7 @@ def start_ambience_loop(urls):
     )
     current_ambience_thread.start()
 
-# ------------------------------
-# 4. DEEZER PREVIEW RESOLVER
-# ------------------------------
+# 4. DEEZER PREVIEW
 
 def get_top_n_deezer_previews(keyword, n=3):
     query = f"{keyword} ambient OR nature OR environment OR sound"
@@ -135,9 +127,7 @@ def play_music_once(url):
     if url:
         play_stream_once(url)
 
-# ------------------------------
 # 5. LASTFM-VADS TRACK MATCHING
-# ------------------------------
 
 def find_best_track(valence, arousal):
     best_dist = float("inf")
@@ -149,9 +139,7 @@ def find_best_track(valence, arousal):
             best = item
     return best
 
-# ------------------------------
 # 6. MAIN PIPELINE
-# ------------------------------
 
 def process_prompt(text, emotion_classifier):
     env_matches = detect_environment(text)
@@ -178,9 +166,7 @@ def process_prompt(text, emotion_classifier):
         "selected_music_track": music
     }
 
-# ------------------------------
-# 7. FINAL NARRATIVE SOUNDTRACK
-# ------------------------------
+# 7. FINAL MEMOIR SOUNDTRACK
 
 def play_final_soundtrack(music_track):
     track_name = music_track["track_name"]
